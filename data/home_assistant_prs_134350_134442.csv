@@ -1,0 +1,45 @@
+number,state,created_at,closed_at,merged_at,labels,author_login
+134352,closed,2024-12-31T16:10:43Z,2024-12-31T16:16:12Z,2024-12-31T16:16:12Z,cla-signed;cherry-picked;small-pr;integration: shelly;dependency;by-code-owner;Quality Scale: No score,chemelli74
+134354,closed,2024-12-31T16:31:14Z,2024-12-31T21:39:07Z,2024-12-31T21:39:07Z,cla-signed;small-pr;integration: opentherm_gw;bugfix;Quality Scale: No score,NoRi2909
+134359,closed,2024-12-31T17:57:11Z,2024-12-31T20:52:15Z,2024-12-31T20:52:15Z,core;cla-signed;integration: conversation;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: internal,synesthesiam
+134360,closed,2024-12-31T18:06:05Z,2024-12-31T19:04:42Z,2024-12-31T19:04:42Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: internal;integration: assist_pipeline,synesthesiam
+134363,closed,2024-12-31T19:27:30Z,2024-12-31T22:04:28Z,2024-12-31T22:04:28Z,core;cla-signed;cherry-picked;integration: frontend;small-pr;dependency;by-code-owner;Quality Scale: internal,bramkragten
+134366,closed,2024-12-31T20:13:18Z,2024-12-31T21:21:14Z,2024-12-31T21:21:14Z,cla-signed;small-pr;integration: russound_rio;dependency;by-code-owner;Quality Scale: silver,noahhusby
+134367,closed,2024-12-31T21:14:09Z,2024-12-31T21:49:29Z,2024-12-31T21:49:29Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+134368,closed,2024-12-31T21:21:56Z,2024-12-31T21:38:31Z,2024-12-31T21:38:31Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: platinum;integration: lamarzocco,zweckj
+134371,closed,2024-12-31T23:02:08Z,2025-04-03T17:05:39Z,,cla-signed;new-feature;has-tests;stale;Quality Scale: No score;integration: wyoming,gambrose
+134372,closed,2024-12-31T23:04:35Z,2025-01-17T11:03:52Z,2025-01-17T11:03:52Z,cla-signed;small-pr;new-feature;integration: russound_rio;has-tests;by-code-owner;Quality Scale: silver,noahhusby
+134373,closed,2024-12-31T23:18:42Z,2025-01-01T10:42:16Z,2025-01-01T10:42:16Z,integration: zabbix;cla-signed;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: legacy,kruton
+134376,closed,2025-01-01T00:56:50Z,2025-03-10T15:06:03Z,,core;cla-signed;docs-missing;new-feature;integration: sensor;has-tests;stale;Quality Scale: internal,jcgillespie
+134381,closed,2025-01-01T10:12:52Z,2025-01-01T11:09:15Z,2025-01-01T11:09:15Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: teslemetry,Bre77
+134382,closed,2025-01-01T10:14:05Z,2025-01-01T12:49:13Z,2025-01-01T12:49:13Z,cla-signed;integration: twinkly;code-quality;Quality Scale: No score,sVnsation
+134383,closed,2025-01-01T11:04:53Z,2025-01-01T12:00:14Z,2025-01-01T12:00:14Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: platinum;integration: lamarzocco,zweckj
+134385,closed,2025-01-01T11:20:39Z,2025-01-13T13:15:21Z,2025-01-13T13:15:21Z,cla-signed;small-pr;integration: generic;has-tests;by-code-owner;code-quality;Quality Scale: No score,davet2001
+134386,closed,2025-01-01T13:12:41Z,2025-03-01T19:26:05Z,2025-03-01T19:26:05Z,cla-signed;small-pr;new-feature;integration: simplisafe;Quality Scale: No score,clever-trevor
+134387,closed,2025-01-01T13:43:49Z,2025-01-01T15:01:02Z,2025-01-01T15:01:02Z,cla-signed;integration: velbus;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: No score,cereal2nd
+134390,closed,2025-01-01T15:14:48Z,2025-01-02T10:38:12Z,2025-01-02T10:38:12Z,cla-signed;cherry-picked;integration: gios;bugfix;Quality Scale: No score,krzysdabro
+134393,closed,2025-01-01T15:42:30Z,2025-01-01T15:55:41Z,2025-01-01T15:55:41Z,core;cla-signed;integration: mqtt;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score,jbouwh
+134394,closed,2025-01-01T15:51:34Z,2025-01-01T16:39:40Z,2025-01-01T16:39:40Z,cla-signed;integration: velbus;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: No score,cereal2nd
+134395,closed,2025-01-01T16:23:18Z,2025-02-19T18:37:37Z,2025-02-19T18:37:37Z,core;cla-signed;code-quality,arturpragacz
+134399,closed,2025-01-01T17:13:28Z,2025-01-02T10:04:23Z,2025-01-02T10:04:23Z,cla-signed;integration: neato;small-pr;bugfix;Quality Scale: No score,NoRi2909
+134402,closed,2025-01-01T18:17:20Z,2025-01-06T14:36:38Z,2025-01-06T14:36:38Z,cla-signed;small-pr;new-integration;integration: decorquip,starkillerOG
+134406,closed,2025-01-01T19:30:40Z,2025-01-04T12:06:50Z,,cla-signed;integration: velbus;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: No score,cereal2nd
+134409,closed,2025-01-01T20:23:42Z,2025-02-05T16:07:36Z,2025-02-05T16:07:35Z,cla-signed;integration: vesync;has-tests;by-code-owner;code-quality;Quality Scale: No score,cdnninja
+134410,closed,2025-01-01T20:59:53Z,2025-01-01T22:02:06Z,2025-01-01T22:02:06Z,cla-signed;small-pr;integration: sensibo;by-code-owner;bugfix;Quality Scale: No score,gjohansson-ST
+134412,closed,2025-01-01T21:23:16Z,2025-01-02T18:53:43Z,,cla-signed;small-pr;integration: sensibo;by-code-owner;bugfix;Quality Scale: No score,gjohansson-ST
+134414,closed,2025-01-01T22:20:19Z,2025-01-02T07:51:49Z,2025-01-02T07:51:49Z,cla-signed;cherry-picked;small-pr;integration: sql;by-code-owner;bugfix;Quality Scale: No score,gjohansson-ST
+134415,closed,2025-01-01T22:47:02Z,2025-01-02T06:31:54Z,2025-01-02T06:31:54Z,cla-signed;integration: mill;code-quality;Quality Scale: No score,gjohansson-ST
+134416,closed,2025-01-01T22:47:09Z,2025-01-02T07:45:06Z,2025-01-02T07:45:06Z,cla-signed;small-pr;dependency;dependency-bump;smash,cdce8p
+134419,closed,2025-01-01T23:45:44Z,2025-01-02T09:47:40Z,2025-01-02T09:47:40Z,cla-signed;integration: habitica;has-tests;by-code-owner;code-quality;Quality Scale: No score,tr4nt0r
+134420,closed,2025-01-01T23:50:44Z,2025-01-02T09:45:20Z,2025-01-02T09:45:20Z,cla-signed;new-feature;integration: sensibo;has-tests;by-code-owner;Quality Scale: No score,gjohansson-ST
+134422,closed,2025-01-02T00:02:10Z,2025-01-02T09:46:55Z,2025-01-02T09:46:55Z,cla-signed;small-pr;new-feature;integration: sensibo;by-code-owner;Quality Scale: No score,gjohansson-ST
+134424,closed,2025-01-02T01:02:55Z,2025-01-02T02:03:17Z,2025-01-02T02:03:17Z,core;cla-signed;integration: conversation;cherry-picked;small-pr;has-tests;dependency;by-code-owner;Quality Scale: internal,synesthesiam
+134425,closed,2025-01-02T02:19:43Z,2025-01-04T00:15:21Z,,cla-signed;small-pr;integration: vesync;by-code-owner;code-quality;Quality Scale: No score,cdnninja
+134426,closed,2025-01-02T02:59:10Z,2025-01-02T09:44:15Z,2025-01-02T09:44:15Z,cla-signed;integration: nest;small-pr;new-feature;has-tests;Quality Scale: No score,jbarreiros
+134427,closed,2025-01-02T04:11:58Z,2025-01-02T07:43:39Z,2025-01-02T07:43:39Z,cla-signed;integration: zha;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: No score,TheJulianJES
+134433,closed,2025-01-02T10:11:55Z,2025-01-02T11:00:29Z,2025-01-02T11:00:29Z,cla-signed;small-pr;dependency;dependency-bump;smash,cdce8p
+134434,closed,2025-01-02T10:18:54Z,2025-01-02T16:52:51Z,2025-01-02T16:52:51Z,core;cla-signed;integration: hassio;cherry-picked;small-pr;has-tests;bugfix;Quality Scale: internal,emontnemery
+134436,closed,2025-01-02T10:40:54Z,2025-01-02T11:40:10Z,2025-01-02T11:40:10Z,core;cla-signed;integration: hassio;cherry-picked;small-pr;by-code-owner;bugfix;integration: backup;Quality Scale: internal,emontnemery
+134440,closed,2025-01-02T11:00:48Z,2025-01-02T12:29:46Z,2025-01-02T12:29:46Z,cla-signed;cherry-picked;small-pr;by-code-owner;code-quality;integration: backup;Quality Scale: internal,emontnemery
+134441,closed,2025-01-02T11:07:22Z,2025-01-02T11:28:48Z,2025-01-02T11:28:48Z,cla-signed;small-pr;new-feature;has-tests;Quality Scale: No score;integration: apsystems,Thomas55555
+134442,open,2025-01-02T11:33:03Z,,,cla-signed;new-feature;integration: ecowitt;Quality Scale: No score,Thomas55555
