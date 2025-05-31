@@ -1,0 +1,1011 @@
+number,state,created_at,closed_at,merged_at,labels,author_login
+144309,closed,2025-05-06T07:12:05Z,2025-05-06T08:44:16Z,2025-05-06T08:44:16Z,cla-signed;small-pr;has-tests;integration: gdacs;code-quality;Quality Scale: No score,epenet
+144310,closed,2025-05-06T07:19:35Z,2025-05-06T08:41:57Z,2025-05-06T08:41:57Z,cla-signed;small-pr;code-quality;integration: geocaching;Quality Scale: No score,epenet
+144311,closed,2025-05-06T07:36:28Z,2025-05-06T07:55:57Z,2025-05-06T07:55:57Z,cla-signed;code-quality,epenet
+144312,closed,2025-05-06T07:47:58Z,2025-05-06T11:35:27Z,2025-05-06T11:35:27Z,cla-signed;code-quality,epenet
+144313,closed,2025-05-06T07:54:31Z,2025-05-06T08:05:12Z,2025-05-06T08:05:12Z,cla-signed;small-pr;integration: telegram;code-quality;Quality Scale: legacy,epenet
+144314,closed,2025-05-06T08:27:21Z,2025-05-06T08:33:58Z,2025-05-06T08:33:58Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144316,closed,2025-05-06T09:37:47Z,2025-05-12T17:48:21Z,2025-05-12T17:48:21Z,core;cla-signed;integration: cloud;small-pr;new-feature;by-code-owner;Quality Scale: No score,ludeeus
+144318,closed,2025-05-06T09:51:40Z,2025-05-06T10:01:27Z,2025-05-06T10:01:27Z,cla-signed;cherry-picked;small-pr;has-tests;bugfix;Quality Scale: bronze;integration: s3,edenhaus
+144319,closed,2025-05-06T09:51:46Z,2025-05-06T09:58:25Z,2025-05-06T09:58:25Z,cla-signed;small-pr;has-tests;integration: geonetnz_quakes;code-quality;Quality Scale: No score,epenet
+144320,closed,2025-05-06T09:59:29Z,2025-05-06T10:06:00Z,2025-05-06T10:06:00Z,cla-signed;small-pr;has-tests;integration: geonetnz_volcano;code-quality;Quality Scale: No score,epenet
+144322,closed,2025-05-06T10:09:32Z,2025-05-06T10:14:47Z,2025-05-06T10:14:47Z,cla-signed;integration: gogogate2;code-quality;Quality Scale: No score,epenet
+144323,closed,2025-05-06T10:15:29Z,2025-05-18T17:59:19Z,2025-05-18T17:59:19Z,cla-signed;new-feature;by-code-owner;integration: yolink;Quality Scale: No score,matrixd2
+144324,closed,2025-05-06T10:17:21Z,2025-05-06T11:29:37Z,2025-05-06T11:29:37Z,cla-signed;cherry-picked;small-pr;has-tests;code-quality;quality-scale;integration: aws_s3,edenhaus
+144325,closed,2025-05-06T10:25:17Z,2025-05-06T14:04:12Z,2025-05-06T14:04:12Z,cla-signed;code-quality;integration: goodwe;Quality Scale: No score,epenet
+144326,closed,2025-05-06T10:39:59Z,2025-05-06T11:09:57Z,2025-05-06T11:09:56Z,cla-signed;integration: freebox;code-quality;Quality Scale: No score,epenet
+144327,closed,2025-05-06T11:29:07Z,2025-05-09T11:10:28Z,2025-05-09T11:10:28Z,new-platform;cla-signed;new-feature;by-code-owner;integration: zimi;Quality Scale: bronze,markhannon
+144328,closed,2025-05-06T11:31:36Z,2025-05-08T15:38:13Z,2025-05-08T15:38:13Z,breaking-change;cla-signed;small-pr;has-tests;integration: rtsp_to_webrtc;Quality Scale: No score,edenhaus
+144329,closed,2025-05-06T11:32:52Z,2025-05-15T08:12:18Z,2025-05-15T08:12:18Z,new-platform;cla-signed;new-feature;by-code-owner;integration: zimi;Quality Scale: bronze,markhannon
+144330,closed,2025-05-06T11:41:39Z,2025-05-19T12:24:25Z,2025-05-19T12:24:25Z,new-platform;cla-signed;new-feature;by-code-owner;integration: zimi;Quality Scale: bronze,markhannon
+144331,closed,2025-05-06T11:47:39Z,2025-05-06T14:55:04Z,2025-05-06T14:55:04Z,cla-signed;integration: google;code-quality;Quality Scale: No score,epenet
+144332,closed,2025-05-06T12:06:09Z,2025-05-06T13:20:18Z,2025-05-06T13:20:18Z,core;cla-signed;integration: google_assistant;small-pr;has-tests;code-quality;Quality Scale: No score,epenet
+144333,closed,2025-05-06T12:14:43Z,2025-05-06T12:49:47Z,2025-05-06T12:49:47Z,cla-signed;cherry-picked;small-pr;dependency,agners
+144334,closed,2025-05-06T12:18:49Z,2025-05-06T13:54:42Z,2025-05-06T13:54:42Z,cla-signed;cherry-picked;has-tests;code-quality;Quality Scale: bronze;integration: aws_s3,edenhaus
+144335,closed,2025-05-06T12:19:17Z,2025-05-06T13:52:01Z,2025-05-06T13:52:01Z,cla-signed;code-quality;Quality Scale: No score;integration: google_assistant_sdk,epenet
+144337,closed,2025-05-06T12:46:17Z,2025-05-09T08:04:11Z,2025-05-09T08:04:11Z,cla-signed;code-quality;integration: hardware;Quality Scale: internal,epenet
+144338,closed,2025-05-06T13:09:48Z,2025-05-06T13:26:45Z,2025-05-06T13:26:45Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144340,closed,2025-05-06T13:24:23Z,2025-05-06T17:16:14Z,2025-05-06T17:16:14Z,cla-signed;small-pr;has-tests;integration: here_travel_time;code-quality;smash;Quality Scale: No score,epenet
+144341,closed,2025-05-06T13:35:28Z,2025-05-07T11:05:56Z,2025-05-07T11:05:56Z,core;cla-signed;integration: cloud;small-pr;dependency;by-code-owner;Quality Scale: No score,ludeeus
+144343,closed,2025-05-06T13:51:28Z,2025-05-06T14:57:11Z,2025-05-06T14:57:11Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144344,closed,2025-05-06T14:10:10Z,2025-05-06T14:16:16Z,2025-05-06T14:16:16Z,cla-signed;code-quality;integration: guardian;Quality Scale: No score,epenet
+144345,closed,2025-05-06T14:36:25Z,2025-05-06T15:32:35Z,2025-05-06T15:32:35Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: bluemaestro;Quality Scale: No score,bdraco
+144346,closed,2025-05-06T15:02:08Z,2025-05-07T07:30:40Z,2025-05-07T07:30:40Z,core;cla-signed;integration: config;integration: http;small-pr;by-code-owner;code-quality;integration: repairs;Quality Scale: internal,emontnemery
+144347,closed,2025-05-06T15:19:55Z,2025-05-06T17:30:48Z,2025-05-06T17:30:48Z,core;cla-signed;integration: mqtt;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: platinum,jbouwh
+144348,closed,2025-05-06T16:37:41Z,2025-05-06T17:13:52Z,2025-05-06T17:13:52Z,cla-signed;small-pr;integration: esphome;dependency;by-code-owner;Quality Scale: platinum,bdraco
+144350,closed,2025-05-06T17:32:55Z,2025-05-07T15:19:50Z,,core;cla-signed;integration: cloud;by-code-owner;bugfix;Quality Scale: No score,balloob
+144351,closed,2025-05-06T17:37:58Z,2025-05-06T19:24:32Z,2025-05-06T19:24:32Z,core;integration: media_player;cla-signed;cherry-picked;small-pr;has-tests;bugfix;Quality Scale: internal,balloob
+144354,closed,2025-05-06T18:47:49Z,2025-05-06T19:24:09Z,2025-05-06T19:24:09Z,core;cla-signed;cherry-picked;integration: frontend;small-pr;dependency;by-code-owner;Quality Scale: internal,bramkragten
+144355,closed,2025-05-06T20:26:05Z,2025-05-07T07:24:52Z,2025-05-07T07:24:52Z,core;cla-signed;integration: mqtt;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: platinum,jbouwh
+144357,closed,2025-05-06T21:07:38Z,2025-05-14T09:44:59Z,2025-05-14T09:44:59Z,cla-signed;cherry-picked;integration: homematicip_cloud;has-tests;by-code-owner;bugfix;Quality Scale: No score,hahn-th
+144361,closed,2025-05-07T00:55:15Z,2025-05-09T08:04:43Z,2025-05-09T08:04:43Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: No score;integration: teslemetry,Bre77
+144362,open,2025-05-07T02:17:06Z,,,cla-signed;small-pr;integration: tuya;bugfix;Quality Scale: No score,mjc0608
+144363,closed,2025-05-07T03:25:00Z,2025-05-07T04:23:07Z,2025-05-07T04:23:07Z,cla-signed;small-pr;integration: nexia;dependency;smash;Quality Scale: No score,jrhillery
+144364,closed,2025-05-07T04:06:42Z,2025-05-09T11:16:55Z,2025-05-09T11:16:55Z,cla-signed;new-feature;by-code-owner;Quality Scale: No score;integration: teslemetry,Bre77
+144365,closed,2025-05-07T04:57:24Z,2025-05-14T10:21:45Z,2025-05-14T10:21:45Z,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: No score;integration: teslemetry,Bre77
+144366,closed,2025-05-07T05:28:49Z,2025-05-07T06:44:56Z,2025-05-07T06:44:56Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: renault;Quality Scale: silver,epenet
+144367,closed,2025-05-07T05:46:45Z,2025-05-08T21:47:24Z,2025-05-08T21:47:24Z,cla-signed;integration: hive;code-quality;Quality Scale: No score,epenet
+144368,closed,2025-05-07T05:51:05Z,2025-05-07T08:47:36Z,2025-05-07T08:47:36Z,cla-signed;small-pr;code-quality;Quality Scale: No score;integration: hko,epenet
+144369,closed,2025-05-07T05:56:53Z,2025-05-07T07:11:31Z,2025-05-07T07:11:31Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: unifiprotect;Quality Scale: No score,RaHehl
+144370,closed,2025-05-07T06:05:58Z,2025-05-08T21:44:45Z,2025-05-08T21:44:45Z,cla-signed;small-pr;integration: hlk_sw16;code-quality;Quality Scale: No score,epenet
+144372,closed,2025-05-07T06:32:39Z,2025-05-07T07:13:14Z,2025-05-07T07:13:14Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144374,closed,2025-05-07T06:51:29Z,2025-05-07T11:09:43Z,2025-05-07T11:09:43Z,cla-signed;cherry-picked;small-pr;has-tests;dependency;by-code-owner;integration: devolo_home_control;Quality Scale: No score,Shutgun
+144376,closed,2025-05-07T07:43:59Z,2025-05-07T12:13:38Z,2025-05-07T12:13:38Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144378,closed,2025-05-07T07:51:14Z,2025-05-09T13:33:14Z,2025-05-09T13:33:14Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: devolo_home_network;Quality Scale: No score,Shutgun
+144379,closed,2025-05-07T07:57:32Z,2025-05-08T21:44:07Z,2025-05-08T21:44:06Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144380,closed,2025-05-07T08:00:37Z,2025-05-07T09:07:16Z,2025-05-07T09:07:16Z,core;cla-signed;integration: cloud;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: No score,ludeeus
+144381,closed,2025-05-07T08:08:00Z,2025-05-23T12:25:01Z,2025-05-23T12:25:00Z,core;cla-signed;integration: mqtt;new-feature;has-tests;by-code-owner;Quality Scale: platinum,jbouwh
+144384,closed,2025-05-07T09:21:00Z,2025-05-07T11:04:46Z,2025-05-07T11:04:46Z,cla-signed;cherry-picked;small-pr;dependency;Quality Scale: No score;integration: weheat,barryvdh
+144389,closed,2025-05-07T10:13:50Z,2025-05-07T10:32:27Z,2025-05-07T10:32:27Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144390,closed,2025-05-07T10:15:23Z,2025-05-07T10:37:53Z,2025-05-07T10:37:53Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+144392,closed,2025-05-07T10:22:07Z,2025-05-07T10:55:44Z,2025-05-07T10:55:44Z,cla-signed;cherry-picked;small-pr;integration: template;bugfix;Quality Scale: internal,MindFreeze
+144393,closed,2025-05-07T10:31:39Z,2025-05-07T11:00:19Z,2025-05-07T11:00:19Z,cla-signed;cherry-picked;small-pr;integration: smartthings;dependency;by-code-owner;Quality Scale: bronze,joostlek
+144394,closed,2025-05-07T10:33:35Z,2025-05-07T10:40:01Z,2025-05-07T10:40:01Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144395,closed,2025-05-07T10:43:07Z,2025-05-07T11:06:53Z,2025-05-07T11:06:53Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+144396,closed,2025-05-07T10:48:32Z,2025-05-07T10:55:28Z,2025-05-07T10:55:28Z,cla-signed;cherry-picked;small-pr;integration: melcloud;bugfix;Quality Scale: No score,joostlek
+144397,closed,2025-05-07T11:03:13Z,2025-05-07T12:36:28Z,2025-05-07T12:36:28Z,cla-signed;cherry-picked;small-pr;integration: ecovacs;dependency;by-code-owner;Quality Scale: No score,edenhaus
+144398,closed,2025-05-07T11:31:19Z,2025-05-07T12:14:40Z,2025-05-07T12:14:40Z,core;cla-signed;cherry-picked;integration: frontend;small-pr;dependency;by-code-owner;Quality Scale: internal,bramkragten
+144399,closed,2025-05-07T11:53:41Z,2025-05-07T12:08:17Z,2025-05-07T12:08:17Z,cla-signed;cherry-picked;small-pr;integration: template;bugfix;Quality Scale: internal,MindFreeze
+144400,closed,2025-05-07T12:16:35Z,2025-05-14T11:02:06Z,2025-05-14T11:02:06Z,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: miele,astrandb
+144402,closed,2025-05-07T12:44:27Z,2025-05-07T12:50:18Z,2025-05-07T12:50:18Z,cla-signed;small-pr;integration: samsungtv;by-code-owner;code-quality;Quality Scale: No score,epenet
+144404,closed,2025-05-07T13:35:26Z,2025-05-07T14:05:08Z,2025-05-07T14:05:08Z,core;cla-signed;integration: conversation;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: internal,synesthesiam
+144405,closed,2025-05-07T14:23:43Z,2025-05-08T18:02:24Z,2025-05-08T18:02:24Z,breaking-change;cla-signed;small-pr;integration: sabnzbd;has-tests;quality-scale;Quality Scale: bronze,joostlek
+144406,closed,2025-05-07T14:32:06Z,2025-05-07T17:13:54Z,2025-05-07T17:13:54Z,core;cla-signed;merging-to-master,frenck
+144408,closed,2025-05-07T15:13:02Z,2025-05-19T19:52:07Z,2025-05-19T19:52:06Z,cla-signed;small-pr;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+144410,closed,2025-05-07T15:16:04Z,2025-05-19T19:44:13Z,2025-05-19T19:44:13Z,cla-signed;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+144411,closed,2025-05-07T15:26:38Z,2025-05-07T19:48:40Z,2025-05-07T19:48:40Z,cla-signed;small-pr;integration: totalconnect;code-quality;Quality Scale: No score,NoRi2909
+144412,closed,2025-05-07T15:35:18Z,2025-05-07T16:06:47Z,2025-05-07T16:06:47Z,core;cla-signed;small-pr;integration: auth;code-quality;Quality Scale: internal,NoRi2909
+144413,closed,2025-05-07T15:37:11Z,2025-05-07T16:50:45Z,2025-05-07T16:50:45Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144414,closed,2025-05-07T16:13:09Z,2025-05-08T22:00:28Z,2025-05-08T22:00:28Z,cla-signed;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+144416,closed,2025-05-07T16:35:14Z,2025-05-07T16:53:38Z,2025-05-07T16:53:38Z,cla-signed;small-pr;integration: homekit_controller;code-quality;Quality Scale: No score,NoRi2909
+144417,closed,2025-05-07T16:52:47Z,2025-05-07T19:21:43Z,2025-05-07T19:21:43Z,cla-signed;small-pr;code-quality;Quality Scale: No score;integration: opower,NoRi2909
+144420,closed,2025-05-07T17:55:02Z,2025-05-07T18:11:42Z,2025-05-07T18:11:42Z,cla-signed;integration: tradfri;small-pr;code-quality;Quality Scale: No score,NoRi2909
+144421,closed,2025-05-07T17:57:58Z,2025-05-09T16:50:55Z,2025-05-09T16:50:55Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: silver;integration: roborock,Lash-L
+144422,closed,2025-05-07T18:03:21Z,2025-05-25T15:42:08Z,2025-05-25T15:42:07Z,cla-signed;new-integration;has-tests;quality-scale;integration: amazon_devices,chemelli74
+144423,closed,2025-05-07T18:08:28Z,2025-05-07T19:48:52Z,2025-05-07T19:48:52Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: platinum;integration: lamarzocco,zweckj
+144428,closed,2025-05-07T20:21:41Z,2025-05-07T20:28:08Z,2025-05-07T20:28:08Z,cla-signed;integration: isy994;small-pr;code-quality;Quality Scale: No score,NoRi2909
+144430,closed,2025-05-07T21:00:08Z,2025-05-22T10:53:08Z,2025-05-22T10:53:08Z,cla-signed;new-feature;has-tests;integration: matter;Quality Scale: No score,lboue
+144433,closed,2025-05-08T00:06:25Z,2025-05-08T08:00:32Z,2025-05-08T08:00:32Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: inkbird;Quality Scale: No score,bdraco
+144435,closed,2025-05-08T01:31:16Z,2025-05-08T22:41:15Z,2025-05-08T22:41:15Z,cla-signed;cherry-picked;small-pr;integration: homekit;has-tests;bugfix;Quality Scale: No score,tamwahba
+144437,closed,2025-05-08T03:02:38Z,2025-05-09T09:49:27Z,2025-05-09T09:49:27Z,cla-signed;cherry-picked;small-pr;integration: vesync;bugfix;Quality Scale: No score,DukeChocula
+144440,closed,2025-05-08T05:19:08Z,2025-05-08T21:52:43Z,2025-05-08T21:52:43Z,cla-signed;small-pr;integration: esphome;by-code-owner;code-quality;Quality Scale: platinum,jesserockz
+144443,closed,2025-05-08T06:20:49Z,2025-05-08T08:01:14Z,2025-05-08T08:01:14Z,cla-signed;small-pr;code-quality;Quality Scale: No score;integration: electrasmart,NoRi2909
+144444,closed,2025-05-08T06:36:09Z,2025-05-08T08:13:01Z,2025-05-08T08:13:01Z,cla-signed;integration: nest;small-pr;code-quality;Quality Scale: No score,NoRi2909
+144446,closed,2025-05-08T06:42:07Z,2025-05-08T07:59:58Z,2025-05-08T07:59:58Z,cla-signed;small-pr;code-quality;integration: subaru;Quality Scale: No score,NoRi2909
+144447,closed,2025-05-08T06:44:13Z,2025-05-08T07:58:30Z,2025-05-08T07:58:30Z,cla-signed;integration: august;small-pr;code-quality;Quality Scale: No score,NoRi2909
+144448,closed,2025-05-08T06:46:16Z,2025-05-08T07:58:16Z,2025-05-08T07:58:16Z,cla-signed;small-pr;integration: nextcloud;code-quality;Quality Scale: No score,NoRi2909
+144450,closed,2025-05-08T06:57:38Z,2025-05-08T07:58:07Z,2025-05-08T07:58:07Z,cla-signed;small-pr;integration: sense;code-quality;Quality Scale: No score,NoRi2909
+144454,closed,2025-05-08T07:41:30Z,2025-05-08T08:13:42Z,2025-05-08T08:13:42Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+144456,closed,2025-05-08T07:56:20Z,2025-05-08T08:12:23Z,2025-05-08T08:12:23Z,cla-signed;small-pr;new-feature;by-code-owner;integration: reolink;Quality Scale: platinum,starkillerOG
+144459,closed,2025-05-08T08:34:33Z,2025-05-08T09:59:20Z,2025-05-08T09:59:20Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144462,closed,2025-05-08T09:24:48Z,2025-05-08T12:28:57Z,2025-05-08T12:28:56Z,cla-signed;cherry-picked;small-pr;integration: point;by-code-owner;bugfix;Quality Scale: No score,fredrike
+144463,closed,2025-05-08T09:40:51Z,2025-05-09T08:39:00Z,2025-05-09T08:39:00Z,cla-signed;cherry-picked;small-pr;integration: fronius;by-code-owner;bugfix;Quality Scale: platinum,farmio
+144470,closed,2025-05-08T10:30:13Z,2025-05-08T14:46:41Z,2025-05-08T14:46:41Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144472,closed,2025-05-08T10:44:59Z,2025-05-08T14:46:00Z,2025-05-08T14:46:00Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144473,closed,2025-05-08T10:50:39Z,2025-05-08T14:45:26Z,2025-05-08T14:45:26Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144474,closed,2025-05-08T11:03:56Z,2025-05-08T13:46:25Z,,cla-signed;small-pr;new-feature;Quality Scale: bronze;integration: aws_s3,patrickvorgers
+144477,closed,2025-05-08T12:26:05Z,2025-05-09T09:54:28Z,,core;cla-signed;integration: mqtt;small-pr;new-feature;Quality Scale: platinum,mtgrosser
+144481,closed,2025-05-08T13:01:12Z,2025-05-26T14:38:42Z,2025-05-26T14:38:41Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: bronze;integration: miele,astrandb
+144483,closed,2025-05-08T13:29:15Z,2025-05-08T20:21:43Z,2025-05-08T20:21:43Z,cla-signed;small-pr;new-feature;has-tests;integration: zwave_js;Quality Scale: No score,MindFreeze
+144488,closed,2025-05-08T14:51:17Z,2025-05-26T19:40:13Z,2025-05-26T19:40:13Z,cla-signed;new-feature;integration: seventeentrack;Quality Scale: No score,Cerallin
+144491,closed,2025-05-08T15:53:21Z,2025-05-09T09:41:53Z,2025-05-09T09:41:53Z,cla-signed;small-pr;has-tests;code-quality;integration: matter;Quality Scale: No score,lboue
+144493,closed,2025-05-08T16:17:41Z,2025-05-08T19:03:42Z,2025-05-08T19:03:42Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144494,closed,2025-05-08T16:46:57Z,2025-05-08T20:36:23Z,2025-05-08T20:36:23Z,cla-signed;small-pr;dependency;by-code-owner;integration: nina;Quality Scale: No score,DeerMaximum
+144495,closed,2025-05-08T16:56:06Z,2025-05-08T20:30:36Z,2025-05-08T20:30:36Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;integration: backup;Quality Scale: internal,emontnemery
+144500,closed,2025-05-08T17:57:14Z,2025-05-08T18:41:05Z,2025-05-08T18:41:05Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144502,closed,2025-05-08T18:10:56Z,2025-05-08T19:55:04Z,2025-05-08T19:55:03Z,cla-signed;cherry-picked;small-pr;dependency;integration: forecast_solar;Quality Scale: No score,bdraco
+144505,closed,2025-05-08T18:37:58Z,2025-05-08T19:54:09Z,2025-05-08T19:54:09Z,cla-signed;small-pr;integration: homekit;code-quality;Quality Scale: No score,NoRi2909
+144506,closed,2025-05-08T19:09:43Z,2025-05-08T19:54:49Z,2025-05-08T19:54:49Z,cla-signed;cherry-picked;integration: fritzbox;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score,mib1185
+144507,closed,2025-05-08T19:22:18Z,2025-05-12T07:42:27Z,2025-05-12T07:42:27Z,cla-signed;small-pr;new-feature;by-code-owner;Quality Scale: bronze;integration: miele,astrandb
+144510,closed,2025-05-08T19:36:22Z,2025-05-08T19:57:21Z,2025-05-08T19:57:21Z,cla-signed;small-pr;integration: openweathermap;code-quality;Quality Scale: No score,wittypluck
+144511,closed,2025-05-08T19:55:10Z,2025-05-08T20:43:46Z,2025-05-08T20:43:45Z,core;cla-signed;cherry-picked;small-pr;integration: dnsip;dependency;Quality Scale: No score,bdraco
+144513,closed,2025-05-08T21:03:15Z,2025-05-09T16:47:18Z,2025-05-09T16:47:18Z,cla-signed;small-pr;new-feature;integration: openweathermap;Quality Scale: No score,wittypluck
+144514,closed,2025-05-08T21:09:14Z,2025-05-08T21:19:52Z,,cla-signed;small-pr;new-feature;Quality Scale: bronze;integration: aws_s3,aaronburt
+144515,closed,2025-05-08T21:09:50Z,2025-05-09T09:52:31Z,2025-05-09T09:52:31Z,cla-signed;new-feature;by-code-owner;Quality Scale: bronze;integration: miele,astrandb
+144518,closed,2025-05-08T22:07:59Z,2025-05-08T22:10:04Z,,cla-signed;small-pr;new-feature;Quality Scale: bronze;integration: aws_s3,awainer
+144519,closed,2025-05-08T22:22:03Z,2025-05-08T22:26:44Z,2025-05-08T22:26:44Z,cla-signed;small-pr;has-tests;code-quality;Quality Scale: internal;integration: voip,cdce8p
+144523,open,2025-05-09T00:53:59Z,,,cla-signed;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: No score;integration: teslemetry,Bre77
+144527,closed,2025-05-09T04:28:17Z,2025-05-09T09:40:56Z,2025-05-09T09:40:56Z,cla-signed;small-pr;integration: switchbot;dependency;Quality Scale: No score,zerzhang
+144529,closed,2025-05-09T06:00:45Z,2025-05-09T07:56:07Z,2025-05-09T07:56:07Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: backup;Quality Scale: internal,emontnemery
+144531,closed,2025-05-09T06:03:09Z,2025-05-09T07:55:32Z,2025-05-09T07:55:32Z,cla-signed;small-pr;by-code-owner;code-quality;integration: backup;Quality Scale: internal,emontnemery
+144532,closed,2025-05-09T06:11:26Z,2025-05-09T07:51:57Z,2025-05-09T07:51:57Z,github_actions;dependencies,dependabot[bot]
+144533,open,2025-05-09T06:23:55Z,,,cla-signed;small-pr;bugfix;integration: baf;Quality Scale: No score,dalymople
+144534,closed,2025-05-09T06:32:32Z,2025-05-26T19:50:28Z,2025-05-26T19:50:28Z,core;cla-signed;small-pr;has-tests;code-quality;Quality Scale: No score;integration: energyzero;integration: easyenergy,epenet
+144535,closed,2025-05-09T07:21:31Z,2025-05-09T16:44:43Z,2025-05-09T16:44:43Z,cla-signed;new-feature;by-code-owner;integration: yolink;Quality Scale: No score,matrixd2
+144537,closed,2025-05-09T07:28:35Z,2025-05-09T07:50:32Z,2025-05-09T07:50:32Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: bronze;integration: miele,astrandb
+144538,closed,2025-05-09T08:12:34Z,2025-05-09T10:16:54Z,2025-05-09T10:16:54Z,cla-signed;new-feature;integration: sma;has-tests;by-code-owner;Quality Scale: No score,erwindouna
+144539,closed,2025-05-09T08:15:50Z,2025-05-09T11:08:34Z,2025-05-09T11:08:34Z,core;breaking-change;integration: camera;cla-signed;small-pr;has-tests;by-code-owner;Quality Scale: internal,edenhaus
+144540,closed,2025-05-09T08:21:24Z,2025-05-09T08:55:42Z,2025-05-09T08:55:42Z,cla-signed;has-tests;code-quality;integration: hardware;Quality Scale: internal,epenet
+144541,closed,2025-05-09T08:28:34Z,2025-05-09T08:37:48Z,2025-05-09T08:37:48Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+144542,closed,2025-05-09T08:44:00Z,2025-05-09T08:48:47Z,,cla-signed;small-pr;new-feature;integration: ness_alarm;Quality Scale: legacy,Poshy163
+144543,open,2025-05-09T09:27:09Z,,,cla-signed;small-pr;new-feature;integration: ness_alarm;Quality Scale: legacy,Poshy163
+144544,open,2025-05-09T09:29:03Z,,,cla-signed;small-pr;new-feature;integration: nanoleaf;Quality Scale: No score,S33G
+144545,closed,2025-05-09T09:32:52Z,2025-05-11T17:38:53Z,2025-05-11T17:38:53Z,cla-signed;small-pr;integration: samsungtv;by-code-owner;code-quality;Quality Scale: No score,chemelli74
+144546,closed,2025-05-09T09:56:16Z,2025-05-09T15:14:03Z,2025-05-09T15:14:03Z,cla-signed;small-pr;integration: openweathermap;code-quality;Quality Scale: No score,wittypluck
+144547,closed,2025-05-09T10:05:11Z,2025-05-09T11:50:38Z,2025-05-09T11:50:38Z,core;breaking-change;integration: camera;cla-signed;small-pr;has-tests;by-code-owner;Quality Scale: internal,edenhaus
+144548,closed,2025-05-09T10:11:34Z,2025-05-09T10:44:37Z,2025-05-09T10:44:37Z,cla-signed;small-pr;integration: openweathermap;code-quality;Quality Scale: No score,wittypluck
+144549,closed,2025-05-09T10:13:55Z,2025-05-09T11:09:05Z,2025-05-09T11:09:05Z,core;cla-signed;cherry-picked;integration: frontend;small-pr;dependency;by-code-owner;Quality Scale: internal,bramkragten
+144550,closed,2025-05-09T10:36:24Z,2025-05-10T07:34:51Z,2025-05-10T07:34:51Z,new-platform;cla-signed;new-feature;integration: switchbot;has-tests;code-quality;noteworthy;Quality Scale: No score,zerzhang
+144551,closed,2025-05-09T10:40:32Z,2025-05-09T18:07:23Z,2025-05-09T18:07:23Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: bronze;integration: miele,astrandb
+144552,closed,2025-05-09T10:41:53Z,2025-05-26T13:06:33Z,2025-05-26T13:06:33Z,cla-signed;new-feature;integration: switchbot;has-tests;code-quality;Quality Scale: No score,zerzhang
+144554,closed,2025-05-09T10:54:52Z,2025-05-09T12:47:39Z,2025-05-09T12:47:39Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+144555,closed,2025-05-09T11:10:51Z,2025-05-09T20:55:09Z,2025-05-09T20:55:08Z,cla-signed;small-pr;integration: sma;has-tests;by-code-owner;code-quality;Quality Scale: No score,erwindouna
+144557,closed,2025-05-09T11:27:15Z,2025-05-09T13:15:09Z,2025-05-09T13:15:09Z,breaking-change;cla-signed;small-pr;integration: lcn;has-tests;Quality Scale: No score,edenhaus
+144558,closed,2025-05-09T11:29:44Z,2025-05-09T12:50:00Z,2025-05-09T12:50:00Z,core;cla-signed;cherry-picked;small-pr;bugfix,starkillerOG
+144559,closed,2025-05-09T11:33:49Z,2025-05-09T12:40:23Z,2025-05-09T12:40:23Z,core;breaking-change;cla-signed;small-pr,edenhaus
+144560,closed,2025-05-09T11:49:51Z,2025-05-09T12:34:55Z,2025-05-09T12:34:55Z,core;breaking-change;cla-signed;small-pr,edenhaus
+144561,closed,2025-05-09T11:57:53Z,2025-05-12T12:47:49Z,2025-05-12T12:47:49Z,core;breaking-change;integration: camera;cla-signed;small-pr;has-tests;by-code-owner;Quality Scale: internal,edenhaus
+144564,closed,2025-05-09T13:36:16Z,2025-05-09T15:03:41Z,2025-05-09T15:03:41Z,core;cla-signed;merging-to-master;has-tests,frenck
+144569,closed,2025-05-09T16:03:51Z,2025-05-09T16:46:33Z,2025-05-09T16:46:33Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+144571,closed,2025-05-09T16:20:34Z,2025-05-09T16:59:38Z,2025-05-09T16:59:38Z,core;cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: dhcp;Quality Scale: internal,bdraco
+144572,closed,2025-05-09T16:21:43Z,2025-05-09T16:40:56Z,2025-05-09T16:40:56Z,cla-signed;small-pr;has-tests;code-quality;integration: matter;Quality Scale: No score,lboue
+144574,closed,2025-05-09T17:16:59Z,2025-05-12T08:53:03Z,,core;cla-signed;small-pr;bugfix,kubax
+144577,closed,2025-05-09T17:45:53Z,2025-05-09T18:12:32Z,2025-05-09T18:12:32Z,cla-signed;small-pr;integration: aurora_abb_powerone;code-quality;Quality Scale: No score,NoRi2909
+144579,closed,2025-05-09T18:57:03Z,2025-05-09T19:06:07Z,2025-05-09T19:06:07Z,cla-signed;small-pr;integration: emulated_roku;code-quality;Quality Scale: No score,NoRi2909
+144581,closed,2025-05-09T19:18:21Z,2025-05-12T17:36:54Z,2025-05-12T17:36:54Z,cla-signed;small-pr;by-code-owner;code-quality;integration: ntfy;Quality Scale: bronze,tr4nt0r
+144583,closed,2025-05-09T20:13:56Z,2025-05-11T22:15:31Z,2025-05-11T22:15:31Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: reolink;Quality Scale: platinum,starkillerOG
+144584,closed,2025-05-09T21:20:34Z,2025-05-09T22:19:01Z,2025-05-09T22:19:01Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;integration: inkbird;Quality Scale: No score,bdraco
+144585,open,2025-05-09T21:24:39Z,,,cla-signed;has-tests;bugfix;Quality Scale: bronze;integration: miele,aturri
+144587,closed,2025-05-09T21:32:53Z,2025-05-09T22:54:36Z,2025-05-09T22:54:36Z,cla-signed;small-pr;code-quality;integration: adax;Quality Scale: No score,LazyTarget
+144588,closed,2025-05-09T22:04:24Z,2025-05-09T22:20:03Z,2025-05-09T22:20:03Z,cla-signed;small-pr;integration: nut;by-code-owner;code-quality;Quality Scale: No score,tdfountain
+144593,open,2025-05-09T23:51:06Z,,,cla-signed;small-pr;new-feature;has-tests;by-code-owner;integration: flick_electric;Quality Scale: No score,ZephireNZ
+144594,closed,2025-05-10T00:13:51Z,2025-05-10T07:37:29Z,,cla-signed;small-pr;Quality Scale: bronze;integration: aws_s3,serniko97
+144600,closed,2025-05-10T06:02:55Z,2025-05-10T07:44:55Z,2025-05-10T07:44:55Z,cla-signed;small-pr;integration: squeezebox;has-tests;code-quality;Quality Scale: No score,emontnemery
+144601,closed,2025-05-10T06:05:33Z,2025-05-11T15:33:09Z,2025-05-11T15:33:09Z,core;cla-signed;small-pr;code-quality,emontnemery
+144602,closed,2025-05-10T06:42:23Z,2025-05-15T07:26:40Z,,cla-signed;small-pr;dependency,sanjay900
+144603,closed,2025-05-10T07:12:54Z,2025-05-10T07:43:41Z,2025-05-10T07:43:41Z,cla-signed;small-pr;has-tests;code-quality;integration: matter;Quality Scale: No score,lboue
+144605,closed,2025-05-10T08:43:15Z,2025-05-10T08:54:11Z,2025-05-10T08:54:11Z,cla-signed;small-pr;integration: openweathermap;code-quality;Quality Scale: No score,wittypluck
+144606,closed,2025-05-10T08:45:40Z,2025-05-10T08:53:16Z,2025-05-10T08:53:16Z,breaking-change;cla-signed;small-pr;has-tests;by-code-owner;integration: home_connect;Quality Scale: No score,Diegorro98
+144607,closed,2025-05-10T08:54:21Z,2025-05-16T09:43:31Z,2025-05-16T09:43:31Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: bosch_alarm,sanjay900
+144608,closed,2025-05-10T09:01:25Z,2025-05-26T13:06:07Z,2025-05-26T13:06:07Z,cla-signed;small-pr;integration: switchbot;code-quality;Quality Scale: No score;quality-scale,zerzhang
+144609,closed,2025-05-10T09:17:49Z,2025-05-11T15:26:02Z,2025-05-11T15:26:02Z,cla-signed;small-pr;bugfix;Quality Scale: bronze;integration: miele,aturri
+144610,closed,2025-05-10T09:30:07Z,2025-05-26T19:02:27Z,2025-05-26T19:02:27Z,cla-signed;small-pr;by-code-owner;code-quality;integration: home_connect;Quality Scale: No score,Diegorro98
+144611,closed,2025-05-10T09:31:01Z,2025-05-12T19:11:12Z,2025-05-12T19:11:12Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;integration: home_connect;Quality Scale: No score,Diegorro98
+144616,closed,2025-05-10T10:41:02Z,2025-05-10T10:51:26Z,,cla-needed;new-feature;integration: telegram;config-flow;Quality Scale: legacy,hanwg
+144617,open,2025-05-10T11:19:09Z,,,cla-signed;integration: telegram_bot;new-feature;config-flow;Quality Scale: legacy,hanwg
+144618,closed,2025-05-10T11:23:11Z,2025-05-11T15:21:01Z,2025-05-11T15:21:01Z,cla-signed;small-pr;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144619,closed,2025-05-10T11:24:45Z,2025-05-14T04:10:47Z,2025-05-14T04:10:47Z,cla-signed;small-pr;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144620,closed,2025-05-10T11:26:00Z,2025-05-26T19:14:16Z,2025-05-26T19:14:16Z,cla-signed;small-pr;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144622,closed,2025-05-10T11:48:21Z,2025-05-26T19:16:11Z,2025-05-26T19:16:11Z,cla-signed;small-pr;integration: squeezebox;has-tests;by-code-owner;code-quality;Quality Scale: No score,pssc
+144624,closed,2025-05-10T15:41:35Z,2025-05-26T12:59:01Z,2025-05-26T12:59:01Z,cla-signed;by-code-owner;bugfix;integration: comelit;Quality Scale: bronze,chemelli74
+144626,closed,2025-05-10T15:48:58Z,2025-05-13T05:19:08Z,2025-05-13T05:19:07Z,cla-signed;small-pr;new-feature;integration: shelly;has-tests;by-code-owner;Quality Scale: No score,bieniu
+144627,closed,2025-05-10T16:40:56Z,2025-05-26T09:12:42Z,2025-05-26T09:12:42Z,core;cla-signed;integration: mqtt;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: platinum,jbouwh
+144628,open,2025-05-10T17:01:04Z,,,cla-signed;cla-error;new-feature;Quality Scale: bronze;integration: aws_s3,fvgarrel
+144630,closed,2025-05-10T17:20:53Z,2025-05-11T05:06:42Z,2025-05-11T05:06:42Z,cla-signed;small-pr;dependency,cdce8p
+144631,closed,2025-05-10T17:28:37Z,2025-05-10T20:11:33Z,2025-05-10T20:11:32Z,cla-signed;small-pr;code-quality,cdce8p
+144632,closed,2025-05-10T17:31:31Z,2025-05-11T11:53:42Z,2025-05-11T11:53:42Z,cla-signed;small-pr;integration: unifi;code-quality;Quality Scale: No score,NoRi2909
+144633,closed,2025-05-10T17:47:20Z,2025-05-11T11:53:21Z,2025-05-11T11:53:21Z,cla-signed;small-pr;integration: plaato;code-quality;Quality Scale: No score,NoRi2909
+144634,closed,2025-05-10T18:14:56Z,2025-05-10T18:23:52Z,2025-05-10T18:23:52Z,cla-signed;cherry-picked;small-pr;integration: enphase_envoy;has-tests;by-code-owner;bugfix;Quality Scale: platinum,catsmanac
+144635,closed,2025-05-10T18:28:05Z,2025-05-11T15:07:33Z,2025-05-11T15:07:33Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+144636,closed,2025-05-10T19:09:05Z,2025-05-11T10:58:56Z,2025-05-11T10:58:56Z,cla-signed;small-pr;integration: kraken;code-quality;Quality Scale: No score,NoRi2909
+144637,closed,2025-05-10T19:16:06Z,2025-05-11T10:58:04Z,2025-05-11T10:58:04Z,cla-signed;small-pr;integration: derivative;code-quality;Quality Scale: No score,NoRi2909
+144638,closed,2025-05-10T19:16:28Z,2025-05-11T10:57:44Z,2025-05-11T10:57:44Z,cla-signed;small-pr;integration: integration;code-quality;Quality Scale: internal,NoRi2909
+144639,closed,2025-05-10T19:16:31Z,2025-05-11T10:57:28Z,2025-05-11T10:57:28Z,cla-signed;small-pr;integration: filter;code-quality;Quality Scale: internal,NoRi2909
+144640,closed,2025-05-10T19:19:16Z,2025-05-11T10:20:30Z,2025-05-11T10:20:30Z,cla-signed;small-pr;integration: file;code-quality;Quality Scale: No score,NoRi2909
+144641,closed,2025-05-10T19:41:10Z,2025-05-11T11:07:35Z,2025-05-11T11:07:35Z,cla-signed;cherry-picked;small-pr;integration: enphase_envoy;dependency;by-code-owner;bugfix;Quality Scale: platinum,catsmanac
+144642,closed,2025-05-10T20:13:31Z,2025-05-11T03:59:02Z,2025-05-11T03:59:02Z,cla-signed;integration: google;cherry-picked;small-pr;dependency;by-code-owner;integration: local_calendar;Quality Scale: No score;Quality Scale: silver;integration: local_todo;integration: remote_calendar,allenporter
+144645,open,2025-05-10T20:58:47Z,,,cla-signed;new-feature;has-tests;integration: synology_srm;config-flow;Quality Scale: legacy,noriega3
+144646,closed,2025-05-10T21:05:46Z,2025-05-14T04:08:47Z,2025-05-14T04:08:47Z,cla-signed;small-pr;integration: jewish_calendar;has-tests;by-code-owner;bugfix;Quality Scale: No score,tsvi
+144647,closed,2025-05-10T21:47:40Z,2025-05-26T19:15:40Z,2025-05-26T19:15:40Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: aprilaire,chamberlain2007
+144650,closed,2025-05-10T23:24:15Z,2025-05-11T08:14:10Z,2025-05-11T08:14:10Z,cla-signed;small-pr;by-code-owner;code-quality;integration: ntfy;Quality Scale: bronze,tr4nt0r
+144659,closed,2025-05-11T07:45:46Z,2025-05-11T08:12:35Z,2025-05-11T08:12:35Z,cla-signed;small-pr;code-quality;integration: sia;Quality Scale: No score,NoRi2909
+144660,open,2025-05-11T07:52:46Z,,,cla-signed;code-quality;Quality Scale: No score;integration: linkplay;quality-scale,silamon
+144664,closed,2025-05-11T09:20:10Z,2025-05-11T19:05:43Z,2025-05-11T19:05:43Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: bronze;integration: miele,astrandb
+144666,closed,2025-05-11T10:06:59Z,2025-05-11T10:56:40Z,2025-05-11T10:56:40Z,cla-signed;cherry-picked;small-pr;dependency;Quality Scale: No score;integration: linkplay,silamon
+144670,closed,2025-05-11T11:47:26Z,2025-05-11T19:06:04Z,2025-05-11T19:06:04Z,cla-signed;integration: octoprint;cherry-picked;small-pr;bugfix;Quality Scale: No score,RubenNL
+144671,closed,2025-05-11T11:54:42Z,2025-05-11T15:00:44Z,2025-05-11T15:00:44Z,cla-signed;cherry-picked;small-pr;integration: workday;dependency;by-code-owner;Quality Scale: No score;Quality Scale: internal;integration: holiday,gjohansson-ST
+144672,closed,2025-05-11T11:57:07Z,2025-05-11T15:01:51Z,2025-05-11T15:01:51Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;integration: comelit;Quality Scale: bronze,chemelli74
+144674,closed,2025-05-11T12:29:10Z,2025-05-21T20:37:07Z,2025-05-21T20:37:07Z,cla-signed;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144675,closed,2025-05-11T12:57:49Z,2025-05-19T19:47:02Z,2025-05-19T19:47:02Z,cla-signed;cherry-picked;small-pr;integration: qnap;by-code-owner;bugfix;Quality Scale: No score,disforw
+144682,closed,2025-05-11T14:43:59Z,2025-05-11T19:00:22Z,2025-05-11T19:00:22Z,cla-signed;cherry-picked;small-pr;by-code-owner;code-quality;integration: comelit;Quality Scale: bronze,chemelli74
+144684,closed,2025-05-11T14:47:51Z,2025-05-12T07:39:30Z,2025-05-12T07:39:30Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: silver;integration: husqvarna_automower,Thomas55555
+144685,closed,2025-05-11T15:24:42Z,2025-05-11T15:44:27Z,2025-05-11T15:44:27Z,cla-signed;small-pr;integration: bmw_connected_drive;code-quality;Quality Scale: No score,NoRi2909
+144686,closed,2025-05-11T15:53:31Z,2025-05-11T18:30:19Z,2025-05-11T18:30:19Z,core;cla-signed;integration: mqtt;small-pr;code-quality;Quality Scale: platinum;code-owner-approved,NoRi2909
+144688,closed,2025-05-11T16:50:48Z,2025-05-11T18:59:23Z,2025-05-11T18:59:23Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: bronze;integration: miele,astrandb
+144689,open,2025-05-11T17:17:44Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: irm_kmi,jdejaegh
+144690,closed,2025-05-11T18:04:20Z,2025-05-11T18:58:13Z,2025-05-11T18:58:13Z,cla-signed;integration: alarmdecoder;small-pr;code-quality;Quality Scale: No score,NoRi2909
+144693,closed,2025-05-11T18:53:56Z,2025-05-11T19:15:13Z,2025-05-11T19:15:13Z,cla-signed;small-pr;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144696,closed,2025-05-11T19:17:26Z,2025-05-11T19:38:21Z,2025-05-11T19:38:21Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: internal;integration: assist_pipeline,balloob
+144697,closed,2025-05-11T19:26:35Z,2025-05-12T17:44:39Z,2025-05-12T17:44:39Z,core;cla-signed;integration: tts;small-pr;new-feature;has-tests;Quality Scale: internal,balloob
+144698,closed,2025-05-11T19:34:05Z,2025-05-23T15:40:54Z,2025-05-23T15:40:54Z,core;cla-signed;integration: mqtt;new-feature;has-tests;by-code-owner;Quality Scale: platinum,jbouwh
+144699,closed,2025-05-11T19:45:23Z,2025-05-14T06:07:39Z,2025-05-14T06:07:39Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: bronze;integration: miele,astrandb
+144700,closed,2025-05-11T20:24:41Z,2025-05-11T20:42:02Z,2025-05-11T20:42:02Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: bring,tr4nt0r
+144701,closed,2025-05-11T20:51:06Z,2025-05-12T05:25:44Z,2025-05-12T05:25:44Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: ntfy;Quality Scale: bronze,tr4nt0r
+144703,closed,2025-05-11T21:18:41Z,2025-05-12T01:01:21Z,2025-05-12T01:01:21Z,core;cla-signed;cherry-picked;small-pr;dependency,allenporter
+144704,closed,2025-05-11T21:37:59Z,2025-05-26T16:39:13Z,2025-05-26T16:39:13Z,cla-signed;small-pr;has-tests;dependency;integration: minecraft_server;Quality Scale: silver,PerchunPak
+144711,closed,2025-05-12T03:21:34Z,2025-05-12T16:15:06Z,2025-05-12T16:15:06Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: internal;integration: assist_pipeline,balloob
+144713,closed,2025-05-12T05:21:01Z,2025-05-12T07:37:57Z,2025-05-12T07:37:57Z,cla-signed;integration: google;cherry-picked;small-pr;dependency;by-code-owner;integration: local_calendar;Quality Scale: No score;Quality Scale: silver;integration: local_todo;integration: remote_calendar,allenporter
+144715,closed,2025-05-12T06:24:24Z,2025-05-12T07:13:23Z,2025-05-12T07:13:23Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144716,closed,2025-05-12T06:49:46Z,2025-05-12T13:35:07Z,2025-05-12T13:35:07Z,cla-signed;integration: velbus;small-pr;code-quality;Quality Scale: bronze,NoRi2909
+144717,closed,2025-05-12T07:18:39Z,2025-05-12T07:23:55Z,2025-05-12T07:23:55Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144718,closed,2025-05-12T07:53:40Z,2025-05-12T17:45:34Z,2025-05-12T17:45:34Z,cla-signed;integration: google;cherry-picked;small-pr;dependency;Quality Scale: No score,oyvindwe
+144719,closed,2025-05-12T08:22:16Z,2025-05-12T08:27:29Z,2025-05-12T08:27:29Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144720,closed,2025-05-12T08:24:33Z,2025-05-12T09:23:44Z,2025-05-12T09:23:44Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;integration: comelit;Quality Scale: bronze,chemelli74
+144722,closed,2025-05-12T08:39:37Z,2025-05-15T08:56:55Z,2025-05-15T08:56:54Z,cla-signed;cherry-picked;small-pr;integration: netgear;by-code-owner;bugfix;Quality Scale: No score,starkillerOG
+144723,closed,2025-05-12T09:06:13Z,2025-05-12T10:00:32Z,2025-05-12T10:00:32Z,core;cla-signed;integration: frontend;code-quality;Quality Scale: internal,emontnemery
+144724,closed,2025-05-12T09:09:36Z,2025-05-12T14:01:45Z,2025-05-12T14:01:45Z,core;cla-signed;integration: frontend;new-feature;has-tests;Quality Scale: internal,emontnemery
+144726,closed,2025-05-12T09:13:33Z,2025-05-12T09:36:22Z,2025-05-12T09:36:22Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144732,closed,2025-05-12T11:17:46Z,2025-05-12T16:59:39Z,2025-05-12T16:59:39Z,core;cla-signed;integration: cloud;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score,ludeeus
+144733,closed,2025-05-12T11:21:07Z,2025-05-13T11:11:50Z,,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: husqvarna_automower_ble,alistair23
+144734,open,2025-05-12T11:29:45Z,,,cla-signed;small-pr;integration: switchbot;has-tests;code-quality;Quality Scale: No score,joostlek
+144735,closed,2025-05-12T11:37:38Z,2025-05-12T11:45:21Z,2025-05-12T11:45:21Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144738,closed,2025-05-12T12:51:13Z,2025-05-12T19:18:55Z,2025-05-12T19:18:55Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144739,closed,2025-05-12T12:57:48Z,2025-05-12T13:38:31Z,2025-05-12T13:38:31Z,core;cla-signed;small-pr;code-quality,emontnemery
+144741,closed,2025-05-12T13:25:29Z,2025-05-12T13:51:22Z,2025-05-12T13:51:21Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144742,closed,2025-05-12T13:26:31Z,2025-05-12T22:03:37Z,2025-05-12T22:03:37Z,core;cla-signed;integration: sun;has-tests;code-quality;Quality Scale: internal,emontnemery
+144744,closed,2025-05-12T13:39:01Z,2025-05-12T14:54:22Z,2025-05-12T14:54:22Z,cla-signed;small-pr;integration: fronius;code-quality;Quality Scale: platinum;code-owner-approved,NoRi2909
+144746,closed,2025-05-12T14:32:04Z,2025-05-12T14:47:14Z,2025-05-12T14:47:14Z,cla-signed;small-pr;integration: shelly;code-quality;Quality Scale: No score,NoRi2909
+144747,closed,2025-05-12T14:49:42Z,2025-05-12T19:13:03Z,,cla-signed;small-pr;new-feature;has-tests;Quality Scale: silver;integration: mcp_server,dkolas
+144748,closed,2025-05-12T15:04:05Z,2025-05-12T17:12:49Z,2025-05-12T17:12:49Z,cla-signed;small-pr;integration: plaato;bugfix;Quality Scale: No score,NoRi2909
+144750,open,2025-05-12T16:43:36Z,,,cla-signed;small-pr;has-tests;code-quality;integration: airthings;Quality Scale: No score,HormCodes
+144751,closed,2025-05-12T16:49:18Z,2025-05-15T06:18:37Z,2025-05-15T06:18:37Z,cla-signed;new-feature;integration: template;has-tests;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144753,closed,2025-05-12T17:13:28Z,2025-05-12T17:45:03Z,2025-05-12T17:45:03Z,cla-signed;integration: knx;small-pr;dependency;by-code-owner;Quality Scale: No score,farmio
+144754,closed,2025-05-12T17:17:50Z,2025-05-12T17:37:45Z,2025-05-12T17:37:45Z,cla-signed;cherry-picked;small-pr;integration: plaato;code-quality;Quality Scale: No score,joostlek
+144755,closed,2025-05-12T17:53:55Z,2025-05-13T06:14:55Z,2025-05-13T06:14:55Z,cla-signed;small-pr;dependency;by-code-owner;integration: debugpy;Quality Scale: internal,frenck
+144756,closed,2025-05-12T18:03:57Z,2025-05-15T08:43:56Z,2025-05-15T08:43:56Z,cla-signed;new-feature;integration: template;by-code-owner;Quality Scale: internal,Petro31
+144757,closed,2025-05-12T18:06:31Z,2025-05-22T10:55:11Z,2025-05-22T10:55:11Z,cla-signed;has-tests;by-code-owner;bugfix;integration: home_connect;Quality Scale: No score,Diegorro98
+144758,closed,2025-05-12T18:12:48Z,2025-05-13T16:19:49Z,2025-05-13T16:19:49Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: bronze;integration: miele,astrandb
+144759,open,2025-05-12T18:19:03Z,,,core;cla-signed;code-quality,puddly
+144760,closed,2025-05-12T18:19:13Z,2025-05-12T19:28:40Z,2025-05-12T19:28:40Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: devolo_home_network;Quality Scale: No score,Shutgun
+144761,closed,2025-05-12T18:37:37Z,2025-05-19T13:01:41Z,2025-05-19T13:01:41Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: comelit;Quality Scale: bronze,chemelli74
+144763,open,2025-05-12T18:43:58Z,,,cla-signed;new-feature;integration: heos;has-tests;Quality Scale: platinum,RobertMe
+144767,closed,2025-05-12T19:37:09Z,2025-05-14T05:59:48Z,2025-05-14T05:59:48Z,core;cla-signed;small-pr;new-feature;integration: dhcp;noteworthy;Quality Scale: internal,davidrapan
+144768,closed,2025-05-12T19:47:37Z,2025-05-15T18:02:34Z,,cla-signed;new-integration;integration: greencell,mikegapinski
+144769,closed,2025-05-12T20:00:22Z,2025-05-12T22:00:17Z,2025-05-12T22:00:17Z,core;cla-signed;small-pr;dependency;integration: dhcp;Quality Scale: internal,davidrapan
+144770,closed,2025-05-12T20:13:05Z,2025-05-12T21:53:54Z,2025-05-12T21:53:54Z,cla-signed;small-pr;by-code-owner;code-quality;quality-scale;Quality Scale: bronze;integration: miele,astrandb
+144771,closed,2025-05-12T20:21:30Z,2025-05-16T10:58:28Z,2025-05-16T10:58:28Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+144773,closed,2025-05-12T20:31:50Z,2025-05-26T09:24:01Z,2025-05-26T09:24:01Z,cla-signed;small-pr;by-code-owner;code-quality;quality-scale;Quality Scale: bronze;integration: miele,astrandb
+144774,open,2025-05-12T20:38:59Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: leneda,fedus
+144775,closed,2025-05-12T20:57:11Z,2025-05-12T21:52:27Z,2025-05-12T21:52:27Z,cla-signed;small-pr;dependency,frenck
+144777,closed,2025-05-12T21:41:32Z,2025-05-13T06:05:33Z,2025-05-13T06:05:33Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: teslemetry,Bre77
+144778,closed,2025-05-12T22:04:12Z,2025-05-14T00:39:54Z,2025-05-14T00:39:54Z,cla-signed;small-pr;integration: esphome;has-tests;dependency;by-code-owner;Quality Scale: platinum,bdraco
+144780,open,2025-05-12T22:31:47Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: garni,fkiscd
+144787,closed,2025-05-13T05:33:36Z,2025-05-13T05:54:37Z,2025-05-13T05:54:37Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144792,closed,2025-05-13T06:22:25Z,2025-05-16T08:26:01Z,2025-05-16T08:26:01Z,core;cla-signed;integration: mqtt;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: platinum,jbouwh
+144793,open,2025-05-13T06:23:25Z,,,core;cla-signed;code-quality,emontnemery
+144794,closed,2025-05-13T06:39:32Z,2025-05-13T08:47:26Z,2025-05-13T08:47:26Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144800,closed,2025-05-13T07:25:16Z,2025-05-13T07:54:26Z,2025-05-13T07:54:26Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144803,closed,2025-05-13T08:29:06Z,2025-05-13T08:46:46Z,2025-05-13T08:46:46Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: azure_storage,zweckj
+144804,closed,2025-05-13T08:51:22Z,2025-05-13T16:20:43Z,2025-05-13T16:20:43Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144806,open,2025-05-13T09:08:23Z,,,core;cla-signed;small-pr;bugfix,akx
+144810,closed,2025-05-13T10:18:02Z,2025-05-14T05:57:33Z,2025-05-14T05:57:33Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144813,closed,2025-05-13T10:54:03Z,2025-05-13T11:12:00Z,2025-05-13T11:12:00Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144814,closed,2025-05-13T11:00:10Z,2025-05-26T19:44:46Z,2025-05-26T19:44:46Z,cla-signed;by-code-owner;code-quality;integration: devolo_home_network;Quality Scale: No score,Shutgun
+144816,closed,2025-05-13T11:08:22Z,2025-05-20T09:58:25Z,,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: husqvarna_automower_ble,alistair23
+144817,closed,2025-05-13T11:10:38Z,2025-05-13T13:21:56Z,2025-05-13T13:21:56Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: husqvarna_automower_ble,alistair23
+144818,closed,2025-05-13T11:24:37Z,2025-05-13T12:23:42Z,2025-05-13T12:23:42Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: azure_storage,zweckj
+144819,closed,2025-05-13T11:25:54Z,2025-05-21T15:18:34Z,2025-05-21T15:18:34Z,cla-signed;cherry-picked;small-pr;integration: matrix;code-quality;Quality Scale: legacy,TheOneValen
+144820,closed,2025-05-13T11:39:24Z,2025-05-13T12:02:07Z,2025-05-13T12:02:07Z,cla-signed;small-pr;integration: samsungtv;by-code-owner;code-quality;Quality Scale: No score,epenet
+144822,closed,2025-05-13T12:45:54Z,2025-05-18T20:33:27Z,2025-05-18T20:33:27Z,cla-signed;new-feature;bugfix;Quality Scale: bronze;integration: miele,generically-named
+144825,closed,2025-05-13T13:10:36Z,2025-05-14T04:04:38Z,2025-05-14T04:04:38Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+144827,open,2025-05-13T13:30:30Z,,,core;cla-signed;new-feature;has-tests;integration: zwave_js;Quality Scale: No score,emontnemery
+144828,closed,2025-05-13T13:32:12Z,2025-05-19T12:22:10Z,2025-05-19T12:22:10Z,cla-signed;small-pr;new-feature;integration: switchbot;has-tests;Quality Scale: No score,zerzhang
+144829,closed,2025-05-13T13:45:49Z,2025-05-13T16:16:06Z,2025-05-13T16:16:05Z,cla-signed;small-pr;integration: switchbot;code-quality;Quality Scale: No score,zerzhang
+144831,open,2025-05-13T13:54:29Z,,,cla-signed;cla-error;new-feature;integration: tuya;Quality Scale: No score,FredrikM97
+144832,closed,2025-05-13T14:15:13Z,2025-05-13T18:53:08Z,2025-05-13T18:53:08Z,core;cla-signed;integration: sun;small-pr;code-quality;Quality Scale: internal,emontnemery
+144833,closed,2025-05-13T14:41:35Z,2025-05-15T17:47:19Z,,core;cla-signed;new-feature;has-tests,kdehairy
+144834,closed,2025-05-13T14:45:02Z,2025-05-15T09:46:57Z,2025-05-15T09:46:57Z,cla-signed;new-feature;integration: template;has-tests;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144835,open,2025-05-13T14:49:54Z,,,cla-signed;new-feature;integration: tuya;Quality Scale: No score,FredrikM97
+144836,closed,2025-05-13T15:07:23Z,2025-05-18T15:23:22Z,2025-05-18T15:23:22Z,cla-signed;cherry-picked;small-pr;by-code-owner;code-quality;bugfix;Quality Scale: No score;integration: wmspro,mback2k
+144837,closed,2025-05-13T17:05:00Z,2025-05-13T20:57:15Z,2025-05-13T20:57:15Z,core;cla-signed;new-feature,abmantis
+144839,open,2025-05-13T17:47:49Z,,,core;cla-signed;integration: config;new-feature;has-tests;Quality Scale: internal,balloob
+144842,closed,2025-05-13T19:50:30Z,2025-05-14T23:39:00Z,2025-05-14T23:39:00Z,cla-signed;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144843,closed,2025-05-13T19:51:11Z,2025-05-15T13:46:00Z,2025-05-15T13:46:00Z,cla-signed;new-feature;integration: template;has-tests;by-code-owner;Quality Scale: internal,Petro31
+144844,closed,2025-05-13T20:06:16Z,2025-05-13T20:47:22Z,2025-05-13T20:47:21Z,cla-signed;small-pr;integration: incomfort;code-quality;Quality Scale: platinum;code-owner-approved,NoRi2909
+144845,closed,2025-05-13T20:09:17Z,2025-05-14T10:21:27Z,2025-05-14T10:21:27Z,cla-signed;integration: influxdb;small-pr;dependency;Quality Scale: legacy,RobBie1221
+144848,open,2025-05-13T23:11:06Z,,,cla-signed;has-tests;by-code-owner;integration: amberelectric;Quality Scale: No score,madpilot
+144849,closed,2025-05-13T23:56:09Z,2025-05-14T09:42:43Z,2025-05-14T09:42:43Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: bronze;integration: snoo,Lash-L
+144852,closed,2025-05-14T03:57:11Z,2025-05-14T09:42:22Z,2025-05-14T09:42:22Z,cla-signed;integration: google;cherry-picked;small-pr;dependency;by-code-owner;integration: local_calendar;Quality Scale: No score;Quality Scale: silver;integration: local_todo;integration: remote_calendar,allenporter
+144853,open,2025-05-14T05:04:19Z,,,core;cla-signed;has-tests;code-quality,jbouwh
+144854,closed,2025-05-14T05:41:52Z,2025-05-14T06:37:51Z,2025-05-14T06:37:51Z,cla-signed;small-pr;code-quality,Swamp-Ig
+144855,closed,2025-05-14T05:46:35Z,2025-05-14T06:08:25Z,2025-05-14T06:08:25Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score;integration: teslemetry,Bre77
+144856,closed,2025-05-14T06:08:05Z,2025-05-14T09:43:14Z,2025-05-14T09:43:14Z,github_actions;dependencies,dependabot[bot]
+144857,closed,2025-05-14T06:10:54Z,2025-05-21T20:23:04Z,2025-05-21T20:23:04Z,cla-signed;cherry-picked;small-pr;integration: esphome;by-code-owner;code-quality;Quality Scale: platinum,bdraco
+144858,open,2025-05-14T06:15:00Z,,,core;cla-signed;small-pr;new-feature;has-tests;integration: airthings;integration: airzone;Quality Scale: No score;Quality Scale: silver;integration: roborock;integration: wmspro,epenet
+144861,closed,2025-05-14T07:02:52Z,2025-05-14T08:01:14Z,2025-05-14T08:01:14Z,cla-signed;small-pr;integration: plugwise;code-quality;Quality Scale: platinum;code-owner-approved,NoRi2909
+144864,closed,2025-05-14T07:35:06Z,2025-05-14T09:59:28Z,2025-05-14T09:59:28Z,cla-signed;small-pr;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+144865,closed,2025-05-14T07:35:34Z,2025-05-14T09:58:02Z,2025-05-14T09:58:01Z,cla-signed;small-pr;integration: samsungtv;has-tests;by-code-owner;code-quality;Quality Scale: No score,epenet
+144867,closed,2025-05-14T09:35:48Z,2025-05-14T10:24:46Z,2025-05-14T10:24:46Z,core;cla-signed;code-quality,epenet
+144868,closed,2025-05-14T09:47:29Z,2025-05-14T09:51:32Z,2025-05-14T09:51:32Z,cla-signed;small-pr;integration: ps4;code-quality;Quality Scale: No score,epenet
+144869,closed,2025-05-14T09:51:04Z,2025-05-14T09:58:29Z,2025-05-14T09:58:29Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+144870,closed,2025-05-14T09:55:58Z,2025-05-14T10:04:43Z,2025-05-14T10:04:43Z,cla-signed;integration: ps4;code-quality;Quality Scale: No score,epenet
+144871,closed,2025-05-14T10:16:17Z,2025-05-14T11:08:26Z,2025-05-14T11:08:26Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+144873,closed,2025-05-14T10:43:48Z,2025-05-14T12:31:41Z,2025-05-14T12:31:41Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: No score;integration: teslemetry,Bre77
+144874,open,2025-05-14T11:07:18Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: everhome,authclient
+144876,closed,2025-05-14T11:35:24Z,2025-05-14T11:40:38Z,2025-05-14T11:40:38Z,cla-signed;small-pr;new-feature;has-tests;Quality Scale: No score;integration: airgradient,edenhaus
+144877,open,2025-05-14T11:37:48Z,,,cla-signed;small-pr;bugfix;Quality Scale: No score;integration: husqvarna_automower_ble,CFenner
+144878,closed,2025-05-14T11:40:27Z,2025-05-14T12:30:46Z,2025-05-14T12:30:46Z,cla-signed;small-pr;integration: greeneye_monitor;code-quality;Quality Scale: legacy,epenet
+144879,open,2025-05-14T11:55:00Z,,,cla-signed;integration: knx;small-pr;by-code-owner;code-quality;Quality Scale: No score;quality-scale,farmio
+144880,closed,2025-05-14T11:58:46Z,2025-05-14T12:06:40Z,2025-05-14T12:06:40Z,cla-signed;has-tests;code-quality;integration: gree;Quality Scale: No score,epenet
+144881,closed,2025-05-14T12:09:10Z,2025-05-14T12:14:48Z,2025-05-14T12:14:48Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: bronze;integration: miele,astrandb
+144882,closed,2025-05-14T12:26:35Z,2025-05-14T12:30:02Z,2025-05-14T12:30:02Z,cla-signed;small-pr;integration: geofency;code-quality;Quality Scale: No score,epenet
+144883,closed,2025-05-14T12:27:18Z,2025-05-14T12:31:50Z,2025-05-14T12:31:50Z,cla-signed;small-pr;integration: gpslogger;code-quality;Quality Scale: No score,epenet
+144884,closed,2025-05-14T12:36:28Z,2025-05-14T12:59:11Z,2025-05-14T12:59:10Z,cla-signed;small-pr;integration: gpslogger;code-quality;Quality Scale: No score,epenet
+144885,open,2025-05-14T12:39:12Z,,,core;cla-signed;has-tests;integration: device_automation;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score;Quality Scale: internal,emontnemery
+144886,closed,2025-05-14T12:49:26Z,2025-05-14T21:13:37Z,2025-05-14T21:13:37Z,cla-signed;small-pr;integration: geofency;has-tests;code-quality;Quality Scale: No score,epenet
+144887,closed,2025-05-14T12:59:48Z,2025-05-14T13:54:40Z,2025-05-14T13:54:40Z,cla-signed;small-pr;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144888,closed,2025-05-14T13:00:20Z,2025-05-14T15:24:19Z,2025-05-14T15:24:19Z,cla-signed;small-pr;integration: device_automation;by-code-owner;code-quality;Quality Scale: internal,emontnemery
+144891,open,2025-05-14T13:34:47Z,,,cla-signed;new-feature;integration: pushover;Quality Scale: No score,gandy92
+144892,closed,2025-05-14T13:36:46Z,2025-05-14T21:14:02Z,2025-05-14T21:14:02Z,cla-signed;integration: homematicip_cloud;code-quality;Quality Scale: No score,epenet
+144895,closed,2025-05-14T14:10:18Z,2025-05-14T15:05:45Z,2025-05-14T15:05:45Z,cla-signed;integration: knx;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: No score,farmio
+144896,closed,2025-05-14T14:16:49Z,2025-05-14T14:46:37Z,2025-05-14T14:46:36Z,cla-signed;integration: rachio;code-quality;Quality Scale: No score,epenet
+144897,open,2025-05-14T14:35:57Z,,,cla-signed;new-integration;has-tests;integration: briiv,JWFIVE
+144898,open,2025-05-14T14:37:14Z,,,core;breaking-change;cla-signed;small-pr;has-tests,jbouwh
+144901,closed,2025-05-14T15:10:27Z,2025-05-14T15:14:57Z,2025-05-14T15:14:57Z,cla-signed;integration: apcupsd;small-pr;has-tests;code-quality;Quality Scale: No score,joostlek
+144903,closed,2025-05-14T15:11:28Z,2025-05-14T20:51:19Z,,cla-signed;small-pr;bugfix;integration: imeon_inverter;Quality Scale: bronze,JasonMahdjoub
+144905,closed,2025-05-14T15:49:13Z,2025-05-16T08:37:11Z,2025-05-16T08:37:11Z,cla-signed;cherry-picked;small-pr;bugfix;integration: home_connect;Quality Scale: No score,rjblake
+144906,open,2025-05-14T16:46:09Z,,,cla-signed;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+144907,closed,2025-05-14T16:53:18Z,2025-05-22T15:49:50Z,2025-05-22T15:49:50Z,cla-signed;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144908,closed,2025-05-14T16:56:32Z,2025-05-14T17:25:01Z,2025-05-14T17:25:01Z,cla-signed;cherry-picked;small-pr;integration: tibber;dependency;by-code-owner;bugfix;Quality Scale: No score,Danielhiversen
+144910,open,2025-05-14T17:40:41Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: idrive_e2,patrickvorgers
+144911,closed,2025-05-14T17:53:06Z,2025-05-14T18:46:29Z,2025-05-14T18:46:29Z,cla-signed;cherry-picked;small-pr;integration: mill;dependency;by-code-owner;bugfix;Quality Scale: No score,Danielhiversen
+144912,closed,2025-05-14T17:54:50Z,2025-05-14T21:05:30Z,2025-05-14T21:05:30Z,core;cla-signed;small-pr;code-quality,abmantis
+144914,closed,2025-05-14T18:07:36Z,2025-05-21T18:15:26Z,2025-05-21T18:15:26Z,cla-signed;has-tests;dependency;integration: wsdot;Quality Scale: legacy,ucodery
+144915,closed,2025-05-14T18:10:29Z,2025-05-14T18:45:59Z,2025-05-14T18:45:59Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;integration: eheimdigital;Quality Scale: bronze,autinerd
+144916,closed,2025-05-14T18:38:16Z,2025-05-18T09:00:22Z,2025-05-18T09:00:22Z,cla-signed;small-pr;bugfix;Quality Scale: bronze;integration: miele,aturri
+144918,closed,2025-05-14T19:23:37Z,2025-05-16T08:36:58Z,2025-05-16T08:36:58Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144919,closed,2025-05-14T19:47:52Z,2025-05-16T11:39:03Z,2025-05-16T11:39:03Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144920,closed,2025-05-14T20:04:26Z,2025-05-14T21:23:18Z,2025-05-14T21:23:18Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;code-quality;Quality Scale: bronze,joostlek
+144921,closed,2025-05-14T20:13:31Z,2025-05-14T21:23:40Z,,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144922,closed,2025-05-14T20:13:31Z,2025-05-23T21:43:58Z,,cla-signed;integration: telegram_bot;has-tests;bugfix;Quality Scale: legacy,saippuakauppias
+144923,closed,2025-05-14T20:31:03Z,2025-05-22T06:25:42Z,2025-05-22T06:25:42Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144924,closed,2025-05-14T20:44:28Z,2025-05-15T07:27:48Z,2025-05-15T07:27:48Z,cla-signed;cherry-picked;small-pr;integration: sensibo;has-tests;dependency;by-code-owner;bugfix;Quality Scale: platinum,gjohansson-ST
+144925,closed,2025-05-14T21:02:45Z,2025-05-26T19:13:47Z,2025-05-26T19:13:47Z,cla-signed;small-pr;has-tests;bugfix;integration: imeon_inverter;Quality Scale: bronze,JasonMahdjoub
+144926,closed,2025-05-14T21:03:43Z,2025-05-18T05:13:23Z,2025-05-18T05:13:23Z,cla-signed;small-pr;dependency;by-code-owner;integration: zimi;Quality Scale: bronze,markhannon
+144927,closed,2025-05-14T21:07:54Z,2025-05-15T15:42:39Z,2025-05-15T15:42:38Z,new-platform;cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144928,open,2025-05-14T22:04:14Z,,,cla-signed;integration: sonos;by-code-owner;code-quality;Quality Scale: No score;quality-scale,PeteRager
+144936,closed,2025-05-15T02:00:12Z,2025-05-15T02:01:30Z,,cla-signed;by-code-owner;Quality Scale: No score;integration: google_generative_ai_conversation,IvanLH
+144937,closed,2025-05-15T02:00:58Z,2025-05-26T01:50:55Z,2025-05-26T01:50:55Z,cla-signed;new-feature;by-code-owner;Quality Scale: No score;integration: google_generative_ai_conversation,IvanLH
+144939,closed,2025-05-15T02:11:16Z,2025-05-15T03:27:25Z,2025-05-15T03:27:25Z,cla-signed;small-pr;integration: esphome;has-tests;dependency;by-code-owner;Quality Scale: platinum,bdraco
+144940,closed,2025-05-15T04:26:02Z,2025-05-16T10:58:59Z,2025-05-16T10:58:59Z,cla-signed;cherry-picked;small-pr;integration: fronius;by-code-owner;bugfix;Quality Scale: platinum,farmio
+144942,closed,2025-05-15T05:39:57Z,2025-05-15T07:48:01Z,2025-05-15T07:48:01Z,cla-signed;small-pr;integration: emoncms;has-tests;by-code-owner;code-quality;Quality Scale: No score,alexandrecuer
+144944,closed,2025-05-15T06:04:30Z,2025-05-16T19:57:36Z,2025-05-16T19:57:36Z,cla-signed;integration: homeworks;code-quality;Quality Scale: No score,epenet
+144946,closed,2025-05-15T06:48:44Z,2025-05-16T12:35:47Z,2025-05-16T12:35:47Z,cla-signed;integration: hue;code-quality;Quality Scale: No score,epenet
+144947,closed,2025-05-15T07:09:46Z,2025-05-15T17:53:13Z,2025-05-15T17:53:13Z,cla-signed;integration: hue;small-pr;has-tests;bugfix;Quality Scale: No score,epenet
+144948,closed,2025-05-15T07:22:57Z,2025-05-15T14:07:53Z,2025-05-15T14:07:53Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: homeassistant_yellow;Quality Scale: No score,emontnemery
+144950,closed,2025-05-15T08:01:42Z,2025-05-16T19:45:11Z,2025-05-16T19:45:11Z,cla-signed;integration: hydrawise;code-quality;Quality Scale: No score,epenet
+144951,closed,2025-05-15T08:09:26Z,2025-05-19T08:58:02Z,2025-05-19T08:58:01Z,cla-signed;small-pr;integration: hvv_departures;code-quality;Quality Scale: No score,epenet
+144953,closed,2025-05-15T08:33:15Z,2025-05-19T08:57:23Z,2025-05-19T08:57:23Z,cla-signed;has-tests;code-quality;integration: huisbaasje;Quality Scale: No score,epenet
+144954,closed,2025-05-15T08:39:57Z,2025-05-16T08:38:17Z,2025-05-16T08:38:17Z,cla-signed;small-pr;has-tests;code-quality;integration: huisbaasje;Quality Scale: No score,epenet
+144955,closed,2025-05-15T08:43:25Z,2025-05-16T10:07:19Z,2025-05-16T10:07:19Z,cla-signed;code-quality;integration: huisbaasje;Quality Scale: No score,epenet
+144956,closed,2025-05-15T08:49:56Z,2025-05-16T09:59:11Z,2025-05-16T09:59:11Z,cla-signed;small-pr;integration: habitica;code-quality;Quality Scale: platinum;code-owner-approved,epenet
+144957,closed,2025-05-15T09:15:28Z,2025-05-15T11:46:16Z,2025-05-15T11:46:16Z,cla-signed;cherry-picked;small-pr;integration: ecovacs;dependency;by-code-owner;Quality Scale: No score,edenhaus
+144959,open,2025-05-15T09:58:24Z,,,cla-signed;small-pr;has-tests;bugfix;Quality Scale: No score;integration: tessie,Olle-Mineur
+144961,closed,2025-05-15T10:00:37Z,2025-05-15T18:50:48Z,2025-05-15T18:50:48Z,cla-signed;integration: isy994;has-tests;code-quality;Quality Scale: No score,epenet
+144962,closed,2025-05-15T10:43:25Z,2025-05-19T20:21:07Z,2025-05-19T20:21:07Z,cla-signed;small-pr;code-quality;Quality Scale: No score;integration: blue_current,NickKoepr
+144968,closed,2025-05-15T12:05:30Z,2025-05-22T15:18:48Z,2025-05-22T15:18:48Z,cla-signed;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144969,closed,2025-05-15T12:13:30Z,2025-05-15T13:50:46Z,2025-05-15T13:50:46Z,cla-signed;integration: iqvia;code-quality;Quality Scale: No score,epenet
+144970,closed,2025-05-15T12:18:35Z,2025-05-15T23:57:16Z,2025-05-15T23:57:16Z,cla-signed;cherry-picked;small-pr;integration: esphome;bugfix;Quality Scale: platinum;code-owner-approved,oddstr13
+144971,closed,2025-05-15T12:24:07Z,2025-05-18T21:37:06Z,2025-05-18T21:37:06Z,cla-signed;cherry-picked;small-pr;integration: squeezebox;has-tests;by-code-owner;bugfix;Quality Scale: No score,peteS-UK
+144972,closed,2025-05-15T12:30:22Z,2025-05-15T12:43:59Z,2025-05-15T12:43:59Z,cla-signed;integration: ipma;has-tests;code-quality;Quality Scale: No score,epenet
+144974,closed,2025-05-15T12:32:40Z,2025-05-22T15:50:15Z,2025-05-22T15:50:15Z,cla-signed;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144977,closed,2025-05-15T12:37:38Z,2025-05-15T12:43:35Z,2025-05-15T12:43:35Z,cla-signed;small-pr;has-tests;code-quality;integration: iotawatt;Quality Scale: No score,epenet
+144978,closed,2025-05-15T12:50:08Z,2025-05-22T15:33:57Z,2025-05-22T15:33:57Z,cla-signed;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144979,closed,2025-05-15T12:51:13Z,2025-05-15T12:57:26Z,2025-05-15T12:57:26Z,cla-signed;code-quality;integration: intellifire;Quality Scale: No score,epenet
+144980,closed,2025-05-15T13:22:54Z,2025-05-16T09:56:07Z,2025-05-16T09:56:07Z,cla-signed;integration: icloud;code-quality;Quality Scale: No score,epenet
+144982,closed,2025-05-15T13:37:45Z,2025-05-15T17:27:16Z,2025-05-15T17:27:16Z,core;cla-signed;small-pr;bugfix,Passific
+144983,closed,2025-05-15T13:59:26Z,2025-05-21T14:10:25Z,2025-05-21T14:10:25Z,cla-signed;small-pr;integration: lcn;dependency;by-code-owner;Quality Scale: No score,alengwenus
+144984,closed,2025-05-15T14:07:15Z,2025-05-15T15:48:02Z,2025-05-15T15:48:02Z,cla-signed;small-pr;has-tests;integration: iqvia;code-quality;Quality Scale: No score,epenet
+144986,closed,2025-05-15T14:51:17Z,2025-05-19T19:44:29Z,2025-05-19T19:44:29Z,cla-signed;small-pr;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+144987,open,2025-05-15T14:58:26Z,,,cla-signed;new-feature;integration: tuya;Quality Scale: No score,FredrikM97
+144988,closed,2025-05-15T15:14:52Z,2025-05-16T09:41:17Z,2025-05-16T09:41:17Z,cla-signed;integration: iaqualink;code-quality;Quality Scale: No score,epenet
+144989,closed,2025-05-15T15:16:47Z,2025-05-16T08:53:24Z,2025-05-16T08:53:24Z,cla-signed;small-pr;integration: iaqualink;code-quality;Quality Scale: No score,epenet
+144990,closed,2025-05-15T15:18:17Z,2025-05-22T15:50:26Z,2025-05-22T15:50:26Z,cla-signed;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+144991,closed,2025-05-15T15:29:48Z,2025-05-22T06:27:01Z,2025-05-22T06:27:01Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+144992,open,2025-05-15T15:54:49Z,,,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: miele,astrandb
+144996,closed,2025-05-15T17:07:05Z,2025-05-20T10:58:32Z,,new-platform;cla-signed;new-feature;has-tests;dependency;by-code-owner;integration: airq;Quality Scale: No score,Sibgatulin
+144998,closed,2025-05-15T18:16:10Z,2025-05-19T17:43:06Z,2025-05-19T17:43:06Z,core;cla-signed;integration: conversation;small-pr;new-feature;has-tests;Quality Scale: internal,balloob
+144999,closed,2025-05-15T18:31:50Z,2025-05-20T13:23:52Z,2025-05-20T13:23:52Z,core;cla-signed;integration: hassio;new-feature;has-tests;by-code-owner;integration: backup;Quality Scale: internal,emontnemery
+145000,closed,2025-05-15T19:18:25Z,2025-05-16T20:12:59Z,2025-05-16T20:12:59Z,cla-signed;small-pr;by-code-owner;code-quality;integration: reolink;Quality Scale: platinum,starkillerOG
+145001,open,2025-05-15T19:37:35Z,,,core;cla-signed;integration: group;small-pr;has-tests;bugfix;Quality Scale: internal,saippuakauppias
+145002,closed,2025-05-15T20:07:26Z,2025-05-16T00:34:55Z,2025-05-16T00:34:55Z,cla-signed;small-pr;by-code-owner;code-quality;integration: reolink;Quality Scale: platinum,starkillerOG
+145003,open,2025-05-15T20:10:54Z,,,cla-signed;integration: telegram_bot;small-pr;has-tests;bugfix;Quality Scale: legacy,saippuakauppias
+145004,open,2025-05-15T20:25:22Z,,,cla-signed;small-pr;integration: matter;Quality Scale: No score,lboue
+145005,open,2025-05-15T20:38:06Z,,,cla-signed;new-feature;by-code-owner;Quality Scale: No score;integration: wmspro,mback2k
+145006,closed,2025-05-15T21:07:34Z,2025-05-16T08:25:25Z,2025-05-16T08:25:25Z,cla-signed;integration: zha;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score,puddly
+145007,closed,2025-05-15T21:55:37Z,2025-05-19T08:14:22Z,2025-05-19T08:14:22Z,cla-signed;small-pr;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+145008,closed,2025-05-15T22:08:12Z,2025-05-16T10:08:34Z,2025-05-16T10:08:34Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145009,closed,2025-05-15T22:22:38Z,2025-05-19T11:44:25Z,,cla-needed;small-pr;new-feature;Quality Scale: bronze;integration: aws_s3,ne-ray
+145011,closed,2025-05-15T22:31:18Z,2025-05-16T08:47:23Z,2025-05-16T08:47:23Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;deprecation;Quality Scale: bronze,joostlek
+145012,closed,2025-05-15T22:36:58Z,2025-05-19T20:13:16Z,2025-05-19T20:13:16Z,cla-signed;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score;integration: teslemetry,Bre77
+145013,closed,2025-05-15T22:49:39Z,2025-05-26T17:40:29Z,2025-05-26T17:40:29Z,core;cla-signed;integration: sensor;has-tests;by-code-owner;bugfix;Quality Scale: internal,abmantis
+145018,closed,2025-05-16T03:29:00Z,2025-05-16T08:30:30Z,2025-05-16T08:30:30Z,cla-signed;small-pr;integration: switchbot;dependency;by-code-owner;Quality Scale: No score,zerzhang
+145019,open,2025-05-16T03:40:02Z,,,cla-signed;has-tests;integration: homeassistant_yellow;integration: homeassistant_sky_connect;Quality Scale: No score;integration: homeassistant_hardware,puddly
+145021,closed,2025-05-16T05:59:15Z,2025-05-16T08:28:57Z,2025-05-16T08:28:57Z,cla-signed;small-pr;integration: plugwise;dependency;by-code-owner;Quality Scale: platinum,bouwew
+145022,closed,2025-05-16T06:21:36Z,2025-05-16T07:42:25Z,2025-05-16T07:42:24Z,github_actions;dependencies,dependabot[bot]
+145023,closed,2025-05-16T06:21:40Z,2025-05-16T06:54:14Z,2025-05-16T06:54:14Z,github_actions;dependencies,dependabot[bot]
+145026,closed,2025-05-16T07:59:39Z,2025-05-16T08:27:59Z,2025-05-16T08:27:59Z,core;cla-signed;small-pr;code-quality;integration: select;Quality Scale: internal,autinerd
+145027,open,2025-05-16T08:45:51Z,,,cla-signed;small-pr;by-code-owner;code-quality;quality-scale;Quality Scale: bronze;integration: bosch_alarm,sanjay900
+145028,closed,2025-05-16T09:02:25Z,2025-05-16T09:26:22Z,2025-05-16T09:26:22Z,cla-signed;small-pr;by-code-owner;code-quality;quality-scale;Quality Scale: bronze;integration: bosch_alarm,sanjay900
+145030,closed,2025-05-16T09:42:06Z,2025-05-16T10:22:17Z,2025-05-16T10:22:17Z,cla-signed;small-pr;integration: smartthings;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145031,closed,2025-05-16T09:52:45Z,2025-05-18T14:52:27Z,2025-05-18T14:52:27Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;integration: eheimdigital;Quality Scale: bronze,autinerd
+145033,closed,2025-05-16T10:14:38Z,2025-05-16T11:10:59Z,2025-05-16T11:10:59Z,cla-signed;cherry-picked;small-pr;integration: smartthings;dependency;by-code-owner;Quality Scale: bronze,joostlek
+145034,closed,2025-05-16T10:15:00Z,2025-05-20T10:26:41Z,2025-05-20T10:26:41Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: bronze;integration: bosch_alarm,sanjay900
+145036,closed,2025-05-16T10:38:28Z,2025-05-19T10:07:50Z,2025-05-19T10:07:50Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145037,closed,2025-05-16T10:46:50Z,2025-05-16T11:28:32Z,2025-05-16T11:28:32Z,cla-signed;small-pr;integration: plugwise;by-code-owner;code-quality;Quality Scale: platinum,bouwew
+145038,closed,2025-05-16T11:08:55Z,2025-05-16T11:17:56Z,2025-05-16T11:17:56Z,cla-signed;cherry-picked;small-pr;integration: smartthings;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145039,closed,2025-05-16T12:07:59Z,2025-05-21T18:01:12Z,2025-05-21T18:01:12Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145041,closed,2025-05-16T12:16:01Z,2025-05-21T18:27:39Z,2025-05-21T18:27:39Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145042,closed,2025-05-16T12:42:04Z,2025-05-16T13:08:24Z,2025-05-16T13:08:24Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;code-quality;Quality Scale: bronze,joostlek
+145044,closed,2025-05-16T13:38:56Z,2025-05-17T11:06:02Z,2025-05-17T11:06:02Z,cla-signed;cherry-picked;small-pr;has-tests;dependency;by-code-owner;bugfix;integration: ntfy;Quality Scale: bronze,tr4nt0r
+145045,closed,2025-05-16T13:39:21Z,2025-05-18T14:48:44Z,2025-05-18T14:48:44Z,cla-signed;small-pr;integration: lcn;has-tests;by-code-owner;code-quality;Quality Scale: No score,alengwenus
+145047,closed,2025-05-16T13:47:11Z,2025-05-16T20:33:14Z,2025-05-16T20:33:14Z,cla-signed;small-pr;integration: suez_water;dependency;by-code-owner;bugfix;Quality Scale: bronze,jb101010-2
+145049,closed,2025-05-16T14:14:27Z,2025-05-16T17:25:34Z,,cla-signed;small-pr;integration: wled;bugfix,CnR89
+145050,open,2025-05-16T14:15:08Z,,,cla-signed;small-pr;integration: template;has-tests;by-code-owner;bugfix;Quality Scale: internal,Petro31
+145052,closed,2025-05-16T14:55:06Z,2025-05-16T20:27:10Z,2025-05-16T20:27:10Z,cla-signed;small-pr;integration: lcn;by-code-owner;code-quality;Quality Scale: No score,alengwenus
+145053,open,2025-05-16T15:00:53Z,,,cla-signed;integration: lcn;by-code-owner;code-quality;Quality Scale: No score,alengwenus
+145057,closed,2025-05-16T16:12:29Z,2025-05-16T16:19:36Z,2025-05-16T16:19:36Z,cla-signed;small-pr;has-tests;code-quality;integration: matter;Quality Scale: No score,lboue
+145059,closed,2025-05-16T16:25:03Z,2025-05-16T16:51:30Z,2025-05-16T16:51:30Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: comelit;Quality Scale: bronze,chemelli74
+145060,closed,2025-05-16T16:40:11Z,2025-05-16T19:59:12Z,2025-05-16T19:59:12Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;deprecation;Quality Scale: bronze,joostlek
+145061,closed,2025-05-16T16:47:11Z,2025-05-16T18:14:41Z,2025-05-16T18:14:41Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145062,closed,2025-05-16T16:59:32Z,2025-05-16T17:37:22Z,2025-05-16T17:37:22Z,core;cla-signed;cherry-picked;integration: frontend;small-pr;dependency;by-code-owner;Quality Scale: internal,bramkragten
+145063,closed,2025-05-16T17:14:43Z,2025-05-16T17:53:46Z,2025-05-16T17:53:46Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145064,closed,2025-05-16T17:25:43Z,2025-05-16T17:38:19Z,2025-05-16T17:38:19Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145065,closed,2025-05-16T17:40:00Z,2025-05-16T20:22:46Z,2025-05-16T20:22:46Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: openai_conversation,balloob
+145066,closed,2025-05-16T17:42:45Z,2025-05-16T19:17:07Z,2025-05-16T19:17:07Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145067,open,2025-05-16T17:46:11Z,,,cla-signed;integration: knx;new-feature;has-tests;by-code-owner;Quality Scale: No score;quality-scale,farmio
+145069,closed,2025-05-16T18:20:29Z,2025-05-16T20:29:01Z,2025-05-16T20:29:00Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145070,open,2025-05-16T18:26:02Z,,,cla-signed;new-feature;integration: tuya;Quality Scale: No score,FredrikM97
+145071,closed,2025-05-16T19:18:38Z,2025-05-16T19:22:43Z,2025-05-16T19:22:43Z,cla-signed;cherry-picked;integration: ecovacs;has-tests;by-code-owner;bugfix;Quality Scale: No score,edenhaus
+145072,closed,2025-05-16T19:33:14Z,2025-05-16T21:08:52Z,2025-05-16T21:08:52Z,core;cla-signed;merging-to-master,frenck
+145073,open,2025-05-16T20:00:43Z,,,cla-signed;small-pr;new-feature;has-tests;Quality Scale: bronze;integration: miele,aturri
+145074,closed,2025-05-16T20:10:12Z,2025-05-16T20:39:05Z,2025-05-16T20:39:05Z,core;cla-signed;cherry-picked;small-pr;bugfix,frenck
+145077,closed,2025-05-16T21:40:27Z,2025-05-19T08:40:03Z,2025-05-19T08:40:03Z,cla-signed;small-pr;code-quality;ci-full-run,edenhaus
+145078,closed,2025-05-16T21:56:04Z,2025-05-17T14:44:53Z,2025-05-17T14:44:53Z,cla-signed;cherry-picked;small-pr;integration: ecovacs;has-tests;by-code-owner;bugfix;Quality Scale: No score,edenhaus
+145079,closed,2025-05-16T23:24:13Z,2025-05-17T03:21:56Z,,cla-signed;new-feature;has-tests;Quality Scale: No score;integration: ollama,ViViDboarder
+145080,closed,2025-05-16T23:26:14Z,2025-05-19T16:04:19Z,2025-05-19T16:04:19Z,core;cla-signed;integration: tts;new-feature;has-tests;by-code-owner;Quality Scale: internal;integration: assist_pipeline,balloob
+145085,closed,2025-05-17T04:30:38Z,2025-05-17T16:36:14Z,2025-05-17T16:36:14Z,cla-signed;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score;integration: openai_conversation,balloob
+145093,open,2025-05-17T08:51:41Z,,,cla-signed;has-tests;bugfix;Quality Scale: bronze;integration: miele,aturri
+145094,closed,2025-05-17T09:10:26Z,2025-05-17T10:45:19Z,2025-05-17T10:45:19Z,cla-signed;small-pr;dependency;by-code-owner;integration: motion_blinds;Quality Scale: No score,starkillerOG
+145095,open,2025-05-17T09:12:41Z,,,new-platform;cla-signed;new-feature;integration: surepetcare;has-tests;Quality Scale: No score,Zhephyr54
+145096,closed,2025-05-17T09:18:55Z,2025-05-18T21:01:03Z,2025-05-18T21:01:03Z,cla-signed;small-pr;new-integration;integration: kaiser_nienhaus,starkillerOG
+145098,closed,2025-05-17T09:28:40Z,2025-05-19T10:09:27Z,2025-05-19T10:09:27Z,cla-signed;cherry-picked;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145102,closed,2025-05-17T10:15:31Z,2025-05-21T18:14:13Z,2025-05-21T18:14:13Z,cla-signed;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145103,closed,2025-05-17T10:26:39Z,2025-05-19T08:41:22Z,2025-05-19T08:41:22Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145104,closed,2025-05-17T10:43:30Z,2025-05-17T18:18:14Z,2025-05-17T18:18:14Z,core;cla-signed;integration: lock;cherry-picked;small-pr;bugfix;Quality Scale: internal,jpbede
+145107,closed,2025-05-17T11:43:57Z,2025-05-17T18:19:31Z,2025-05-17T18:19:31Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145108,open,2025-05-17T12:16:00Z,,,cla-signed;new-feature;integration: emoncms;has-tests;by-code-owner;Quality Scale: No score,alexandrecuer
+145110,closed,2025-05-17T13:37:55Z,2025-05-17T19:03:24Z,2025-05-17T19:03:24Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145111,closed,2025-05-17T13:44:46Z,2025-05-17T18:39:17Z,2025-05-17T18:39:17Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145113,open,2025-05-17T14:47:54Z,,,cla-signed;integration: downloader;small-pr;bugfix;Quality Scale: internal,soldierkam
+145115,closed,2025-05-17T15:37:05Z,2025-05-17T18:17:15Z,2025-05-17T18:17:15Z,cla-signed;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: bronze;integration: miele,astrandb
+145117,closed,2025-05-17T16:36:09Z,2025-05-19T18:03:59Z,2025-05-19T18:03:59Z,cla-signed;cherry-picked;small-pr;integration: history_stats;has-tests;bugfix;Quality Scale: internal,karwosts
+145121,closed,2025-05-17T19:06:06Z,2025-05-17T21:57:29Z,2025-05-17T21:57:29Z,core;cla-signed;small-pr;dependency,bdraco
+145122,closed,2025-05-17T20:03:03Z,2025-05-26T22:39:17Z,,core;cla-signed;integration: automation;small-pr;new-feature;code-quality;Quality Scale: internal,Kranzes
+145125,closed,2025-05-17T22:39:19Z,2025-05-18T19:28:15Z,2025-05-18T19:28:15Z,cla-signed;new-integration;has-tests;quality-scale;integration: immich,mib1185
+145128,open,2025-05-18T02:46:00Z,,,core;cla-signed;integration: conversation;by-code-owner;Quality Scale: No score;Quality Scale: internal;integration: openai_conversation,balloob
+145129,closed,2025-05-18T02:50:20Z,2025-05-18T05:00:24Z,2025-05-18T05:00:24Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: No score;integration: openai_conversation,balloob
+145130,closed,2025-05-18T04:19:16Z,2025-05-18T07:11:13Z,2025-05-18T07:11:13Z,cla-signed;small-pr;integration: google_travel_time;dependency;Quality Scale: No score,bdraco
+145140,open,2025-05-18T14:37:29Z,,,new-platform;cla-signed;new-feature;integration: jewish_calendar;has-tests;by-code-owner;Quality Scale: No score,tsvi
+145144,closed,2025-05-18T17:55:47Z,2025-05-26T18:48:07Z,2025-05-26T18:48:07Z,core;cla-signed;integration: nest;integration: lyric;integration: withings;integration: spotify;has-tests;by-code-owner;bugfix;integration: home_connect;Quality Scale: No score;Quality Scale: bronze;integration: miele,joostlek
+145145,open,2025-05-18T18:01:32Z,,,cla-signed;new-feature;integration: whirlpool;Quality Scale: bronze,MizterB
+145146,closed,2025-05-18T18:19:57Z,2025-05-19T09:58:58Z,2025-05-19T09:58:58Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: internal;integration: assist_pipeline,balloob
+145147,closed,2025-05-18T18:20:52Z,2025-05-18T20:14:22Z,2025-05-18T20:14:22Z,breaking-change;cla-signed;small-pr;integration: nexia;Quality Scale: No score,gjohansson-ST
+145148,closed,2025-05-18T18:23:41Z,2025-05-18T18:50:33Z,2025-05-18T18:50:33Z,breaking-change;cla-signed;small-pr;integration: elkm1;Quality Scale: No score,gjohansson-ST
+145149,closed,2025-05-18T18:27:36Z,2025-05-18T21:03:13Z,2025-05-18T21:03:13Z,breaking-change;cla-signed;small-pr;integration: econet;Quality Scale: No score,gjohansson-ST
+145151,closed,2025-05-18T18:36:09Z,2025-05-20T12:48:33Z,2025-05-20T12:48:33Z,core;breaking-change;integration: climate;cla-signed;small-pr;Quality Scale: internal,gjohansson-ST
+145152,closed,2025-05-18T18:49:35Z,2025-05-19T09:58:36Z,2025-05-19T09:58:36Z,breaking-change;cla-signed;small-pr;integration: ephember;Quality Scale: legacy,gjohansson-ST
+145155,closed,2025-05-18T19:10:49Z,2025-05-18T19:44:53Z,2025-05-18T19:44:53Z,cla-signed;small-pr;integration: denonavr;dependency;by-code-owner;Quality Scale: No score,ol-iver
+145156,closed,2025-05-18T19:12:06Z,2025-05-18T19:45:11Z,2025-05-18T19:45:11Z,cla-signed;cherry-picked;small-pr;integration: sense;dependency;by-code-owner;integration: emulated_kasa;Quality Scale: No score,kbickar
+145157,open,2025-05-18T20:07:13Z,,,cla-signed;new-feature;has-tests;integration: nobo_hub;Quality Scale: No score,lersveen
+145158,open,2025-05-18T20:13:33Z,,,cla-signed;has-tests;bugfix;Quality Scale: bronze;integration: miele,aturri
+145159,closed,2025-05-18T21:16:29Z,2025-05-19T20:39:04Z,2025-05-19T20:39:04Z,cla-signed;new-feature;by-code-owner;Quality Scale: silver;integration: immich,mib1185
+145161,closed,2025-05-18T21:44:14Z,2025-05-22T10:18:56Z,2025-05-22T10:18:56Z,cla-signed;small-pr;has-tests;integration: quantum_gateway;code-quality;Quality Scale: legacy,tamwahba
+145162,closed,2025-05-18T22:04:16Z,2025-05-19T10:23:05Z,2025-05-19T10:23:04Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: silver;quality-scale;integration: immich,mib1185
+145165,closed,2025-05-19T01:07:53Z,2025-05-22T19:49:39Z,2025-05-22T19:49:39Z,cla-signed;small-pr;integration: powerwall;bugfix;Quality Scale: No score,exciton
+145167,closed,2025-05-19T01:25:39Z,2025-05-19T18:54:22Z,2025-05-19T18:54:22Z,core;cla-signed;integration: tts;new-feature;Quality Scale: internal,balloob
+145169,closed,2025-05-19T02:50:55Z,2025-05-19T09:01:30Z,2025-05-19T09:01:30Z,cla-signed;small-pr;new-feature;by-code-owner;integration: yolink;Quality Scale: No score,matrixd2
+145170,closed,2025-05-19T04:01:52Z,2025-05-19T08:22:47Z,2025-05-19T08:22:47Z,cla-signed;small-pr;integration: esphome;dependency;by-code-owner;Quality Scale: platinum,bdraco
+145171,closed,2025-05-19T05:47:42Z,2025-05-19T06:40:22Z,2025-05-19T06:40:22Z,core;cla-signed;small-pr;code-quality,emontnemery
+145172,closed,2025-05-19T06:06:30Z,2025-05-19T08:24:08Z,2025-05-19T08:24:08Z,core;cla-signed;integration: cloud;small-pr;dependency;by-code-owner;Quality Scale: No score,ludeeus
+145173,closed,2025-05-19T06:55:21Z,2025-05-19T08:14:37Z,2025-05-19T08:14:37Z,github_actions;dependencies,dependabot[bot]
+145174,closed,2025-05-19T06:57:09Z,2025-05-19T07:10:01Z,2025-05-19T07:10:01Z,cla-signed;small-pr;integration: samsungtv;by-code-owner;code-quality;Quality Scale: No score,epenet
+145175,closed,2025-05-19T07:06:53Z,2025-05-19T08:15:35Z,,core;cla-signed;small-pr;new-feature;integration: sensor;Quality Scale: internal,epenet
+145176,open,2025-05-19T07:23:47Z,,,cla-signed;small-pr;new-feature;Quality Scale: No score;integration: duotecno,Gavergracht
+145177,closed,2025-05-19T07:25:15Z,2025-05-19T10:01:54Z,2025-05-19T10:01:54Z,cla-signed;small-pr;integration: shelly;has-tests;by-code-owner;bugfix;Quality Scale: No score,bieniu
+145178,closed,2025-05-19T07:27:15Z,2025-05-19T08:58:34Z,2025-05-19T08:58:34Z,cla-signed;small-pr;integration: ialarm;code-quality;Quality Scale: No score,epenet
+145179,closed,2025-05-19T07:31:30Z,2025-05-19T08:59:06Z,2025-05-19T08:59:06Z,cla-signed;small-pr;integration: icloud;code-quality;Quality Scale: No score,epenet
+145180,closed,2025-05-19T07:36:29Z,2025-05-19T18:41:00Z,2025-05-19T18:41:00Z,cla-signed;small-pr;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+145181,closed,2025-05-19T07:36:39Z,2025-05-19T08:59:47Z,2025-05-19T08:59:47Z,cla-signed;small-pr;integration: iqvia;bugfix;Quality Scale: No score,epenet
+145183,closed,2025-05-19T08:08:27Z,2025-05-19T10:05:34Z,2025-05-19T10:05:34Z,cla-signed;integration: downloader;has-tests;code-quality;Quality Scale: internal,epenet
+145184,open,2025-05-19T08:19:30Z,,,core;cla-signed;new-feature,wlmitch
+145185,closed,2025-05-19T08:25:11Z,2025-05-19T10:43:06Z,2025-05-19T10:43:06Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+145186,closed,2025-05-19T08:30:17Z,2025-05-19T09:06:17Z,2025-05-19T09:06:17Z,core;cla-signed;code-quality,emontnemery
+145187,closed,2025-05-19T08:41:18Z,2025-05-19T09:56:05Z,2025-05-19T09:56:05Z,cla-signed;small-pr;integration: raspyrfm;code-quality;Quality Scale: legacy,epenet
+145189,closed,2025-05-19T08:55:15Z,2025-05-19T09:50:41Z,2025-05-19T09:50:41Z,cla-signed;small-pr;code-quality,epenet
+145191,open,2025-05-19T09:18:47Z,,,core;cla-signed;new-feature,emontnemery
+145192,closed,2025-05-19T09:21:31Z,2025-05-19T11:11:07Z,2025-05-19T11:11:07Z,core;cla-signed;small-pr;dependency;by-code-owner;Quality Scale: internal;integration: go2rtc,edenhaus
+145194,closed,2025-05-19T09:26:37Z,2025-05-19T09:55:16Z,2025-05-19T09:55:15Z,cla-signed;small-pr;code-quality,epenet
+145195,closed,2025-05-19T09:38:30Z,2025-05-24T21:37:22Z,2025-05-24T21:37:22Z,cla-signed;new-feature;has-tests;by-code-owner;integration: comelit;Quality Scale: bronze,chemelli74
+145198,closed,2025-05-19T10:01:49Z,2025-05-19T11:20:02Z,2025-05-19T11:20:02Z,cla-signed;integration: velbus;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: bronze,cereal2nd
+145199,closed,2025-05-19T10:03:16Z,2025-05-19T13:27:41Z,2025-05-19T13:27:41Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: comelit;Quality Scale: bronze,chemelli74
+145200,closed,2025-05-19T10:05:28Z,2025-05-19T11:12:17Z,2025-05-19T11:12:17Z,cla-signed;small-pr;code-quality,epenet
+145201,closed,2025-05-19T10:08:09Z,2025-05-19T18:02:37Z,2025-05-19T18:02:37Z,cla-signed;small-pr;bugfix;integration: forecast_solar;Quality Scale: No score,NoRi2909
+145202,closed,2025-05-19T10:20:18Z,2025-05-19T10:46:39Z,2025-05-19T10:46:39Z,cla-signed;small-pr;code-quality,cdce8p
+145203,closed,2025-05-19T10:46:40Z,2025-05-19T11:21:19Z,2025-05-19T11:21:19Z,integration: netatmo;cla-signed;small-pr;dependency;Quality Scale: No score,wuede
+145205,open,2025-05-19T11:27:35Z,,,core;integration: camera;cla-signed;docs-missing;new-feature;has-tests;by-code-owner;Quality Scale: internal;integration: go2rtc,edenhaus
+145206,closed,2025-05-19T11:28:44Z,2025-05-19T11:55:48Z,2025-05-19T11:55:48Z,core;cla-signed;small-pr;has-tests;code-quality,chemelli74
+145207,closed,2025-05-19T11:36:24Z,2025-05-19T12:13:58Z,2025-05-19T12:13:58Z,core;cla-signed;small-pr;code-quality,emontnemery
+145208,closed,2025-05-19T11:38:14Z,2025-05-19T12:18:36Z,2025-05-19T12:18:36Z,core;cla-signed;small-pr;code-quality,epenet
+145209,closed,2025-05-19T11:49:37Z,2025-05-19T12:16:13Z,2025-05-19T12:16:13Z,cla-signed;cherry-picked;small-pr;has-tests;dependency;by-code-owner;integration: comelit;Quality Scale: bronze,chemelli74
+145210,closed,2025-05-19T11:52:38Z,2025-05-19T20:47:25Z,2025-05-19T20:47:24Z,cla-signed;small-pr;code-quality,epenet
+145211,closed,2025-05-19T11:55:33Z,2025-05-20T05:25:44Z,2025-05-20T05:25:44Z,cla-signed;small-pr;new-feature;has-tests;integration: zwave_js;Quality Scale: No score,MindFreeze
+145212,closed,2025-05-19T12:09:58Z,2025-05-19T15:40:12Z,2025-05-19T15:40:12Z,cla-signed;small-pr;integration: pioneer;code-quality;Quality Scale: legacy,epenet
+145214,closed,2025-05-19T12:28:18Z,2025-05-19T15:52:35Z,2025-05-19T15:52:35Z,cla-signed;integration: homematic;small-pr;code-quality;Quality Scale: legacy,epenet
+145215,closed,2025-05-19T12:38:48Z,2025-05-19T12:45:30Z,2025-05-19T12:45:30Z,cla-signed;small-pr;integration: ecovacs;by-code-owner;code-quality;Quality Scale: No score,edenhaus
+145217,closed,2025-05-19T12:48:58Z,2025-05-19T17:18:23Z,2025-05-19T17:18:23Z,cla-signed;small-pr;integration: plex;code-quality;ci-full-run;Quality Scale: No score,epenet
+145218,closed,2025-05-19T12:51:21Z,2025-05-19T12:55:49Z,2025-05-19T12:55:48Z,cla-signed;small-pr;integration: zestimate;code-quality;Quality Scale: legacy,epenet
+145219,closed,2025-05-19T12:57:30Z,2025-05-19T13:56:27Z,2025-05-19T13:56:27Z,cla-signed;small-pr;integration: repetier;code-quality;Quality Scale: legacy,epenet
+145220,closed,2025-05-19T13:01:03Z,2025-05-19T14:09:23Z,2025-05-19T14:09:23Z,core;cla-signed;code-quality,emontnemery
+145221,closed,2025-05-19T13:39:26Z,2025-05-19T14:05:49Z,2025-05-19T14:05:49Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+145222,closed,2025-05-19T13:46:03Z,2025-05-19T13:53:41Z,2025-05-19T13:53:41Z,cla-signed;small-pr;integration: rtorrent;code-quality;Quality Scale: legacy,epenet
+145223,closed,2025-05-19T13:47:38Z,2025-05-19T13:52:40Z,2025-05-19T13:52:40Z,cla-signed;small-pr;integration: vlc;code-quality;Quality Scale: legacy,epenet
+145225,closed,2025-05-19T13:52:07Z,2025-05-19T13:58:34Z,2025-05-19T13:58:34Z,cla-signed;small-pr;integration: yandex_transport;code-quality;Quality Scale: legacy,epenet
+145226,closed,2025-05-19T13:54:10Z,2025-05-19T15:52:23Z,2025-05-19T15:52:23Z,cla-signed;small-pr;integration: netgear;code-quality;Quality Scale: No score,epenet
+145227,closed,2025-05-19T14:05:38Z,2025-05-26T11:56:11Z,2025-05-26T11:56:11Z,core;cla-signed;small-pr;new-feature,Petro31
+145229,closed,2025-05-19T14:19:12Z,2025-05-26T11:16:56Z,2025-05-26T11:16:56Z,core;cla-signed;small-pr;new-feature,Petro31
+145230,closed,2025-05-19T14:23:07Z,2025-05-19T14:34:41Z,2025-05-19T14:34:41Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: platinum;integration: vodafone_station,chemelli74
+145233,open,2025-05-19T16:07:41Z,,,cla-signed;new-feature;integration: esphome;by-code-owner;Quality Scale: internal;Quality Scale: platinum;integration: assist_satellite,synesthesiam
+145236,closed,2025-05-19T17:33:45Z,2025-05-19T19:34:37Z,2025-05-19T19:34:37Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: bronze;integration: miele,astrandb
+145237,open,2025-05-19T18:41:46Z,,,core;cla-signed;new-integration;has-tests;quality-scale;integration: google_air_quality,Thomas55555
+145238,closed,2025-05-19T18:45:48Z,2025-05-19T19:12:51Z,2025-05-19T19:12:51Z,cla-signed;cherry-picked;small-pr;integration: workday;dependency;by-code-owner;Quality Scale: No score;Quality Scale: internal;integration: holiday,gjohansson-ST
+145239,closed,2025-05-19T19:06:05Z,2025-05-22T10:17:38Z,2025-05-22T10:17:38Z,cla-signed;new-integration;has-tests;quality-scale;integration: paperless_ngx,fvgarrel
+145240,open,2025-05-19T19:15:37Z,,,cla-signed;small-pr;integration: history_stats;has-tests;code-quality;Quality Scale: internal,karwosts
+145242,open,2025-05-19T19:19:30Z,,,core;breaking-change;integration: climate;cla-signed;small-pr;has-tests;Quality Scale: internal,gjohansson-ST
+145243,closed,2025-05-19T19:35:34Z,2025-05-20T11:16:27Z,2025-05-20T11:16:27Z,core;cla-signed;small-pr;new-feature;integration: sensor;by-code-owner;integration: number;Quality Scale: internal,frenck
+145244,closed,2025-05-19T19:35:56Z,2025-05-19T20:03:21Z,2025-05-19T20:03:21Z,core;integration: media_player;cla-signed;small-pr;has-tests;bugfix;Quality Scale: internal,balloob
+145247,closed,2025-05-19T20:08:13Z,2025-05-20T21:02:07Z,2025-05-20T21:02:07Z,cla-signed;small-pr;new-feature;integration: wallbox;Quality Scale: No score,jorisdrenth
+145249,closed,2025-05-19T20:47:18Z,2025-05-20T10:00:10Z,2025-05-20T10:00:10Z,cla-signed;small-pr;code-quality,epenet
+145250,closed,2025-05-19T21:04:56Z,2025-05-19T22:11:52Z,2025-05-19T22:11:52Z,cla-signed;small-pr;integration: raspyrfm;code-quality;Quality Scale: legacy,epenet
+145251,open,2025-05-19T21:13:44Z,,,cla-signed;by-code-owner;code-quality;Quality Scale: platinum;integration: bring;quality-scale,tr4nt0r
+145253,closed,2025-05-19T21:21:48Z,2025-05-20T09:47:27Z,2025-05-20T09:47:27Z,cla-signed;integration: xiaomi_aqara;code-quality;Quality Scale: No score,epenet
+145254,closed,2025-05-19T21:37:25Z,2025-05-20T18:40:22Z,2025-05-20T18:40:22Z,core;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: silver;integration: immich,mib1185
+145255,closed,2025-05-19T22:00:02Z,2025-05-20T09:56:17Z,2025-05-20T09:56:17Z,cla-signed;integration: xiaomi_aqara;code-quality;Quality Scale: No score,epenet
+145257,closed,2025-05-19T22:07:03Z,2025-05-19T22:11:34Z,2025-05-19T22:11:34Z,cla-signed;integration: xiaomi_aqara;small-pr;code-quality;Quality Scale: No score,epenet
+145259,closed,2025-05-19T22:15:21Z,2025-05-19T22:21:44Z,2025-05-19T22:21:44Z,cla-signed;small-pr;code-quality;integration: omnilogic;Quality Scale: No score,epenet
+145260,closed,2025-05-19T23:14:33Z,2025-05-20T07:51:29Z,2025-05-20T07:51:29Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: aprilaire,chamberlain2007
+145261,closed,2025-05-20T00:37:32Z,2025-05-26T12:47:00Z,2025-05-26T12:47:00Z,cla-signed;small-pr;dependency;bugfix;integration: starlink;Quality Scale: No score,sashahilton00
+145262,open,2025-05-20T01:10:03Z,,,new-platform;cla-signed;new-feature;has-tests;by-code-owner;integration: ntfy;Quality Scale: bronze,tr4nt0r
+145263,closed,2025-05-20T01:13:27Z,2025-05-20T07:49:28Z,2025-05-20T07:49:28Z,cla-signed;small-pr;dependency;by-code-owner;integration: ntfy;Quality Scale: bronze,tr4nt0r
+145264,closed,2025-05-20T01:26:28Z,2025-05-20T18:00:27Z,2025-05-20T18:00:27Z,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: internal;integration: assist_pipeline,balloob
+145268,closed,2025-05-20T04:47:41Z,2025-05-26T19:12:39Z,2025-05-26T19:12:39Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: No score;integration: teslemetry,Bre77
+145269,closed,2025-05-20T05:48:44Z,2025-05-20T09:48:33Z,2025-05-20T09:48:33Z,cla-signed;small-pr;integration: starline;code-quality;Quality Scale: No score,epenet
+145270,closed,2025-05-20T05:58:31Z,2025-05-20T09:50:22Z,2025-05-20T09:50:22Z,cla-signed;small-pr;code-quality;smash,epenet
+145271,closed,2025-05-20T05:59:54Z,2025-05-20T09:50:32Z,2025-05-20T09:50:32Z,cla-signed;small-pr;code-quality;smash,epenet
+145272,closed,2025-05-20T06:02:25Z,2025-05-20T11:30:23Z,2025-05-20T11:30:23Z,cla-signed;small-pr;code-quality;smash,epenet
+145273,closed,2025-05-20T06:06:03Z,2025-05-20T08:10:42Z,2025-05-20T08:10:42Z,cla-signed;small-pr;integration: push;code-quality;Quality Scale: legacy,epenet
+145274,closed,2025-05-20T06:06:57Z,2025-05-20T09:47:49Z,2025-05-20T09:47:49Z,cla-signed;small-pr;integration: rpi_camera;code-quality;Quality Scale: legacy,epenet
+145275,closed,2025-05-20T06:17:12Z,2025-05-20T08:15:05Z,2025-05-20T08:15:05Z,cla-signed;small-pr;integration: vivotek;code-quality,epenet
+145276,closed,2025-05-20T06:19:48Z,2025-05-20T07:32:50Z,2025-05-20T07:32:50Z,cla-signed;small-pr;integration: yi;code-quality;Quality Scale: legacy,epenet
+145278,open,2025-05-20T07:01:38Z,,,core;cla-signed;new-feature,emontnemery
+145279,closed,2025-05-20T07:06:17Z,2025-05-20T07:15:27Z,2025-05-20T07:15:27Z,cla-signed;has-tests;code-quality;integration: smarttub;Quality Scale: No score,epenet
+145280,closed,2025-05-20T07:18:21Z,2025-05-20T11:40:17Z,2025-05-20T11:40:17Z,cla-signed;integration: maxcube;small-pr;integration: tuya;integration: ephember;integration: econet;integration: zhong_hong;integration: schluter;code-quality;integration: airtouch4;Quality Scale: No score;Quality Scale: legacy,epenet
+145281,closed,2025-05-20T07:23:32Z,2025-05-20T20:11:03Z,2025-05-20T20:11:03Z,cla-signed;small-pr;has-tests;bugfix;integration: zwave_js;Quality Scale: No score,MindFreeze
+145282,closed,2025-05-20T07:23:51Z,2025-05-20T07:31:43Z,2025-05-20T07:31:42Z,cla-signed;small-pr;integration: blebox;code-quality;Quality Scale: No score,epenet
+145283,closed,2025-05-20T07:40:07Z,2025-05-20T08:11:23Z,2025-05-20T08:11:23Z,cla-signed;integration: homematic;code-quality;Quality Scale: legacy,epenet
+145285,closed,2025-05-20T07:52:15Z,2025-05-20T08:10:24Z,2025-05-20T08:10:24Z,cla-signed;integration: intesishome;code-quality;Quality Scale: legacy,epenet
+145286,closed,2025-05-20T07:56:36Z,2025-05-20T08:10:13Z,2025-05-20T08:10:13Z,cla-signed;integration: melissa;small-pr;code-quality;Quality Scale: legacy,epenet
+145287,closed,2025-05-20T08:01:03Z,2025-05-20T08:09:48Z,2025-05-20T08:09:47Z,cla-signed;small-pr;code-quality;integration: smarttub;Quality Scale: No score,epenet
+145289,closed,2025-05-20T08:03:35Z,2025-05-20T08:09:25Z,2025-05-20T08:09:25Z,cla-signed;small-pr;integration: tfiac;code-quality;Quality Scale: legacy,epenet
+145292,closed,2025-05-20T08:09:46Z,2025-05-20T08:12:21Z,2025-05-20T08:12:21Z,cla-signed;small-pr;integration: touchline;code-quality;Quality Scale: legacy,epenet
+145294,closed,2025-05-20T08:20:58Z,2025-05-20T08:25:22Z,2025-05-20T08:25:22Z,cla-signed;small-pr;integration: venstar;code-quality;Quality Scale: No score,epenet
+145297,closed,2025-05-20T08:31:25Z,2025-05-20T09:46:53Z,2025-05-20T09:46:53Z,cla-signed;small-pr;integration: venstar;code-quality;Quality Scale: No score,epenet
+145298,closed,2025-05-20T08:35:19Z,2025-05-20T08:42:42Z,2025-05-20T08:42:42Z,cla-signed;small-pr;integration: xs1;code-quality;Quality Scale: legacy,epenet
+145299,closed,2025-05-20T08:41:11Z,2025-05-20T08:44:35Z,2025-05-20T08:44:35Z,cla-signed;small-pr;integration: xs1;code-quality;Quality Scale: legacy,epenet
+145301,closed,2025-05-20T08:52:35Z,2025-05-23T13:07:07Z,2025-05-23T13:07:06Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: onedrive,zweckj
+145302,open,2025-05-20T09:15:30Z,,,cla-signed;new-integration;integration: greencell,BrzezowskiGC
+145303,closed,2025-05-20T09:15:48Z,2025-05-20T10:33:50Z,2025-05-20T10:33:50Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: teslemetry,Bre77
+145305,closed,2025-05-20T09:43:10Z,2025-05-20T09:49:50Z,2025-05-20T09:49:50Z,cla-signed;integration: zha;small-pr;code-quality,NoRi2909
+145306,closed,2025-05-20T09:46:12Z,2025-05-20T09:56:53Z,2025-05-20T09:56:53Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: bronze;integration: bosch_alarm,sanjay900
+145308,closed,2025-05-20T10:20:56Z,2025-05-21T21:27:53Z,2025-05-21T21:27:53Z,cla-signed;small-pr;code-quality;smash,epenet
+145309,closed,2025-05-20T10:34:13Z,2025-05-22T18:15:00Z,2025-05-22T18:15:00Z,core;cla-signed;integration: owntracks;integration: mobile_app;integration: icloud;integration: starline;code-quality;Quality Scale: No score;Quality Scale: internal,epenet
+145311,closed,2025-05-20T10:37:59Z,2025-05-21T21:29:34Z,2025-05-21T21:29:33Z,cla-signed;small-pr;code-quality;smash,epenet
+145313,closed,2025-05-20T10:41:18Z,2025-05-21T22:57:39Z,2025-05-21T22:57:39Z,cla-signed;small-pr;code-quality;smash,epenet
+145314,closed,2025-05-20T10:45:10Z,2025-05-20T19:47:45Z,2025-05-20T19:47:45Z,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: silver;integration: rehlko,PeteRager
+145315,closed,2025-05-20T10:47:34Z,2025-05-20T12:19:51Z,2025-05-20T12:19:51Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: bosch_alarm,sanjay900
+145316,closed,2025-05-20T10:48:40Z,2025-05-22T06:01:42Z,2025-05-22T06:01:42Z,cla-signed;small-pr;new-feature;integration: matter;Quality Scale: No score,lboue
+145318,closed,2025-05-20T11:17:42Z,2025-05-20T12:07:57Z,2025-05-20T12:07:57Z,cla-signed;small-pr;integration: opentherm_gw;code-quality;Quality Scale: No score,NoRi2909
+145319,closed,2025-05-20T11:23:36Z,2025-05-20T12:31:52Z,2025-05-20T12:31:52Z,cla-signed;small-pr;integration: smartthings;code-quality;Quality Scale: bronze,NoRi2909
+145320,closed,2025-05-20T11:39:58Z,2025-05-20T17:42:10Z,2025-05-20T17:42:10Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: platinum;integration: azure_storage,zweckj
+145323,closed,2025-05-20T12:40:47Z,2025-05-26T18:45:12Z,2025-05-26T18:45:12Z,core;cla-signed;integration: homeassistant;by-code-owner;deprecation;Quality Scale: internal,joostlek
+145324,closed,2025-05-20T12:42:05Z,2025-05-20T14:20:06Z,2025-05-20T14:20:06Z,cla-signed;small-pr;new-feature,bramkragten
+145325,closed,2025-05-20T12:53:14Z,2025-05-23T13:24:19Z,2025-05-23T13:24:19Z,core;cla-signed;new-feature;integration: sensor;by-code-owner;integration: number;Quality Scale: internal,frenck
+145327,closed,2025-05-20T13:32:35Z,2025-05-21T11:30:59Z,2025-05-21T11:30:59Z,cla-signed;new-feature;has-tests;integration: zwave_js;Quality Scale: No score,MindFreeze
+145329,closed,2025-05-20T14:52:33Z,2025-05-20T15:35:24Z,2025-05-20T15:35:24Z,cla-signed;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+145331,closed,2025-05-20T15:14:09Z,2025-05-23T06:00:35Z,2025-05-23T06:00:35Z,core;cla-signed;integration: hassio;small-pr;new-feature;has-tests;Quality Scale: internal,emontnemery
+145332,closed,2025-05-20T15:27:43Z,2025-05-20T17:13:40Z,2025-05-20T17:13:40Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: silver;integration: rehlko,PeteRager
+145334,closed,2025-05-20T16:18:21Z,2025-05-20T16:52:52Z,2025-05-20T16:52:52Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: silver;integration: immich,mib1185
+145335,closed,2025-05-20T16:33:47Z,2025-05-23T15:20:28Z,2025-05-23T15:20:28Z,cla-signed;new-feature;has-tests;integration: matter;Quality Scale: No score,lboue
+145340,closed,2025-05-20T17:38:44Z,2025-05-22T09:32:34Z,2025-05-22T09:32:33Z,core;cla-signed;small-pr;new-feature;integration: sensor;by-code-owner;Quality Scale: internal,frenck
+145342,closed,2025-05-20T18:52:24Z,2025-05-21T08:22:47Z,2025-05-21T08:22:47Z,cla-signed;cherry-picked;small-pr;by-code-owner;integration: synology_dsm;bugfix;Quality Scale: No score,mib1185
+145343,open,2025-05-20T18:59:24Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: nintendo_parental,pantherale0
+145344,open,2025-05-20T19:02:25Z,,,cla-signed;new-feature;Quality Scale: No score;integration: private_ble_device,agittins
+145347,closed,2025-05-20T19:30:50Z,2025-05-20T21:29:55Z,2025-05-20T21:29:55Z,cla-signed;cherry-picked;small-pr;integration: squeezebox;by-code-owner;code-quality;Quality Scale: No score,peteS-UK
+145348,closed,2025-05-20T19:32:46Z,2025-05-20T20:37:27Z,2025-05-20T20:37:27Z,cla-signed;small-pr;dependency;by-code-owner;integration: xiaomi_ble;Quality Scale: No score,Ernst79
+145350,closed,2025-05-20T20:50:24Z,2025-05-23T15:01:58Z,2025-05-23T15:01:58Z,new-platform;cla-signed;new-feature;integration: backup;Quality Scale: internal,mib1185
+145352,closed,2025-05-20T21:28:47Z,2025-05-26T19:11:35Z,2025-05-26T19:11:35Z,cla-signed;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score;integration: teslemetry,Bre77
+145353,closed,2025-05-20T23:06:36Z,2025-05-22T16:57:01Z,2025-05-22T16:57:01Z,cla-signed;small-pr;integration: homekit;bugfix;Quality Scale: No score,jz-v
+145358,closed,2025-05-21T04:00:10Z,2025-05-23T12:44:47Z,2025-05-23T12:44:47Z,core;cla-signed;small-pr;dependency,bdraco
+145360,closed,2025-05-21T04:30:26Z,2025-05-21T08:08:33Z,2025-05-21T08:08:33Z,cla-signed;small-pr;integration: switchbot;dependency;by-code-owner;Quality Scale: No score,zerzhang
+145364,closed,2025-05-21T07:25:49Z,2025-05-22T05:56:18Z,2025-05-22T05:56:18Z,cla-signed;small-pr;new-feature,epenet
+145366,closed,2025-05-21T07:52:50Z,2025-05-21T08:19:54Z,2025-05-21T08:19:54Z,cla-signed;small-pr;by-code-owner;code-quality;integration: backup;Quality Scale: internal,emontnemery
+145367,closed,2025-05-21T08:00:34Z,2025-05-26T14:07:34Z,2025-05-26T14:07:34Z,core;cla-signed;new-feature;has-tests,emontnemery
+145368,closed,2025-05-21T08:06:04Z,2025-05-21T11:22:05Z,2025-05-21T11:22:05Z,cla-signed;small-pr;by-code-owner;code-quality;integration: backup;Quality Scale: internal,emontnemery
+145371,closed,2025-05-21T08:59:30Z,2025-05-21T09:12:09Z,2025-05-21T09:12:09Z,cla-signed;small-pr;new-feature;integration: switchbot;has-tests;by-code-owner;code-quality;Quality Scale: No score,zerzhang
+145372,closed,2025-05-21T09:17:22Z,2025-05-21T10:35:11Z,2025-05-21T10:35:11Z,cla-signed;small-pr;dependency;by-code-owner;integration: eheimdigital;Quality Scale: bronze,autinerd
+145373,closed,2025-05-21T09:20:30Z,2025-05-21T10:37:47Z,2025-05-21T10:37:47Z,cla-signed;small-pr;new-feature;integration: switchbot;has-tests;by-code-owner;code-quality;Quality Scale: No score,zerzhang
+145374,closed,2025-05-21T09:32:55Z,2025-05-21T09:57:21Z,2025-05-21T09:57:21Z,cla-signed;small-pr;has-tests;code-quality;integration: homeassistant_yellow;integration: homeassistant_sky_connect;Quality Scale: No score;integration: homeassistant_green,c0ffeeca7
+145376,closed,2025-05-21T10:58:40Z,2025-05-21T15:07:36Z,2025-05-21T15:07:36Z,cla-signed;small-pr;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+145378,closed,2025-05-21T11:25:33Z,2025-05-21T15:06:37Z,2025-05-21T15:06:36Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+145380,closed,2025-05-21T11:58:20Z,2025-05-21T12:19:37Z,2025-05-21T12:19:37Z,cla-signed;cherry-picked;small-pr;integration: ecovacs;by-code-owner;bugfix;Quality Scale: No score,Augar
+145381,closed,2025-05-21T11:58:44Z,2025-05-21T14:17:25Z,2025-05-21T14:17:25Z,cla-signed;integration: zha;integration: influxdb;integration: lyric;integration: hive;integration: mochad;small-pr;integration: ecovacs;integration: habitica;integration: remote_rpi_gpio;integration: fitbit;integration: efergy;integration: mystrom;integration: concord232;integration: nx584;integration: cmus;integration: keba;integration: opnsense;integration: minecraft_server;integration: azure_devops;code-quality;integration: guardian;integration: ovo_energy;integration: system_bridge;integration: osoenergy;Quality Scale: No score;Quality Scale: silver;Quality Scale: platinum;integration: opower;integration: microBees;Quality Scale: legacy,epenet
+145382,closed,2025-05-21T12:10:07Z,2025-05-26T17:25:16Z,2025-05-26T17:25:16Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;integration: eheimdigital;quality-scale;Quality Scale: bronze,autinerd
+145384,closed,2025-05-21T12:33:55Z,2025-05-21T13:17:51Z,2025-05-21T13:17:51Z,cla-signed;cherry-picked;small-pr;integration: squeezebox;dependency;by-code-owner;Quality Scale: No score,rajlaud
+145385,open,2025-05-21T12:40:52Z,,,new-platform;cla-signed;new-feature;has-tests;dependency;by-code-owner;integration: airq;Quality Scale: No score,Sibgatulin
+145387,open,2025-05-21T13:09:51Z,,,cla-signed;small-pr;new-feature;integration: onvif;Quality Scale: No score,avigeilpro
+145388,closed,2025-05-21T13:25:10Z,2025-05-21T14:16:51Z,2025-05-21T14:16:51Z,cla-signed;small-pr;by-code-owner;code-quality;integration: backup;Quality Scale: internal,emontnemery
+145390,closed,2025-05-21T14:13:41Z,2025-05-21T15:04:48Z,2025-05-21T15:04:48Z,cla-signed;small-pr;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+145391,closed,2025-05-21T14:20:41Z,2025-05-22T07:07:38Z,2025-05-22T07:07:38Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: silver;integration: rehlko,PeteRager
+145392,closed,2025-05-21T14:52:05Z,2025-05-22T08:44:31Z,2025-05-22T08:44:31Z,core;cla-signed;small-pr;code-quality,joostlek
+145393,closed,2025-05-21T14:54:13Z,2025-05-21T20:43:43Z,2025-05-21T20:43:42Z,cla-signed;small-pr;dependency;by-code-owner;integration: lektrico;Quality Scale: No score,Lektrico
+145394,closed,2025-05-21T15:05:03Z,2025-05-21T15:11:20Z,2025-05-21T15:11:19Z,cla-signed;cherry-picked;small-pr;code-quality;Quality Scale: No score;integration: otbr,c0ffeeca7
+145395,closed,2025-05-21T15:24:14Z,2025-05-21T16:40:19Z,2025-05-21T16:40:19Z,core;cla-signed;small-pr;dependency;integration: bluetooth;Quality Scale: internal,cdce8p
+145396,closed,2025-05-21T15:24:17Z,2025-05-21T16:40:25Z,2025-05-21T16:40:25Z,cla-signed;small-pr;dependency;integration: inkbird;Quality Scale: No score,cdce8p
+145397,closed,2025-05-21T15:24:21Z,2025-05-21T16:40:33Z,2025-05-21T16:40:33Z,cla-signed;small-pr;dependency;integration: sensorpro;Quality Scale: No score,cdce8p
+145398,closed,2025-05-21T15:34:16Z,2025-05-21T18:23:05Z,2025-05-21T18:23:05Z,cla-signed;integration: zha;small-pr;code-quality;Quality Scale: No score,c0ffeeca7
+145400,closed,2025-05-21T16:00:57Z,2025-05-21T18:21:07Z,2025-05-21T18:21:07Z,cla-signed;small-pr;integration: jewish_calendar;by-code-owner;code-quality;Quality Scale: No score,tsvi
+145401,closed,2025-05-21T17:03:57Z,2025-05-21T17:42:13Z,2025-05-21T17:42:13Z,cla-signed;small-pr;dependency;integration: igloohome;Quality Scale: bronze,cdce8p
+145402,closed,2025-05-21T17:54:21Z,2025-05-21T20:02:14Z,2025-05-21T20:02:14Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+145403,closed,2025-05-21T18:26:19Z,2025-05-21T20:22:33Z,2025-05-21T20:22:33Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: synology_dsm;Quality Scale: No score,mib1185
+145404,closed,2025-05-21T18:41:27Z,2025-05-22T06:22:02Z,2025-05-22T06:22:02Z,core;cla-signed;integration: cloud;small-pr;has-tests;by-code-owner;integration: synology_dsm;code-quality;Quality Scale: No score;Quality Scale: silver;integration: immich,mib1185
+145405,closed,2025-05-21T18:43:17Z,2025-05-21T22:54:30Z,2025-05-21T22:54:30Z,cla-signed;small-pr;new-feature;by-code-owner;Quality Scale: No score;integration: openai_conversation;integration: ollama;integration: anthropic,balloob
+145406,closed,2025-05-21T18:45:58Z,2025-05-21T19:12:43Z,2025-05-21T19:12:43Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+145407,closed,2025-05-21T19:03:26Z,2025-05-21T19:17:03Z,2025-05-21T19:17:03Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;code-quality;Quality Scale: bronze,joostlek
+145408,open,2025-05-21T19:17:24Z,,,new-platform;cla-signed;new-feature;integration: template;has-tests;by-code-owner;Quality Scale: internal,Petro31
+145409,closed,2025-05-21T20:00:27Z,2025-05-22T05:23:44Z,2025-05-22T05:23:44Z,cla-signed;small-pr;integration: template;by-code-owner;code-quality;Quality Scale: internal,Petro31
+145413,closed,2025-05-22T01:15:53Z,2025-05-22T06:17:31Z,2025-05-22T06:17:31Z,cla-signed;small-pr;integration: sonos;by-code-owner;code-quality;Quality Scale: No score,PeteRager
+145414,closed,2025-05-22T02:38:44Z,2025-05-22T05:22:50Z,2025-05-22T05:22:50Z,cla-signed;small-pr;integration: habitica;has-tests;dependency;by-code-owner;Quality Scale: platinum,tr4nt0r
+145416,closed,2025-05-22T05:23:31Z,2025-05-26T09:22:11Z,2025-05-26T09:22:11Z,cla-signed;small-pr;integration: lifx;dependency;by-code-owner;Quality Scale: No score,Djelibeybi
+145417,closed,2025-05-22T06:30:21Z,2025-05-22T09:21:46Z,2025-05-22T09:21:46Z,integration: microsoft_face;cla-signed;code-quality;Quality Scale: legacy,epenet
+145418,closed,2025-05-22T06:31:59Z,2025-05-22T08:07:10Z,2025-05-22T08:07:10Z,cla-signed;small-pr;integration: squeezebox;by-code-owner;bugfix;Quality Scale: No score,peteS-UK
+145419,closed,2025-05-22T06:36:55Z,2025-05-22T08:36:12Z,2025-05-22T08:36:12Z,cla-signed;small-pr;integration: microsoft_face_identify;code-quality;Quality Scale: legacy,epenet
+145420,closed,2025-05-22T06:39:35Z,2025-05-22T08:34:14Z,2025-05-22T08:34:14Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;integration: lektrico;Quality Scale: No score,Lektrico
+145421,closed,2025-05-22T06:40:41Z,2025-05-22T09:52:26Z,2025-05-22T09:52:26Z,cla-signed;small-pr;integration: microsoft_face_detect;code-quality;Quality Scale: legacy,epenet
+145422,closed,2025-05-22T06:46:50Z,2025-05-22T08:37:03Z,2025-05-22T08:37:03Z,cla-signed;small-pr;integration: dlib_face_detect;code-quality;Quality Scale: legacy,epenet
+145423,closed,2025-05-22T06:47:45Z,2025-05-22T08:37:44Z,2025-05-22T08:37:44Z,cla-signed;small-pr;integration: dlib_face_identify;code-quality;Quality Scale: legacy,epenet
+145426,closed,2025-05-22T07:01:06Z,2025-05-22T07:18:28Z,2025-05-22T07:18:28Z,cla-signed;integration: doods;code-quality;Quality Scale: legacy,epenet
+145428,closed,2025-05-22T07:11:11Z,2025-05-26T17:13:20Z,2025-05-26T17:13:20Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: eheimdigital;Quality Scale: bronze,autinerd
+145429,closed,2025-05-22T07:11:21Z,2025-05-22T09:30:54Z,2025-05-22T09:30:54Z,cla-signed;small-pr;integration: openalpr_cloud;code-quality;Quality Scale: legacy,epenet
+145430,closed,2025-05-22T07:14:27Z,2025-05-22T09:30:39Z,2025-05-22T09:30:39Z,cla-signed;small-pr;integration: qrcode;code-quality;Quality Scale: legacy,epenet
+145431,closed,2025-05-22T07:18:01Z,2025-05-22T09:31:17Z,2025-05-22T09:31:17Z,cla-signed;small-pr;integration: seven_segments;code-quality;Quality Scale: legacy,epenet
+145432,closed,2025-05-22T07:23:38Z,2025-05-22T09:35:08Z,2025-05-22T09:35:08Z,cla-signed;small-pr;integration: sighthound;code-quality;Quality Scale: legacy,epenet
+145433,closed,2025-05-22T07:51:19Z,2025-05-22T09:23:34Z,2025-05-22T09:23:34Z,cla-signed;integration: tensorflow;code-quality;Quality Scale: legacy,epenet
+145434,closed,2025-05-22T07:52:50Z,2025-05-26T11:56:37Z,2025-05-26T11:56:37Z,cla-signed;small-pr;new-feature;has-tests;integration: zwave_js;Quality Scale: No score,MindFreeze
+145435,closed,2025-05-22T07:53:42Z,2025-05-22T10:19:22Z,2025-05-22T10:19:22Z,cla-signed;small-pr;code-quality,epenet
+145437,closed,2025-05-22T08:44:34Z,2025-05-26T17:45:43Z,,cla-signed;small-pr;code-quality,joostlek
+145438,closed,2025-05-22T09:06:01Z,2025-05-22T09:11:39Z,2025-05-22T09:11:39Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+145440,closed,2025-05-22T10:28:33Z,2025-05-22T10:40:58Z,2025-05-22T10:40:58Z,cla-signed;small-pr;has-tests;code-quality;integration: matter;Quality Scale: No score,joostlek
+145441,closed,2025-05-22T10:30:28Z,2025-05-22T15:26:04Z,2025-05-22T15:26:04Z,cla-signed;integration: media_extractor;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: internal,joostlek
+145442,closed,2025-05-22T12:17:23Z,2025-05-26T17:45:26Z,2025-05-26T17:45:26Z,cla-signed;small-pr;code-quality,epenet
+145443,closed,2025-05-22T12:37:08Z,2025-05-23T13:33:03Z,2025-05-23T13:33:03Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+145444,closed,2025-05-22T12:44:55Z,2025-05-22T15:26:59Z,2025-05-22T15:26:59Z,cla-signed;cherry-picked;small-pr;integration: smartthings;dependency;by-code-owner;Quality Scale: bronze,joostlek
+145446,open,2025-05-22T13:01:55Z,,,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: No score;integration: blue_current,NickKoepr
+145447,closed,2025-05-22T13:03:22Z,2025-05-22T21:15:22Z,2025-05-22T21:15:22Z,cla-signed;small-pr;code-quality,epenet
+145448,closed,2025-05-22T13:28:27Z,2025-05-22T14:52:59Z,2025-05-22T14:52:59Z,cla-signed;small-pr;integration: homekit;new-feature;Quality Scale: No score,dalanmiller
+145449,closed,2025-05-22T14:30:18Z,2025-05-22T21:10:49Z,2025-05-22T21:10:49Z,cla-signed;small-pr;new-feature;integration: habitica;has-tests;by-code-owner;Quality Scale: platinum,tr4nt0r
+145452,open,2025-05-22T15:46:18Z,,,cla-signed;new-feature;has-tests;by-code-owner;integration: reolink;Quality Scale: platinum,starkillerOG
+145453,open,2025-05-22T16:25:45Z,,,cla-signed;new-feature;integration: geocaching;Quality Scale: No score,marc7s
+145455,closed,2025-05-22T17:37:13Z,2025-05-23T14:32:21Z,2025-05-23T14:32:21Z,cla-signed;new-feature;integration: template;has-tests;by-code-owner;Quality Scale: internal,Petro31
+145456,closed,2025-05-22T18:16:51Z,2025-05-22T19:09:28Z,2025-05-22T19:09:28Z,cla-signed;small-pr;new-feature;by-code-owner;Quality Scale: silver;integration: immich,mib1185
+145457,open,2025-05-22T18:20:38Z,,,integration: netatmo;cla-signed;new-feature;has-tests;Quality Scale: No score,wuede
+145458,closed,2025-05-22T18:30:19Z,2025-05-22T19:12:38Z,2025-05-22T19:12:37Z,cla-signed;small-pr;integration: metoffice;bugfix;Quality Scale: No score,NoRi2909
+145461,open,2025-05-22T18:53:32Z,,,cla-signed;new-feature;integration: template;has-tests;by-code-owner;Quality Scale: internal,Petro31
+145462,closed,2025-05-22T19:12:32Z,2025-05-22T19:20:57Z,2025-05-22T19:20:57Z,cla-signed;small-pr;has-tests;code-quality;integration: tesla_wall_connector;Quality Scale: No score,abmantis
+145463,closed,2025-05-22T19:16:59Z,2025-05-22T19:22:09Z,2025-05-22T19:22:09Z,cla-signed;small-pr;has-tests;code-quality;integration: goalzero;Quality Scale: No score,abmantis
+145464,closed,2025-05-22T19:51:21Z,2025-05-22T20:22:21Z,2025-05-22T20:22:20Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: opower,tronikos
+145465,closed,2025-05-22T19:51:55Z,2025-05-23T06:09:55Z,2025-05-23T06:09:55Z,cla-signed;small-pr;new-feature;has-tests;quality-scale;Quality Scale: bronze;integration: paperless_ngx,joostlek
+145466,closed,2025-05-22T19:53:25Z,2025-05-23T06:08:44Z,2025-05-23T06:08:44Z,cla-signed;small-pr;code-quality;quality-scale;Quality Scale: bronze;integration: paperless_ngx,joostlek
+145468,closed,2025-05-22T20:15:14Z,2025-05-25T08:38:57Z,2025-05-25T08:38:57Z,cla-signed;small-pr;new-feature;integration: smartthings;has-tests;by-code-owner;Quality Scale: bronze,joostlek
+145469,closed,2025-05-22T20:17:07Z,2025-05-25T12:03:13Z,2025-05-25T12:03:13Z,cla-signed;new-feature;has-tests;by-code-owner;quality-scale;Quality Scale: bronze;integration: paperless_ngx,fvgarrel
+145470,closed,2025-05-22T20:34:43Z,2025-05-26T13:43:28Z,2025-05-26T13:43:28Z,cla-signed;small-pr;integration: metoffice;by-code-owner;bugfix;Quality Scale: No score,avee87
+145472,closed,2025-05-22T20:46:19Z,2025-05-26T14:56:16Z,2025-05-26T14:56:16Z,cla-signed;new-feature;integration: metoffice;has-tests;by-code-owner;Quality Scale: No score,avee87
+145474,open,2025-05-22T22:10:27Z,,,cla-signed;integration: metoffice;by-code-owner;code-quality;Quality Scale: No score;quality-scale,avee87
+145475,open,2025-05-22T22:55:34Z,,,cla-signed;small-pr;integration: manual;has-tests;code-quality;Quality Scale: internal,aagit
+145476,closed,2025-05-23T01:44:34Z,2025-05-26T13:05:12Z,2025-05-26T13:05:11Z,cla-signed;by-code-owner;code-quality;integration: eheimdigital;quality-scale;Quality Scale: bronze,autinerd
+145477,closed,2025-05-23T02:51:11Z,2025-05-25T19:59:07Z,2025-05-25T19:59:07Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: internal;integration: assist_pipeline,balloob
+145479,closed,2025-05-23T03:11:27Z,2025-05-23T05:02:30Z,2025-05-23T05:02:30Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: google_generative_ai_conversation,tronikos
+145480,closed,2025-05-23T04:17:23Z,2025-05-23T05:01:48Z,2025-05-23T05:01:48Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: google_generative_ai_conversation,tronikos
+145482,closed,2025-05-23T06:06:33Z,2025-05-23T06:06:37Z,,core;cla-needed;integration: tplink;Quality Scale: platinum;quality-scale,alex-zissis
+145483,closed,2025-05-23T06:19:15Z,2025-05-23T06:48:00Z,,cla-signed;cla-error;has-tests;integration: unifiprotect;Quality Scale: No score,fnxpt
+145485,open,2025-05-23T06:23:29Z,,,core;cla-signed;integration: neato;small-pr;code-quality;Quality Scale: No score,epenet
+145486,closed,2025-05-23T06:54:12Z,2025-05-27T11:14:41Z,,cla-signed;new-feature;has-tests;integration: unifiprotect;Quality Scale: No score,fnxpt
+145487,closed,2025-05-23T07:47:27Z,2025-05-26T14:49:42Z,2025-05-26T14:49:42Z,cla-signed;small-pr;code-quality,epenet
+145488,closed,2025-05-23T07:49:59Z,2025-05-23T10:05:13Z,2025-05-23T10:05:13Z,cla-signed;cherry-picked;small-pr;integration: fibaro;dependency;by-code-owner;Quality Scale: No score,rappenze
+145489,closed,2025-05-23T09:06:10Z,2025-05-23T10:40:14Z,,core;cla-signed;small-pr,epenet
+145490,closed,2025-05-23T09:11:15Z,2025-05-25T14:16:56Z,2025-05-25T14:16:56Z,cla-signed;small-pr;new-feature;integration: shelly;has-tests;by-code-owner;Quality Scale: No score,bieniu
+145492,closed,2025-05-23T09:47:06Z,2025-05-23T12:54:19Z,2025-05-23T12:54:19Z,cla-signed;cherry-picked;small-pr;integration: ecovacs;dependency;by-code-owner;Quality Scale: No score,edenhaus
+145494,closed,2025-05-23T09:59:23Z,2025-05-23T12:48:54Z,2025-05-23T12:48:54Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: anthropic,Shulyaka
+145496,closed,2025-05-23T10:44:55Z,2025-05-26T13:04:27Z,2025-05-26T13:04:27Z,cla-signed;small-pr;new-feature;integration: metoffice;by-code-owner;Quality Scale: No score,avee87
+145497,open,2025-05-23T10:49:23Z,,,cla-signed;new-feature;integration: template;by-code-owner;Quality Scale: internal,Petro31
+145499,closed,2025-05-23T10:56:32Z,2025-05-23T11:23:37Z,2025-05-23T11:23:37Z,core;cla-signed;integration: mqtt;by-code-owner;code-quality;Quality Scale: platinum,jbouwh
+145500,open,2025-05-23T11:06:08Z,,,cla-signed;small-pr;integration: metoffice;by-code-owner;bugfix;Quality Scale: No score,avee87
+145504,closed,2025-05-23T11:58:49Z,2025-05-26T17:28:27Z,2025-05-26T17:28:27Z,core;cla-signed;new-feature;has-tests,emontnemery
+145505,closed,2025-05-23T12:08:40Z,2025-05-23T14:31:44Z,2025-05-23T14:31:44Z,cla-signed;small-pr;new-feature;has-tests;by-code-owner;Quality Scale: No score;integration: anthropic,Shulyaka
+145506,closed,2025-05-23T12:09:26Z,2025-05-23T12:54:09Z,2025-05-23T12:54:09Z,cla-signed;small-pr;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145507,closed,2025-05-23T12:16:23Z,2025-05-23T14:26:22Z,2025-05-23T14:26:22Z,cla-signed;small-pr;integration: tuya;code-quality;Quality Scale: No score,epenet
+145508,open,2025-05-23T12:18:31Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: backblaze_b2,hugo-vrijswijk
+145510,closed,2025-05-23T12:29:58Z,2025-05-23T13:28:42Z,2025-05-23T13:28:42Z,cla-signed;small-pr;integration: xiaomi_miio;integration: blebox;code-quality;Quality Scale: No score,epenet
+145512,open,2025-05-23T13:25:21Z,,,cla-signed;integration: sonos;has-tests;by-code-owner;code-quality;Quality Scale: No score,PeteRager
+145513,closed,2025-05-23T13:35:30Z,2025-05-23T14:12:13Z,2025-05-23T14:12:13Z,cla-signed;integration: fritzbox;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score,mib1185
+145514,closed,2025-05-23T13:45:17Z,2025-05-26T12:25:08Z,2025-05-26T12:25:08Z,cla-signed;small-pr;new-feature;integration: nordpool;has-tests;by-code-owner;Quality Scale: platinum,gjohansson-ST
+145515,open,2025-05-23T14:06:05Z,,,cla-signed;has-tests;by-code-owner;bugfix;Quality Scale: bronze;integration: homee,Taraman17
+145516,closed,2025-05-23T14:10:17Z,2025-05-23T15:09:32Z,2025-05-23T15:09:32Z,core;cla-signed;merging-to-master,frenck
+145517,closed,2025-05-23T14:11:51Z,2025-05-23T15:03:33Z,2025-05-23T15:03:33Z,cla-signed;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145518,closed,2025-05-23T14:30:36Z,2025-05-23T15:12:43Z,2025-05-23T15:12:43Z,cla-signed;small-pr;integration: ecovacs;dependency;by-code-owner;Quality Scale: No score,mib1185
+145519,closed,2025-05-23T14:41:35Z,2025-05-23T15:46:09Z,2025-05-23T15:46:09Z,cla-signed;small-pr;code-quality,epenet
+145520,closed,2025-05-23T14:52:01Z,2025-05-23T19:10:27Z,2025-05-23T19:10:26Z,cla-signed;integration: feedreader;small-pr;by-code-owner;code-quality;Quality Scale: No score,mib1185
+145522,closed,2025-05-23T15:54:12Z,2025-05-23T15:58:45Z,2025-05-23T15:58:45Z,cla-signed;small-pr;new-feature;integration: statistics;Quality Scale: internal,karwosts
+145523,closed,2025-05-23T16:19:36Z,2025-05-26T13:28:30Z,2025-05-26T13:28:30Z,core;cla-signed;small-pr;integration: sensor;has-tests;by-code-owner;code-quality;Quality Scale: internal,abmantis
+145526,closed,2025-05-23T17:23:30Z,2025-05-26T19:08:30Z,2025-05-26T19:08:30Z,cla-signed;new-feature;integration: filter;Quality Scale: internal,karwosts
+145527,open,2025-05-23T17:36:50Z,,,core;cla-signed;small-pr;new-feature,balloob
+145528,open,2025-05-23T18:00:43Z,,,cla-signed;new-feature;integration: template;has-tests;by-code-owner;Quality Scale: internal,Petro31
+145529,closed,2025-05-23T18:05:17Z,2025-05-24T19:26:49Z,2025-05-24T19:26:49Z,core;cla-signed;integration: mqtt;small-pr;by-code-owner;bugfix;Quality Scale: platinum,jbouwh
+145532,closed,2025-05-23T18:51:17Z,2025-05-24T09:41:17Z,2025-05-24T09:41:17Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: No score;integration: homeassistant_hardware,abmantis
+145534,open,2025-05-23T20:33:04Z,,,cla-signed;new-feature;integration: template;has-tests;by-code-owner;Quality Scale: internal,Petro31
+145535,closed,2025-05-23T21:09:58Z,2025-05-23T21:59:22Z,2025-05-23T21:59:22Z,cla-signed;small-pr;integration: template;dependency;by-code-owner;Quality Scale: internal,Petro31
+145537,closed,2025-05-23T21:47:50Z,2025-05-24T19:20:04Z,2025-05-24T19:20:04Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: No score;integration: androidtv_remote,tronikos
+145540,closed,2025-05-24T01:07:38Z,2025-05-24T07:52:48Z,2025-05-24T07:52:48Z,core;cla-signed;small-pr;dependency,bdraco
+145542,closed,2025-05-24T02:30:25Z,2025-05-24T15:41:41Z,2025-05-24T15:41:41Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: androidtv_remote,tronikos
+145546,closed,2025-05-24T07:03:09Z,2025-05-24T08:53:09Z,2025-05-24T08:53:09Z,cla-signed;small-pr;integration: incomfort;dependency;by-code-owner;Quality Scale: platinum,jbouwh
+145548,closed,2025-05-24T08:36:53Z,2025-05-26T12:56:56Z,2025-05-26T12:56:56Z,cla-signed;new-feature;has-tests;integration: unifiprotect;Quality Scale: No score,jrieger
+145549,open,2025-05-24T08:50:08Z,,,cla-signed;small-pr;integration: enphase_envoy;has-tests;by-code-owner;bugfix;Quality Scale: platinum,catsmanac
+145550,closed,2025-05-24T09:18:28Z,2025-05-24T19:53:41Z,2025-05-24T19:53:41Z,cla-signed;small-pr;dependency;Quality Scale: No score;integration: linkplay,silamon
+145559,closed,2025-05-24T18:47:54Z,2025-05-25T12:01:15Z,2025-05-25T12:01:15Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+145560,closed,2025-05-24T19:20:47Z,2025-05-24T21:46:52Z,2025-05-24T21:46:52Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: platinum;integration: lamarzocco,zweckj
+145562,closed,2025-05-24T20:19:02Z,2025-05-24T21:12:17Z,2025-05-24T21:12:17Z,core;cla-signed;small-pr;dependency,bdraco
+145563,closed,2025-05-24T20:51:52Z,2025-05-26T09:13:24Z,2025-05-26T09:13:24Z,core;cla-signed;integration: mqtt;small-pr;by-code-owner;bugfix;Quality Scale: platinum,jbouwh
+145565,closed,2025-05-24T21:49:20Z,2025-05-24T23:04:26Z,2025-05-24T23:04:26Z,cla-signed;small-pr;dependency;by-code-owner;bugfix;smash;Quality Scale: silver;integration: rehlko,PeteRager
+145569,closed,2025-05-24T22:16:19Z,2025-05-26T12:00:30Z,2025-05-26T12:00:30Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: homee,Taraman17
+145570,closed,2025-05-24T22:41:00Z,2025-05-24T23:10:59Z,2025-05-24T23:10:58Z,core;cla-signed;small-pr;dependency,bdraco
+145573,closed,2025-05-25T06:14:13Z,2025-05-25T08:37:50Z,2025-05-25T08:37:50Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: opower,tronikos
+145576,closed,2025-05-25T08:34:07Z,2025-05-26T09:13:16Z,2025-05-26T09:13:16Z,cla-signed;small-pr;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+145577,closed,2025-05-25T10:04:29Z,2025-05-26T12:56:16Z,2025-05-26T12:56:16Z,cla-signed;bugfix;Quality Scale: bronze;integration: miele,aturri
+145578,open,2025-05-25T10:11:53Z,,,cla-signed;has-tests;code-quality;Quality Scale: bronze;integration: miele,aturri
+145579,closed,2025-05-25T10:51:42Z,2025-05-25T12:38:08Z,2025-05-25T12:38:08Z,core;cla-signed;small-pr;code-quality,cdce8p
+145580,closed,2025-05-25T11:02:57Z,2025-05-25T13:57:35Z,,cla-signed;small-pr;by-code-owner;integration: unifiprotect;Quality Scale: No score,RaHehl
+145583,closed,2025-05-25T13:59:11Z,2025-05-25T16:42:02Z,2025-05-25T16:42:02Z,cla-signed;small-pr;has-tests;dependency;by-code-owner;integration: unifiprotect;Quality Scale: No score,RaHehl
+145585,closed,2025-05-25T14:27:27Z,2025-05-27T10:07:44Z,,cla-signed;small-pr;new-feature;has-tests;Quality Scale: No score;integration: ollama,jkellerer
+145587,closed,2025-05-25T15:49:36Z,2025-05-25T16:20:44Z,2025-05-25T16:20:44Z,cla-signed;small-pr;new-feature;has-tests;quality-scale;Quality Scale: bronze;integration: amazon_devices,joostlek
+145588,closed,2025-05-25T15:58:43Z,2025-05-26T14:01:11Z,2025-05-26T14:01:11Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: amazon_devices,chemelli74
+145589,closed,2025-05-25T16:18:50Z,2025-05-26T15:17:32Z,2025-05-26T15:17:32Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: amazon_devices,chemelli74
+145590,closed,2025-05-25T16:22:36Z,2025-05-25T16:40:04Z,2025-05-25T16:40:04Z,cla-signed;small-pr;integration: smartthings;has-tests;by-code-owner;bugfix;Quality Scale: bronze,joostlek
+145591,closed,2025-05-25T18:21:04Z,2025-05-26T15:24:23Z,2025-05-26T15:24:23Z,cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: silver;integration: paperless_ngx,fvgarrel
+145594,open,2025-05-25T18:47:02Z,,,cla-signed;new-integration;has-tests;quality-scale;integration: bresser,fkiscd
+145595,closed,2025-05-25T19:53:27Z,2025-05-25T21:59:06Z,2025-05-25T21:59:06Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: platinum;integration: lamarzocco,zweckj
+145596,closed,2025-05-25T21:02:24Z,2025-05-25T21:51:53Z,2025-05-25T21:51:53Z,cla-signed;small-pr;dependency;by-code-owner;integration: unifiprotect;Quality Scale: No score,RaHehl
+145597,closed,2025-05-25T21:38:46Z,2025-05-26T04:53:09Z,2025-05-26T04:53:09Z,cla-signed;integration: zha;small-pr;has-tests;dependency;by-code-owner;Quality Scale: No score,TheJulianJES
+145598,closed,2025-05-25T21:55:37Z,2025-05-26T08:59:14Z,2025-05-26T08:59:14Z,cla-signed;small-pr;new-feature;by-code-owner;Quality Scale: bronze;integration: amazon_devices,chemelli74
+145600,closed,2025-05-25T22:42:58Z,2025-05-26T09:00:09Z,2025-05-26T09:00:09Z,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: bronze;integration: amazon_devices,chemelli74
+145601,closed,2025-05-25T23:06:18Z,2025-05-26T16:24:23Z,2025-05-26T16:24:23Z,cla-signed;small-pr;new-feature;by-code-owner;Quality Scale: bronze;integration: amazon_devices,chemelli74
+145602,open,2025-05-25T23:18:06Z,,,cla-signed;small-pr;integration: sonos;has-tests;by-code-owner;code-quality;Quality Scale: No score,PeteRager
+145605,closed,2025-05-26T06:18:52Z,2025-05-26T11:21:00Z,2025-05-26T11:21:00Z,cla-signed;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145606,open,2025-05-26T06:37:32Z,,,core;cla-signed;integration: calendar;small-pr;new-feature;has-tests;integration: local_calendar;Quality Scale: No score;Quality Scale: internal,Misiu
+145608,closed,2025-05-26T07:29:16Z,2025-05-26T08:21:38Z,2025-05-26T08:21:38Z,cla-signed;small-pr;code-quality,epenet
+145610,closed,2025-05-26T09:00:44Z,2025-05-26T09:22:47Z,2025-05-26T09:22:46Z,cla-signed;small-pr;integration: shelly;by-code-owner;code-quality,bieniu
+145611,closed,2025-05-26T09:16:52Z,2025-05-26T12:46:07Z,2025-05-26T12:46:07Z,cla-signed;integration: xiaomi_miio;code-quality,epenet
+145612,closed,2025-05-26T11:02:17Z,2025-05-26T12:45:55Z,2025-05-26T12:45:55Z,cla-signed;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145613,open,2025-05-26T12:28:02Z,,,cla-signed;small-pr;integration: elkm1;bugfix;Quality Scale: No score,Hodnc
+145614,closed,2025-05-26T13:01:25Z,2025-05-26T13:07:05Z,2025-05-26T13:07:05Z,cla-signed;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145615,closed,2025-05-26T13:12:39Z,2025-05-26T14:48:41Z,2025-05-26T14:48:41Z,core;cla-signed;small-pr;integration: homeassistant;integration: cups;has-tests;by-code-owner;deprecation;Quality Scale: internal;Quality Scale: legacy,edenhaus
+145616,closed,2025-05-26T13:46:42Z,2025-05-26T13:57:01Z,2025-05-26T13:57:01Z,cla-signed;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145617,closed,2025-05-26T14:11:25Z,2025-05-26T14:16:18Z,2025-05-26T14:16:18Z,cla-signed;integration: xiaomi_miio;code-quality;Quality Scale: No score,epenet
+145619,closed,2025-05-26T14:24:41Z,2025-05-26T14:28:18Z,2025-05-26T14:28:18Z,cla-signed;small-pr;new-feature;has-tests;Quality Scale: No score;integration: music_assistant,marcelveldt
+145620,open,2025-05-26T14:28:02Z,,,cla-signed;small-pr;integration: shelly;has-tests;by-code-owner;code-quality;Quality Scale: silver,bieniu
+145622,closed,2025-05-26T14:55:20Z,2025-05-26T15:07:05Z,2025-05-26T15:07:05Z,cla-signed;small-pr;has-tests;bugfix;Quality Scale: No score;integration: music_assistant,marcelveldt
+145624,closed,2025-05-26T15:26:54Z,2025-05-26T16:05:26Z,2025-05-26T16:05:26Z,core;cla-signed;small-pr;dependency,bdraco
+145625,closed,2025-05-26T15:27:15Z,2025-05-26T16:40:14Z,2025-05-26T16:40:14Z,cla-signed;small-pr;code-quality,epenet
+145626,open,2025-05-26T15:46:52Z,,,cla-signed;small-pr;new-feature;has-tests;noteworthy;Quality Scale: No score;integration: music_assistant,marcelveldt
+145627,closed,2025-05-26T16:22:32Z,2025-05-26T16:54:00Z,2025-05-26T16:54:00Z,core;cla-signed;small-pr;dependency,bdraco
+145628,closed,2025-05-26T16:35:31Z,2025-05-26T17:44:22Z,2025-05-26T17:44:22Z,dependency,bramkragten
+145629,closed,2025-05-26T16:47:26Z,2025-05-26T17:02:53Z,2025-05-26T17:02:53Z,cla-signed;integration: zha;small-pr;bugfix;Quality Scale: No score,freundTech
+145630,closed,2025-05-26T17:19:21Z,2025-05-26T17:31:25Z,2025-05-26T17:31:25Z,cla-signed;integration: zha;small-pr;by-code-owner;bugfix;Quality Scale: No score,TheJulianJES
+145631,closed,2025-05-26T17:23:55Z,2025-05-26T17:39:11Z,2025-05-26T17:39:11Z,core;cla-signed;small-pr;has-tests;bugfix,joostlek
+145632,closed,2025-05-26T17:30:13Z,2025-05-26T17:35:07Z,2025-05-26T17:35:07Z,cla-signed;small-pr;integration: squeezebox;has-tests;code-quality;Quality Scale: No score,emontnemery
+145633,closed,2025-05-26T17:38:33Z,2025-05-26T17:53:54Z,2025-05-26T17:53:54Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: silver;integration: paperless_ngx,fvgarrel
+145634,closed,2025-05-26T17:38:49Z,2025-05-26T17:44:32Z,2025-05-26T17:44:32Z,cla-signed;integration: zha;small-pr;new-feature;by-code-owner;Quality Scale: No score,TheJulianJES
+145635,open,2025-05-26T18:06:30Z,,,core;cla-signed;small-pr;new-feature;code-quality,dhoeben
+145636,closed,2025-05-26T18:33:11Z,2025-05-26T19:12:05Z,2025-05-26T19:12:05Z,cla-signed;integration: google;small-pr;dependency;by-code-owner;bugfix;integration: local_calendar;Quality Scale: No score;Quality Scale: silver;integration: local_todo;integration: remote_calendar,allenporter
+145637,closed,2025-05-26T18:37:06Z,2025-05-26T19:04:46Z,2025-05-26T19:04:46Z,cla-signed;integration: tado;small-pr;dependency;by-code-owner;code-quality;Quality Scale: No score,erwindouna
+145638,closed,2025-05-26T18:53:58Z,2025-05-26T21:24:53Z,2025-05-26T21:24:53Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: silver;integration: paperless_ngx,fvgarrel
+145639,closed,2025-05-26T18:56:36Z,2025-05-26T19:22:10Z,2025-05-26T19:22:10Z,core;cla-signed;integration: mqtt;small-pr;integration: sensor;integration: template;integration: sql;integration: scrape;by-code-owner;bugfix;Quality Scale: No score;Quality Scale: internal;Quality Scale: platinum,jbouwh
+145642,closed,2025-05-26T19:20:15Z,2025-05-26T19:48:13Z,2025-05-26T19:48:13Z,cla-signed;integration: google;small-pr;dependency;by-code-owner;Quality Scale: No score,allenporter
+145644,closed,2025-05-26T19:50:26Z,2025-05-26T19:55:33Z,2025-05-26T19:55:33Z,cla-signed;small-pr;has-tests;bugfix;Quality Scale: No score;integration: teslemetry,joostlek
+145645,open,2025-05-26T20:12:26Z,,,cla-signed;new-feature;by-code-owner;Quality Scale: bronze;integration: amazon_devices,chemelli74
+145646,open,2025-05-26T20:29:53Z,,,cla-signed;small-pr;integration: melcloud;by-code-owner;code-quality;Quality Scale: No score,erwindouna
+145647,closed,2025-05-26T20:34:25Z,2025-05-27T08:59:34Z,2025-05-27T08:59:34Z,core;cla-signed;small-pr;code-quality,frenck
+145648,closed,2025-05-26T20:41:08Z,2025-05-28T08:16:41Z,2025-05-28T08:16:41Z,core;cla-signed;integration: mqtt;cherry-picked;has-tests;by-code-owner;bugfix;Quality Scale: platinum,jbouwh
+145649,closed,2025-05-26T20:54:44Z,2025-05-26T21:47:53Z,2025-05-26T21:47:53Z,core;cla-signed;cherry-picked;small-pr;integration: sensor;bugfix;Quality Scale: internal,jbouwh
+145650,open,2025-05-26T21:00:08Z,,,core;cla-signed;merging-to-master;new-integration;quality-scale,frenck
+145651,closed,2025-05-26T21:03:25Z,2025-05-26T21:08:07Z,2025-05-26T21:08:07Z,cla-signed;cherry-picked;small-pr;has-tests;code-quality;Quality Scale: No score;integration: aquacell,joostlek
+145652,open,2025-05-26T21:04:08Z,,,cla-signed;code-quality;bugfix;integration: matter;Quality Scale: No score,jvmahon
+145653,closed,2025-05-26T21:10:54Z,2025-05-26T21:11:39Z,,cla-signed;small-pr;has-tests;Quality Scale: No score;integration: aquacell,jbouwh
+145654,open,2025-05-26T21:13:58Z,,,cla-signed;small-pr;new-feature;has-tests;integration: signal_messenger;Quality Scale: legacy,mathisdt
+145656,closed,2025-05-26T21:22:21Z,2025-05-27T06:49:25Z,2025-05-27T06:49:25Z,cla-signed;cherry-picked;small-pr;has-tests;bugfix;Quality Scale: bronze;integration: amazon_devices,joostlek
+145657,closed,2025-05-26T21:28:38Z,2025-05-27T06:42:08Z,2025-05-27T06:42:08Z,cla-signed;small-pr;new-feature;integration: trend;Quality Scale: internal,karwosts
+145658,closed,2025-05-26T21:33:52Z,2025-05-26T22:01:35Z,2025-05-26T22:01:35Z,cla-signed;integration: nest;cherry-picked;small-pr;bugfix;Quality Scale: No score,joostlek
+145663,closed,2025-05-26T21:48:24Z,2025-05-27T16:53:45Z,2025-05-27T16:53:45Z,cla-signed;cherry-picked;small-pr;integration: google_travel_time;has-tests;by-code-owner;bugfix;Quality Scale: No score,eifinger
+145664,open,2025-05-26T21:50:14Z,,,cla-signed;small-pr;new-feature;integration: integration;Quality Scale: internal,karwosts
+145671,closed,2025-05-27T01:04:33Z,2025-05-27T02:58:46Z,2025-05-27T02:58:46Z,core;cla-signed;cherry-picked;small-pr;dependency,bdraco
+145673,open,2025-05-27T02:15:17Z,,,breaking-change;cla-signed;integration: apcupsd;small-pr;has-tests;by-code-owner;Quality Scale: No score,yuxincs
+145675,closed,2025-05-27T03:27:06Z,2025-05-27T07:49:00Z,2025-05-27T07:48:59Z,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: homee,Taraman17
+145676,open,2025-05-27T03:27:22Z,,,integration: lutron;cla-signed;small-pr;new-feature;Quality Scale: No score,christopherboyd
+145679,closed,2025-05-27T06:31:02Z,2025-05-27T06:57:36Z,2025-05-27T06:57:36Z,cla-signed;small-pr;code-quality,epenet
+145681,closed,2025-05-27T06:44:33Z,2025-05-27T06:48:07Z,2025-05-27T06:48:07Z,cla-signed;cherry-picked;small-pr;has-tests;bugfix;integration: justnimbus;Quality Scale: No score,jbouwh
+145682,closed,2025-05-27T06:48:14Z,2025-05-27T10:53:31Z,2025-05-27T10:53:31Z,cla-signed;cherry-picked;small-pr;has-tests;bugfix;integration: zwave_js;Quality Scale: No score,MindFreeze
+145688,closed,2025-05-27T07:25:11Z,2025-05-27T08:04:29Z,2025-05-27T08:04:29Z,cla-signed;cherry-picked;small-pr;bugfix;integration: zwave_js;Quality Scale: No score,MindFreeze
+145689,closed,2025-05-27T07:36:55Z,2025-05-27T07:56:16Z,2025-05-27T07:56:16Z,cla-signed;small-pr;code-quality;Quality Scale: platinum;code-owner-approved;integration: overseerr,NoRi2909
+145690,closed,2025-05-27T07:57:16Z,2025-05-27T08:44:00Z,2025-05-27T08:44:00Z,cla-signed;small-pr;code-quality,epenet
+145692,open,2025-05-27T08:41:27Z,,,cla-needed;small-pr;new-feature;integration: ezviz;Quality Scale: No score,kizovinh
+145694,open,2025-05-27T08:58:31Z,,,new-platform;cla-signed;new-feature;has-tests;by-code-owner;integration: imeon_inverter;Quality Scale: bronze,Imeon-Energy
+145695,closed,2025-05-27T09:40:12Z,2025-05-27T15:45:51Z,2025-05-27T15:45:51Z,cla-signed;small-pr;code-quality,epenet
+145698,closed,2025-05-27T10:04:10Z,2025-05-27T10:33:02Z,2025-05-27T10:33:02Z,cla-signed;cherry-picked;small-pr;has-tests;bugfix;Quality Scale: bronze;integration: amazon_devices,joostlek
+145699,closed,2025-05-27T10:09:46Z,2025-05-27T10:54:57Z,2025-05-27T10:54:57Z,core;cla-signed;integration: websocket_api;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: internal,MartinHjelmare
+145700,closed,2025-05-27T10:24:25Z,2025-05-27T11:30:44Z,2025-05-27T11:30:44Z,cla-signed;small-pr;integration: onewire;by-code-owner;code-quality;Quality Scale: No score,epenet
+145701,closed,2025-05-27T10:40:35Z,2025-05-28T06:13:28Z,2025-05-28T06:13:28Z,cla-signed;cherry-picked;small-pr;bugfix;Quality Scale: bronze;integration: amazon_devices,zweckj
+145702,closed,2025-05-27T11:06:49Z,2025-05-27T12:51:22Z,2025-05-27T12:51:22Z,cla-signed;small-pr;bugfix;integration: zwave_js;Quality Scale: No score,MindFreeze
+145704,open,2025-05-27T11:16:13Z,,,cla-signed;small-pr;bugfix;Quality Scale: internal;integration: assist_pipeline,HarvsG
+145706,open,2025-05-27T12:24:57Z,,,cla-signed;new-feature;has-tests;integration: matter;Quality Scale: No score,lboue
+145707,closed,2025-05-27T12:39:54Z,2025-05-27T14:13:14Z,,new-platform;cla-signed;new-feature;by-code-owner;Quality Scale: bronze;integration: smarla,rlint-explicatis
+145709,open,2025-05-27T13:15:24Z,,,cla-signed;small-pr;has-tests;integration: airly;integration: agent_dvr;code-quality;Quality Scale: No score;integration: airgradient,epenet
+145710,closed,2025-05-27T13:29:34Z,2025-05-27T13:58:19Z,2025-05-27T13:58:19Z,cla-signed;small-pr;by-code-owner;code-quality;Quality Scale: bronze;integration: smarla,rlint-explicatis
+145711,closed,2025-05-27T13:37:36Z,2025-05-27T15:35:12Z,2025-05-27T15:35:12Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: matter;Quality Scale: No score,MartinHjelmare
+145712,closed,2025-05-27T13:39:45Z,2025-05-28T13:14:23Z,,cla-signed;small-pr;has-tests;by-code-owner;code-quality;Quality Scale: bronze;integration: smarla,rlint-explicatis
+145713,closed,2025-05-27T13:41:19Z,2025-05-27T15:46:21Z,2025-05-27T15:46:21Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: matter;Quality Scale: No score,MartinHjelmare
+145714,open,2025-05-27T13:44:15Z,,,cla-signed;small-pr;has-tests;code-quality,epenet
+145717,open,2025-05-27T14:41:31Z,,,cla-signed;small-pr;has-tests;code-quality,epenet
+145718,closed,2025-05-27T14:43:55Z,2025-05-28T13:51:49Z,2025-05-28T13:51:49Z,cla-signed;small-pr;has-tests;integration: airly;integration: agent_dvr;code-quality;Quality Scale: No score;integration: airgradient,epenet
+145719,closed,2025-05-27T15:10:25Z,2025-05-27T21:00:52Z,2025-05-27T21:00:52Z,core;cla-signed;cherry-picked;bugfix,emontnemery
+145721,open,2025-05-27T15:27:51Z,,,cla-signed;new-feature;integration: history_stats;has-tests;Quality Scale: internal,karwosts
+145722,closed,2025-05-27T15:29:30Z,2025-05-27T16:45:49Z,2025-05-27T16:45:49Z,cla-signed;cherry-picked;integration: google_travel_time;has-tests;by-code-owner;bugfix;Quality Scale: No score,eifinger
+145723,closed,2025-05-27T15:32:00Z,2025-05-30T12:12:50Z,,cla-signed;cla-error;small-pr;integration: pi_hole;Quality Scale: No score,HarvsG
+145725,closed,2025-05-27T15:36:13Z,2025-05-27T15:44:48Z,2025-05-27T15:44:48Z,cla-signed;cherry-picked;small-pr;new-feature;integration: google_travel_time;by-code-owner;Quality Scale: No score,eifinger
+145727,closed,2025-05-27T16:36:40Z,2025-05-27T16:41:00Z,,cla-signed;small-pr;has-tests;bugfix;Quality Scale: No score;integration: aquacell,jbouwh
+145729,closed,2025-05-27T17:10:32Z,2025-05-27T17:29:04Z,2025-05-27T17:29:04Z,cla-signed;cherry-picked;small-pr;has-tests;integration: acmeda;bugfix;Quality Scale: No score,joostlek
+145731,closed,2025-05-27T17:36:59Z,2025-05-27T17:50:31Z,2025-05-27T17:50:31Z,cla-signed;small-pr;integration: melcloud;by-code-owner;code-quality;Quality Scale: No score,erwindouna
+145732,closed,2025-05-27T17:40:58Z,2025-05-27T17:58:05Z,2025-05-27T17:58:05Z,cla-signed;small-pr;integration: niko_home_control;has-tests;code-quality;Quality Scale: No score,joostlek
+145733,open,2025-05-27T17:43:52Z,,,cla-signed;small-pr;integration: nmbs;has-tests;code-quality;Quality Scale: legacy,joostlek
+145734,closed,2025-05-27T17:45:20Z,2025-05-28T18:51:27Z,2025-05-28T18:51:27Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;Quality Scale: silver;integration: immich,mib1185
+145735,closed,2025-05-27T18:03:04Z,2025-05-27T20:17:34Z,2025-05-27T20:17:34Z,cla-signed;cherry-picked;small-pr;integration: dnsip;by-code-owner;bugfix;Quality Scale: No score,gjohansson-ST
+145736,open,2025-05-27T18:32:38Z,,,cla-signed;small-pr;new-feature;integration: universal;has-tests;Quality Scale: internal,FrnchFrgg
+145737,closed,2025-05-27T18:41:54Z,2025-05-27T20:58:46Z,2025-05-27T20:58:46Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: unifiprotect;Quality Scale: No score,RaHehl
+145738,closed,2025-05-27T18:58:20Z,2025-05-27T19:27:52Z,2025-05-27T19:27:52Z,cla-signed;integration: tado;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: No score,erwindouna
+145739,closed,2025-05-27T19:23:04Z,2025-05-27T19:36:52Z,2025-05-27T19:36:52Z,cla-signed;small-pr;integration: squeezebox;has-tests;bugfix;Quality Scale: No score,jbouwh
+145740,closed,2025-05-27T19:39:44Z,2025-05-29T06:36:36Z,,cla-signed;small-pr;dependency;dependency-bump,edenhaus
+145741,closed,2025-05-27T19:45:11Z,2025-05-27T20:12:08Z,2025-05-27T20:12:08Z,core;cla-signed;cherry-picked;integration: frontend;small-pr;dependency;by-code-owner;Quality Scale: internal,bramkragten
+145743,open,2025-05-27T20:02:20Z,,,cla-signed;small-pr;has-tests;integration: matter;Quality Scale: No score,lboue
+145746,closed,2025-05-27T20:36:06Z,2025-05-27T20:45:30Z,2025-05-27T20:45:30Z,cla-signed;small-pr;new-feature;Quality Scale: No score;integration: lg_thinq,joostlek
+145747,open,2025-05-27T20:48:43Z,,,new-platform;cla-signed;has-tests;by-code-owner;Quality Scale: bronze;integration: smarla,rlint-explicatis
+145748,open,2025-05-27T20:54:26Z,,,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: bronze;integration: smarla,rlint-explicatis
+145749,closed,2025-05-27T21:04:58Z,2025-05-28T13:56:47Z,2025-05-28T13:56:47Z,core;cla-signed;cherry-picked;small-pr;new-integration,abmantis
+145751,closed,2025-05-27T21:39:14Z,2025-05-29T01:52:06Z,2025-05-29T01:52:06Z,cla-signed;cherry-picked;small-pr;bugfix;integration: nobo_hub;Quality Scale: No score,lersveen
+145753,open,2025-05-27T21:47:12Z,,,cla-signed;small-pr;integration: sma;by-code-owner;Quality Scale: No score,erwindouna
+145754,closed,2025-05-27T21:56:04Z,2025-05-28T06:43:59Z,2025-05-28T06:43:59Z,cla-signed;cherry-picked;small-pr;code-quality;Quality Scale: bronze;integration: amazon_devices,joostlek
+145755,open,2025-05-27T22:30:45Z,,,cla-signed;small-pr;integration: rocketchat;dependency;Quality Scale: legacy,sampaiodiego
+145763,closed,2025-05-28T06:28:43Z,2025-05-28T07:39:33Z,2025-05-28T07:39:33Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+145764,closed,2025-05-28T06:45:41Z,2025-05-28T07:10:38Z,2025-05-28T07:10:38Z,github_actions;dependencies,dependabot[bot]
+145765,closed,2025-05-28T06:52:43Z,2025-05-28T10:26:29Z,2025-05-28T10:26:29Z,core;cla-signed;integration: config;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: internal,emontnemery
+145766,open,2025-05-28T06:54:10Z,,,cla-signed;small-pr;integration: foscam;dependency;Quality Scale: No score,Foscam-wangzhengyu
+145767,closed,2025-05-28T07:02:47Z,2025-05-28T07:58:44Z,2025-05-28T07:58:44Z,cla-signed;cherry-picked;integration: dlib_face_detect;integration: dlib_face_identify;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145768,closed,2025-05-28T07:21:56Z,2025-05-28T09:16:08Z,2025-05-28T09:16:08Z,cla-signed;cherry-picked;small-pr;integration: gstreamer;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145770,closed,2025-05-28T07:53:22Z,2025-05-28T08:57:01Z,2025-05-28T08:57:01Z,cla-signed;cherry-picked;small-pr;new-feature;by-code-owner;integration: home_connect;Quality Scale: No score,Diegorro98
+145771,open,2025-05-28T07:59:04Z,,,new-platform;cla-signed;new-feature;has-tests;by-code-owner;integration: qbus;Quality Scale: bronze,thomasddn
+145772,closed,2025-05-28T08:06:17Z,2025-05-28T08:15:24Z,2025-05-28T08:15:24Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: platinum;integration: lamarzocco,zweckj
+145773,closed,2025-05-28T08:12:12Z,2025-05-28T10:09:05Z,2025-05-28T10:09:05Z,cla-signed;small-pr;has-tests;code-quality,epenet
+145774,closed,2025-05-28T08:23:27Z,2025-05-28T08:24:05Z,,new-platform;cla-needed;Quality Scale: No score;integration: switchbot_cloud,XiaoLing-git
+145775,closed,2025-05-28T08:32:25Z,2025-05-28T09:02:36Z,,new-platform;cla-needed;Quality Scale: No score;integration: switchbot_cloud,XiaoLing-git
+145776,open,2025-05-28T08:38:15Z,,,cla-signed;small-pr;code-quality;Quality Scale: bronze;integration: amazon_devices,joostlek
+145778,open,2025-05-28T08:43:06Z,,,cla-signed;has-tests;by-code-owner;code-quality;integration: imeon_inverter;Quality Scale: bronze,Imeon-Energy
+145779,closed,2025-05-28T08:43:34Z,2025-05-28T15:10:38Z,2025-05-28T15:10:38Z,cla-signed;small-pr;new-feature;integration: reolink;Quality Scale: platinum;code-owner-approved,lennartnederstigt
+145780,closed,2025-05-28T09:05:35Z,2025-05-28T09:31:44Z,,new-platform;cla-needed;Quality Scale: No score;integration: switchbot_cloud,XiaoLing-git
+145781,closed,2025-05-28T09:29:42Z,2025-05-28T09:31:31Z,,new-platform;cla-needed;Quality Scale: No score;integration: switchbot_cloud,XiaoLing-git
+145782,open,2025-05-28T09:43:39Z,,,cla-signed;small-pr;integration: sma;by-code-owner;code-quality;Quality Scale: No score,erwindouna
+145783,closed,2025-05-28T09:57:15Z,2025-05-28T10:07:39Z,,new-platform;cla-needed;Quality Scale: No score;integration: switchbot_cloud,XiaoLing-git
+145784,open,2025-05-28T10:06:33Z,,,cla-signed;integration: snips;small-pr;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145785,closed,2025-05-28T10:17:19Z,2025-05-28T11:12:55Z,2025-05-28T11:12:55Z,cla-signed;cherry-picked;small-pr;integration: pandora;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145786,closed,2025-05-28T10:27:44Z,2025-05-30T18:22:40Z,2025-05-30T18:22:40Z,cla-signed;small-pr;dependency;Quality Scale: No score;integration: switchbot_cloud,XiaoLing-git
+145787,open,2025-05-28T10:27:54Z,,,cla-signed;small-pr;has-tests;by-code-owner;bugfix;integration: analytics;Quality Scale: internal,ludeeus
+145788,open,2025-05-28T10:30:55Z,,,cla-signed;small-pr;code-quality,epenet
+145789,closed,2025-05-28T10:53:06Z,2025-05-28T14:35:11Z,2025-05-28T14:35:11Z,core;cla-signed;small-pr;dependency,cdce8p
+145790,closed,2025-05-28T11:00:54Z,2025-05-28T14:39:10Z,2025-05-28T14:39:10Z,core;integration: recorder;cla-signed;small-pr;integration: sql;dependency;Quality Scale: No score;Quality Scale: internal,cdce8p
+145791,closed,2025-05-28T11:05:43Z,2025-05-28T12:04:35Z,2025-05-28T12:04:35Z,core;cla-signed;small-pr;code-quality,epenet
+145796,open,2025-05-28T12:18:19Z,,,cla-signed;new-feature;integration: freebox;has-tests;Quality Scale: No score,adriencog
+145797,closed,2025-05-28T12:24:14Z,2025-05-28T16:28:37Z,2025-05-28T16:28:37Z,cla-signed;cherry-picked;small-pr;has-tests;integration: lirc;deprecation;Quality Scale: legacy,edenhaus
+145798,closed,2025-05-28T12:35:14Z,2025-05-28T12:43:48Z,2025-05-28T12:43:48Z,cla-signed;integration: hue;small-pr;has-tests;code-quality;Quality Scale: No score,epenet
+145799,closed,2025-05-28T12:38:51Z,2025-05-28T14:33:20Z,2025-05-28T14:33:20Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: reolink;Quality Scale: platinum,starkillerOG
+145801,closed,2025-05-28T12:40:54Z,2025-05-28T13:51:37Z,2025-05-28T13:51:37Z,core;cla-signed;small-pr;has-tests;code-quality,epenet
+145803,open,2025-05-28T13:05:44Z,,,cla-signed;small-pr;has-tests;by-code-owner;Quality Scale: bronze;integration: smarla,rlint-explicatis
+145804,open,2025-05-28T13:08:08Z,,,cla-signed;small-pr;new-feature;integration: fritz;Quality Scale: No score,N1co93
+145805,closed,2025-05-28T13:38:32Z,2025-05-28T15:22:18Z,2025-05-28T15:22:18Z,cla-signed;cherry-picked;small-pr;integration: keyboard;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145806,closed,2025-05-28T13:53:27Z,2025-05-29T13:35:36Z,2025-05-29T13:35:36Z,cla-signed;cherry-picked;small-pr;integration: tensorflow;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145807,closed,2025-05-28T14:29:38Z,2025-05-28T21:54:49Z,2025-05-28T21:54:48Z,cla-signed;cherry-picked;small-pr;integration: decora;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145809,closed,2025-05-28T14:56:51Z,2025-05-28T16:52:51Z,2025-05-28T16:52:51Z,core;cla-signed;cherry-picked;small-pr;second-opinion-wanted;bugfix,zxdavb
+145811,open,2025-05-28T15:21:21Z,,,cla-signed;integration: onvif;bugfix;Quality Scale: No score,ramon-angosto
+145813,closed,2025-05-28T15:37:47Z,2025-05-29T13:28:54Z,2025-05-29T13:28:54Z,cla-signed;cherry-picked;integration: workday;has-tests;by-code-owner;bugfix;Quality Scale: internal,gjohansson-ST
+145816,closed,2025-05-28T16:10:26Z,2025-05-28T18:14:14Z,2025-05-28T18:14:14Z,core;cla-signed;integration: conversation;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: internal,synesthesiam
+145817,closed,2025-05-28T16:21:17Z,2025-05-28T18:00:38Z,2025-05-28T18:00:38Z,core;cla-signed;small-pr;has-tests;code-quality,epenet
+145818,closed,2025-05-28T16:44:43Z,2025-05-28T18:06:25Z,2025-05-28T18:06:25Z,core;cla-signed;small-pr;has-tests;code-quality,epenet
+145820,open,2025-05-28T17:55:42Z,,,core;cla-signed;small-pr;new-feature;has-tests;Quality Scale: No score;Quality Scale: internal;integration: todo;integration: local_todo,karwosts
+145822,closed,2025-05-28T18:33:01Z,2025-05-29T07:35:05Z,2025-05-29T07:35:05Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;bugfix;Quality Scale: platinum;integration: tedee,zweckj
+145823,closed,2025-05-28T18:36:56Z,2025-05-28T18:49:21Z,2025-05-28T18:49:20Z,cla-signed;cherry-picked;small-pr;by-code-owner;bugfix;Quality Scale: silver;integration: immich,mib1185
+145827,closed,2025-05-28T20:25:19Z,2025-05-28T20:38:33Z,2025-05-28T20:38:33Z,cla-signed;by-code-owner;code-quality;integration: airthings;Quality Scale: No score,LaStrada
+145828,closed,2025-05-28T20:38:11Z,2025-05-28T21:17:15Z,2025-05-28T21:17:14Z,cla-signed;cherry-picked;dependency,bramkragten
+145829,open,2025-05-28T21:02:51Z,,,core;cla-signed;small-pr;code-quality,arturpragacz
+145830,closed,2025-05-28T21:17:07Z,2025-05-29T08:28:02Z,2025-05-29T08:28:02Z,cla-signed;cherry-picked;has-tests;by-code-owner;bugfix;Quality Scale: silver;integration: immich,mib1185
+145832,closed,2025-05-28T21:27:57Z,2025-05-28T22:14:38Z,2025-05-28T22:14:38Z,cla-signed;small-pr;code-quality,edenhaus
+145833,open,2025-05-28T21:53:46Z,,,cla-signed;small-pr;integration: eddystone_temperature;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145835,closed,2025-05-28T22:20:37Z,2025-05-29T01:58:29Z,2025-05-29T01:58:29Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score;integration: tessie,Bre77
+145836,closed,2025-05-28T23:31:02Z,2025-05-29T01:43:28Z,2025-05-29T01:43:28Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: aprilaire,chamberlain2007
+145837,closed,2025-05-28T23:43:21Z,2025-05-29T00:38:06Z,2025-05-29T00:38:06Z,core;cla-signed;cherry-picked;small-pr;dependency,bdraco
+145838,closed,2025-05-29T01:35:54Z,2025-05-29T02:08:01Z,2025-05-29T02:08:01Z,core;cla-signed;cherry-picked;small-pr;dependency,bdraco
+145840,closed,2025-05-29T06:05:33Z,2025-05-29T06:45:37Z,2025-05-29T06:45:37Z,cla-signed;small-pr;integration: esphome;has-tests;by-code-owner;code-quality;Quality Scale: platinum,bdraco
+145842,closed,2025-05-29T07:30:15Z,2025-05-29T13:31:51Z,2025-05-29T13:31:51Z,cla-signed;cherry-picked;small-pr;has-tests;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+145843,closed,2025-05-29T08:05:06Z,2025-05-29T17:32:21Z,2025-05-29T17:32:21Z,cla-signed;small-pr;by-code-owner;bugfix;integration: reolink;Quality Scale: platinum,starkillerOG
+145845,closed,2025-05-29T08:48:56Z,2025-05-29T13:30:02Z,2025-05-29T13:30:02Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;Quality Scale: silver;integration: immich,mib1185
+145847,closed,2025-05-29T08:53:55Z,2025-05-29T12:12:51Z,2025-05-29T12:12:51Z,core;cla-signed;cherry-picked;small-pr;integration: homeassistant;has-tests;by-code-owner;integration: sms;deprecation;Quality Scale: No score;Quality Scale: internal,edenhaus
+145848,open,2025-05-29T09:09:08Z,,,new-platform;cla-signed;new-feature;has-tests;by-code-owner;Quality Scale: No score;integration: teslemetry,Bre77
+145850,open,2025-05-29T10:19:15Z,,,cla-signed;small-pr;integration: hddtemp;has-tests;deprecation;Quality Scale: legacy,edenhaus
+145852,open,2025-05-29T10:52:19Z,,,cla-signed;new-feature;by-code-owner;code-quality;quality-scale;Quality Scale: bronze;integration: probe_plus,pantherale0
+145853,closed,2025-05-29T12:40:09Z,2025-05-29T17:40:32Z,,cla-signed;small-pr;integration: gpsd;has-tests;deprecation;Quality Scale: No score,edenhaus
+145854,open,2025-05-29T13:15:13Z,,,cla-signed;new-feature;has-tests;Quality Scale: No score;integration: tesla_fleet,alexw23
+145861,open,2025-05-29T17:52:03Z,,,cla-signed;integration: zha;small-pr;new-feature;Quality Scale: No score,abmantis
+145863,open,2025-05-29T19:08:47Z,,,cla-signed;small-pr;new-feature;has-tests;integration: blueprint;awaiting-frontend;Quality Scale: internal,jpitlor
+145864,open,2025-05-29T20:14:14Z,,,cla-signed;small-pr;new-feature;integration: fibaro;by-code-owner;Quality Scale: No score,rappenze
+145865,open,2025-05-29T20:25:57Z,,,cla-signed;new-feature;integration: synology_srm;config-flow;Quality Scale: legacy,noriega3
+145866,open,2025-05-29T20:28:10Z,,,cla-signed;small-pr;integration: fronius;bugfix;Quality Scale: platinum,Julfried
+145867,open,2025-05-29T21:00:45Z,,,cla-signed;small-pr;has-tests;by-code-owner;bugfix;integration: zwave_js;Quality Scale: No score,MartinHjelmare
+145869,closed,2025-05-29T21:54:25Z,2025-05-30T18:21:51Z,2025-05-30T18:21:51Z,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: tessie;integration: teslemetry;integration: tesla_fleet,Bre77
+145872,open,2025-05-29T22:53:46Z,,,new-platform;cla-signed;new-feature;has-tests;Quality Scale: No score;integration: google_generative_ai_conversation,lanthaler
+145873,closed,2025-05-29T22:54:58Z,2025-05-29T23:40:11Z,2025-05-29T23:40:11Z,cla-signed;cherry-picked;small-pr;dependency;by-code-owner;integration: home_connect;Quality Scale: No score,Diegorro98
+145875,open,2025-05-30T02:05:04Z,,,cla-signed;bugfix;integration: xbox;Quality Scale: No score,cobryan05
+145876,open,2025-05-30T03:50:41Z,,,cla-signed;small-pr;by-code-owner;code-quality;integration: zimi;quality-scale;Quality Scale: bronze,markhannon
+145877,open,2025-05-30T03:52:22Z,,,cla-signed;small-pr;by-code-owner;code-quality;integration: zimi;quality-scale;Quality Scale: bronze,markhannon
+145878,open,2025-05-30T03:53:42Z,,,cla-signed;small-pr;by-code-owner;code-quality;integration: zimi;quality-scale;Quality Scale: bronze,markhannon
+145879,open,2025-05-30T03:54:37Z,,,cla-signed;small-pr;dependency;by-code-owner;code-quality;integration: zimi;quality-scale;Quality Scale: bronze,markhannon
+145880,open,2025-05-30T05:12:45Z,,,cla-signed;small-pr;has-tests;by-code-owner;bugfix;Quality Scale: No score;integration: teslemetry,Bre77
+145889,closed,2025-05-30T11:46:23Z,2025-05-30T18:21:15Z,2025-05-30T18:21:15Z,cla-signed;small-pr;dependency;Quality Scale: No score;integration: iskra,iskrakranj
+145890,open,2025-05-30T12:12:28Z,,,cla-signed;integration: pi_hole;Quality Scale: No score,HarvsG
+145892,closed,2025-05-30T12:27:25Z,2025-05-30T17:35:08Z,2025-05-30T17:35:08Z,cla-signed;small-pr;dependency;Quality Scale: No score;integration: linkplay,silamon
+145893,open,2025-05-30T12:30:40Z,,,core;cla-signed;integration: template;has-tests;by-code-owner;bugfix;Quality Scale: internal,Petro31
+145896,open,2025-05-30T14:46:22Z,,,cla-signed;small-pr;integration: rachio;Quality Scale: No score,brg468
+145897,closed,2025-05-30T14:51:26Z,2025-05-30T17:33:03Z,2025-05-30T17:33:03Z,cla-signed;small-pr;dependency;by-code-owner;bugfix;Quality Scale: bronze;integration: probe_plus,pantherale0
+145899,open,2025-05-30T15:38:17Z,,,cla-signed;integration: command_line;has-tests;by-code-owner;code-quality;Quality Scale: legacy,gjohansson-ST
+145904,open,2025-05-30T17:40:39Z,,,cla-signed;small-pr;integration: nextbus;dependency;by-code-owner;Quality Scale: No score,ViViDboarder
+145908,open,2025-05-30T20:03:05Z,,,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: silver;integration: immich,mib1185
+145909,open,2025-05-30T20:28:09Z,,,core;cla-signed;integration: rest;integration: sql;integration: command_line;integration: scrape;integration: snmp;by-code-owner;code-quality;bugfix;Quality Scale: No score;Quality Scale: legacy,gjohansson-ST
+145910,open,2025-05-30T20:31:10Z,,,cla-signed;small-pr;bugfix;integration: jellyfin;Quality Scale: No score,zweckj
+145911,open,2025-05-30T20:32:02Z,,,cla-signed;integration: here_travel_time;by-code-owner;bugfix;Quality Scale: No score,eifinger
+145913,open,2025-05-30T21:02:35Z,,,cla-signed;integration: roomba;new-feature;Quality Scale: No score,rokam
+145914,open,2025-05-30T21:51:50Z,,,cla-signed;small-pr;has-tests;by-code-owner;code-quality;integration: airthings;Quality Scale: No score,LaStrada
+145916,closed,2025-05-30T22:31:38Z,2025-05-30T22:34:01Z,,cla-needed;small-pr;integration: vicare;Quality Scale: No score,Roguyt
+145918,open,2025-05-31T00:54:12Z,,,cla-signed;small-pr;dependency;by-code-owner;Quality Scale: No score;integration: opower,tronikos
+145919,open,2025-05-31T04:15:31Z,,,core;cla-signed;small-pr;dependency,bdraco

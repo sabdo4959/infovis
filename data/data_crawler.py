@@ -12,8 +12,8 @@ import requests
 
 OWNER = "home-assistant"
 REPO = "core"
-START_PR = 138301
-END_PR = 144308
+START_PR = 144309
+END_PR = 145919
 #END_PR   = 144308           # inclusive
 OUTFILE  = f"home_assistant_prs_{START_PR}_{END_PR}.csv"
 

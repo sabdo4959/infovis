@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>정보시각화 Final 프로젝트</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body { font-family: sans-serif; margin: 0 20px; }
+    h2 { margin-top: 1rem; }
+    .controls { margin: 0.5rem 0 1rem; display: flex; gap: 0.5rem; align-items: center; }
+    .axis path, .axis line { stroke: #999; }
+    .x-axis text { transform: rotate(-40deg); text-anchor: end; }
+    svg { max-width: 100%; }
+  </style>
+</head>
+<body>
+    <h1>정보시각화 Final 프로젝트</h1>
+  <h2>2025 PR Status by Week</h2>
+  <div class="controls">
+    <label>Start: <input type="date" id="start-date"></label>
+    <label>End: <input type="date" id="end-date"></label>
+    <button id="apply">Apply</button>
+  </div>
+
+  <svg id="chart" width="900" height="500"></svg>
+
+  <script src="app.js"></script>
+</body>
+</html>
+<script src=\"app.js\"></script>
