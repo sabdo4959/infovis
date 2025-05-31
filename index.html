@@ -1,30 +1,101 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" />
   <title>정보시각화 Final 프로젝트</title>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <style>
-    body { font-family: sans-serif; margin: 0 20px; }
-    h2 { margin-top: 1rem; }
+    /* --- Global --- */
+    body { font-family: sans-serif; margin: 0 20px 40px; }
+    h2   { margin-top: 1.5rem; }
+    svg  { max-width: 100%; height: auto; }
+
+    /* --- Controls --- */
     .controls { margin: 0.5rem 0 1rem; display: flex; gap: 0.5rem; align-items: center; }
+    .controls input { padding: 2px 6px; }
+
+    /* --- Axis & Legend --- */
     .axis path, .axis line { stroke: #999; }
     .x-axis text { transform: rotate(-40deg); text-anchor: end; }
-    svg { max-width: 100%; }
+    .legend rect { stroke: #ccc; }
+
+    /* --- Tooltip (scatter) --- */
+    .tooltip {
+      position: absolute;
+      background: #fff;
+      border: 1px solid #ccc;
+      padding: 4px 8px;
+      pointer-events: none;
+      font-size: 0.85rem;
+      border-radius: 4px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+      opacity: 0;
+      transition: opacity 0.15s;
+    }
+    .week {
+      border: 2px solid #222;      /* 검은색 테두리 */
+      border-radius: 12px;         /* 모서리 둥글게 */
+      padding: 1.5rem 2rem;        /* 내부 여백 */
+      background: #fff;            /* 배경 흰색(선명하게) */
+    }
+
+    .row-charts {
+      display: flex;
+      padding: 1.5rem 0.5rem;        /* 내부 여백 */
+      background: #fff;            /* 배경 흰색(선명하게) */
+    }
+    #pie-legend {
+      overflow-y: auto;
+      column-count: 3;    /* 2열로 분할 */
+      column-gap: 1.5rem; /* 열 사이 간격(원하는 값으로 조정) */
+    }
+    .chart-box {
+      border-radius: 12px;
+      padding: 1rem 1rem;
+      background: #fff;
+      box-sizing: border-box;
+      min-width: 0;
+      flex: 1 1 0;
+      margin: 0 0.5rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+
   </style>
 </head>
 <body>
-    <h1>정보시각화 Final 프로젝트</h1>
-  <h2>2025 PR Status by Week</h2>
-  <div class="controls">
-    <label>Start: <input type="date" id="start-date"></label>
-    <label>End: <input type="date" id="end-date"></label>
-    <button id="apply">Apply</button>
+  <h1>2025 InfoVis Final Project</h1>
+
+  <div class="week">
+    <div class="controls-period">
+      <label>Start: <input type="date" id="start-date" /></label>
+      <label>End: <input type="date" id="end-date" /></label>
+      <button id="apply" type="button">Apply</button>
+    </div>
+    <h2>Weekly PR Status – Stacked Bar Chart</h2>
+    <svg id="chart" width="1300" height="540"></svg>
   </div>
 
-  <svg id="chart" width="900" height="500"></svg>
+  <div class="week">
+    <div class="controls-week">
+      <label>Week: <input type="week" id="week-select" /></label>
+      <button id="week-apply" type="button">Week Apply</button>
+    </div>
+    <div class="row-charts">
+      <div class="chart-box">
+        <h2>PR Merge Delay - Scatter Plot</h2>
+        <svg id="scatter" width="600" height="540"></svg>
+        <div id="tooltip" class="tooltip"></div>
+      </div>
+      <div class="chart-box">
+        <h2>PR Label Trend - Pie Chart</h2>
+        <svg id="pie" width="600" height="480"></svg>
+        <div id="pie-legend"></div>
+      </div>
+    </div>
+  </div>
 
-  <script src="app.js"></script>
+
+  <script src="app.js"></script>        <!-- stacked bar chart logic -->
+  <script src="app_scatter.js"></script><!-- scatter plot logic -->
 </body>
 </html>
-<script src=\"app.js\"></script>
