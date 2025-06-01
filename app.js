@@ -1,93 +1,22 @@
-// app.js — Weekly Stacked Bar + Open-PR Delay Scatter + Weekly Label Pie
-// ---------------------------------------------------------------------
-// Data file: raw_data.csv
-// HTML elements in index.html:
-//   📊 Stacked Bar Controls:  #start-date, #end-date, #apply
-//   📈 Scatter Controls:      #week-select   (input type="week")
-//   SVG Containers:           #chart  (stacked bar)
-//                             #scatter(scatter)
-//                             #pie    (label pie)
-//   Tooltip div:              #tooltip
-//   Pie legend:               #pie-legend
-// --------------------------------------------------------------------
-
-// --------------------- Config & Globals -------------------------
+//1. stacked bar
+//initialize 
+const barSvg  = d3.select("#stacked-bar");
 const COLOR = { open: "#1f77b4", closed: "#ff7f0e", merged: "#2ca02c" };
-const parseDate = d3.utcParse("%Y-%m-%dT%H:%M:%SZ");
-const fmtWeek   = d3.utcFormat("%G-W%V");     // ISO-year-week, e.g. 2025-W22
-const todayUTC  = new Date();                 // used for delay calc (UTC)
-
-// --------------------- SVG Setup -------------------------------
-const barSvg  = d3.select("#chart");
-const scatSvg = d3.select("#scatter");
-const pieSvg  = d3.select("#pie");
-const tooltip = d3.select("#tooltip");
-tooltip.style("position","absolute").style("opacity",0);
-
-// --- Bar groups
 const barMargin  = {top:40,right:140,bottom:70,left:60},
-      barW = +barSvg.attr("width")  - barMargin.left - barMargin.right,
-      barH = +barSvg.attr("height") - barMargin.top  - barMargin.bottom,
+      barW = barSvg.attr("width")  - barMargin.left - barMargin.right,
+      barH = barSvg.attr("height") - barMargin.top  - barMargin.bottom,
       gBar = barSvg.append("g").attr("transform",`translate(${barMargin.left},${barMargin.top})`);
 
-// --- Scatter groups
-const scatMargin = {top:40,right:20,bottom:60,left:80},
-      scatW = +scatSvg.attr("width")  - scatMargin.left - scatMargin.right,
-      scatH = +scatSvg.attr("height") - scatMargin.top  - scatMargin.bottom,
-      gScat = scatSvg.append("g").attr("transform",`translate(${scatMargin.left},${scatMargin.top})`);
-
-// --- Pie groups
-const pieMargin = {top:30,right:20,bottom:20,left:20},
-      pieW = +pieSvg.attr("width")  - pieMargin.left - pieMargin.right,
-      pieH = +pieSvg.attr("height") - pieMargin.top  - pieMargin.bottom,
-      radius = Math.min(pieW,pieH)/2 - 10,
-      gPie = pieSvg.append("g")
-        .attr("transform",`translate(${pieMargin.left+pieW/2},${pieMargin.top+pieH/2})`);
-const pieLegendDiv = d3.select("#pie-legend");
-const pieColor = d3.scaleOrdinal(d3.schemeTableau10);
-
-// --------------------- Scales & Axes ---------------------------
-// Bar
 const xBar = d3.scaleBand().padding(0.1).range([0, barW]);
 const yBar = d3.scaleLinear().range([barH, 0]);
-const xBarAxisG = gBar.append("g").attr("transform",`translate(0,${barH})`);
+const xBarAxisG = gBar.append("g")
+      .attr("transform",`translate(0,${barH})`);
 const yBarAxisG = gBar.append("g");
 const legendG   = gBar.append("g").attr("transform",`translate(${barW+20},0)`);
 
-// Scatter
-const xScat = d3.scaleBand().domain([0,1,2,3,4,5,6]).range([0, scatW]).padding(0.5);
-const yScat = d3.scaleLinear().range([scatH, 0]);
-const xScatAxisG = gScat.append("g").attr("transform",`translate(0,${scatH})`);
-const yScatAxisG = gScat.append("g");
 
-// ------------------ Data Storage -------------------------------
-let prData = [];                   // raw parsed rows
-const openWeekData = new Map();    // isoWeek -> points[] (scatter)
-let currentWeek = "";              // isoWeek selected for scatter & pie
-
-// ------------------ Utility ------------------------------------
-const delayDays = d => (todayUTC - parseDate(d)) / 86_400_000;
-
-// Aggregate weekly counts for bar chart
-function aggregateWeekly(arr){
-  const rolled = d3.rollups(
-    arr,
-    v => ({
-      open   : v.filter(d=>d.state==="open").length,
-      closed : v.filter(d=>d.state==="closed" && !d.merged_at).length,
-      merged : v.filter(d=>d.state==="merged").length,
-    }),
-    d => +d3.utcWeek.floor(parseDate(d.created_at))
-  );
-  return rolled.map(([ts,c])=>({
-    week   : new Date(+ts),
-    weekStr: fmtWeek(new Date(+ts)),
-    ...c
-  })).sort((a,b)=>a.week-b.week);
-}
-
-// ------------------ Stacked Bar -------------------------------
-function drawBar(){
+// update
+function updateBar(){
   const sDate = new Date(d3.select("#start-date").property("value"));
   const eDate = new Date(d3.select("#end-date").property("value")); eDate.setUTCHours(23,59,59,999);
 
@@ -116,7 +45,10 @@ function drawBar(){
       .attr("y",yBar(0)).attr("height",0)
       .on("mousemove",(e,d)=>{
         const k = e.currentTarget.parentNode.__data__.key;
-        tooltip.html(`${k}: <b>${d[1]-d[0]}</b>`)
+        const total = d3.sum(keys.map(key => d.data[key]));
+        const value = d[1] - d[0];
+        const percent = total ? ((value / total) * 100).toFixed(1) : "0.0";
+        tooltip.html(`${k}: <b>${value}(${percent}%)</b>`)
                .style("left",(e.pageX+10)+"px")
                .style("top",(e.pageY+10)+"px")
                .style("opacity",1);
@@ -147,8 +79,23 @@ function drawBar(){
   legendG.selectAll("text").text(d=>d.charAt(0).toUpperCase()+d.slice(1));
 }
 
-// ------------------ Scatter ------------------------------------
-function drawScatter(){
+
+// 2. scatterplot
+//initialize
+const scatSvg = d3.select("#scatter");
+const scatMargin = {top:40,right:20,bottom:60,left:30},
+      scatW = scatSvg.attr("width")  - scatMargin.left - scatMargin.right,
+      scatH = scatSvg.attr("height") - scatMargin.top  - scatMargin.bottom,
+      gScat = scatSvg.append("g").attr("transform",`translate(${scatMargin.left},${scatMargin.top})`);
+const xScat = d3.scaleBand().domain([0,1,2,3,4,5,6]).range([0, scatW]).padding(0.5);
+const yScat = d3.scaleLinear().range([scatH, 0]);
+const xScatAxisG = gScat.append("g").attr("transform",`translate(0,${scatH})`);
+const yScatAxisG = gScat.append("g");
+
+// Update function for scatterplot
+
+// Scatter 
+function updateScatter(){
   const pts=openWeekData.get(currentWeek)||[];
   yScat.domain([0,d3.max(pts,d=>d.delay)||1]).nice();
 
@@ -172,11 +119,21 @@ function drawScatter(){
   );
 }
 
-// ------------------ Pie Chart ----------------------------------
-function drawPie(){
+//3. pie chart
+//initialize
+const pieSvg  = d3.select("#pie");
+const pieMargin = {top:30,right:20,bottom:20,left:20},
+      pieW = pieSvg.attr("width")  - pieMargin.left - pieMargin.right,
+      pieH = pieSvg.attr("height") - pieMargin.top  - pieMargin.bottom,
+      radius = Math.min(pieW,pieH)/2 - 10,
+      gPie = pieSvg.append("g")
+        .attr("transform",`translate(${pieMargin.left+pieW/2},${pieMargin.top+pieH/2})`);
+const pieLegendDiv = d3.select("#pie-legend");
+const pieColor = d3.scaleOrdinal(d3.schemeTableau10);
+// update
+function updatePie(){
   // 현재 week 에 속한 모든 PR
   const rowsWeek = prData.filter(d=>fmtWeek(d3.utcWeek.floor(parseDate(d.created_at)))===currentWeek);
-
   // label 카운트
   const counts = {};
   rowsWeek.forEach(row=>{
@@ -192,7 +149,9 @@ function drawPie(){
     enter=>enter.append("path").attr("class","slice")
         .attr("stroke","#fff").attr("stroke-width",1)
       .on("mouseenter", (e, d) => {
-        tooltip.html(`${d.data[0]}: <b>${d.data[1]}</b>`)
+        const total = d3.sum(pie, p => p.data[1]);
+        const percent = total ? ((d.data[1] / total) * 100).toFixed(1) : "0.0";
+        tooltip.html(`${d.data[0]}: <b>${d.data[1]}(${percent}%)</b>`)
           .style("left", (e.pageX + 10) + "px")
           .style("top", (e.pageY + 10) + "px")
           .style("opacity", 1);
@@ -207,7 +166,7 @@ function drawPie(){
         })
   );
 
-  // Legend
+  // PieLegend
   pieLegendDiv.html("");
   pieLegendDiv.selectAll("div.item").data(data)
       .enter().append("div").attr("class","item")
@@ -218,11 +177,46 @@ function drawPie(){
       `);
 }
 
-// ------------------ Initialization -----------------------------
-function init(){
-  d3.select("#start-date").property("value","2025-04-01");
-  d3.select("#end-date").property("value","2025-05-31");
-  d3.select("#apply").on("click",drawBar);
+
+//4. 기타 
+// Data Format
+const parseDate = d3.utcParse("%Y-%m-%dT%H:%M:%SZ");
+const fmtWeek   = d3.utcFormat("%G-W%V");     // ISO-year-week, e.g. 2025-W22
+const todayUTC  = new Date();        
+
+//tootltip
+const tooltip = d3.select(".tooltip");
+tooltip.style("position","absolute").style("opacity",0);
+
+// Data Storage 
+let prData = [];                   // raw parsed rows
+const openWeekData = new Map();    // isoWeek -> points[] (scatter)
+let currentWeek = "";              // isoWeek selected for scatter & pie
+
+// Utility
+const delayDays = d => (todayUTC - parseDate(d)) / 86_400_000;
+
+// Aggregate weekly counts for bar chart
+function aggregateWeekly(arr){
+  const rolled = d3.rollups(
+    arr,
+    v => ({
+      open   : v.filter(d=>d.state==="open").length,
+      closed : v.filter(d=>d.state==="closed" && !d.merged_at).length,
+      merged : v.filter(d=>d.state==="merged").length,
+    }),
+    d => +d3.utcWeek.floor(parseDate(d.created_at))
+  );
+  return rolled.map(([ts,c])=>({
+    week   : new Date(+ts),
+    weekStr: fmtWeek(new Date(+ts)),
+    ...c
+  })).sort((a,b)=>a.week-b.week);
+}
+
+
+// 전체 초기화
+function initialize(){
 
   d3.csv("raw_data.csv").then(raw=>{
     prData = raw.map(d=>({
@@ -243,19 +237,29 @@ function init(){
       openWeekData.get(iso).push(pt);
     });
 
-    // week-input 범위 & 기본 값
-    const weekInput=d3.select("#week-select");
-    const weeks=Array.from(openWeekData.keys()).sort();
-    currentWeek=weeks.at(-1);
-    weekInput.attr("min",weeks[0]).attr("max",weeks.at(-1))
-             .property("value",currentWeek)
-             .on("input",function(){currentWeek=this.value; drawScatter(); drawPie();});
+    //stacked bar 초기화
+    d3.select("#start-date").property("value","2025-04-01");
+    d3.select("#end-date").property("value","2025-05-31");
+    d3.select("#apply").on("click",updateBar);
 
-    // 초기 렌더
-    drawBar();
-    drawScatter();
-    drawPie();
+
+    // week-input 범위 & 기본 값
+    const weekInput = d3.select("#week-select");
+    const weeks = Array.from(openWeekData.keys()).sort();
+    currentWeek = weeks.at(-1);
+    weekInput.attr("min", weeks[0]).attr("max", weeks.at(-1))
+             .property("value", currentWeek);
+
+    d3.select("#week-apply").on("click", function() {
+      currentWeek = weekInput.property("value");
+      updateScatter();
+      updatePie();
+    });
+
+    updateBar();
+    updateScatter();
+    updatePie();
   });
 }
 
-init();
+initialize();
